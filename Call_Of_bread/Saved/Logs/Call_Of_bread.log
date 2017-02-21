@@ -1,0 +1,797 @@
+﻿Log file open, 02/21/17 16:59:40
+LogInit:Display: Running engine for game: Call_Of_bread
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1248535063) SRandInit(1248535063).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.521573
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3224400
+LogInit: Engine Version: 4.14.1-3224400+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Dec  7 2016 02:14:32
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.02.21-16.59.41:227][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.21-16.59.41:227][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.02.21-16.59.41:254][  0]LogInit: Computer: DESKTOP-VTD5TTC
+[2017.02.21-16.59.41:254][  0]LogInit: User: Sabrina
+[2017.02.21-16.59.41:254][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.02.21-16.59.41:254][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2017.02.21-16.59.41:254][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.02.21-16.59.41:254][  0]LogMemory: Platform Memory Stats for Windows
+[2017.02.21-16.59.41:254][  0]LogMemory: Process Physical Memory: 263.00 MB used, 263.00 MB peak
+[2017.02.21-16.59.41:254][  0]LogMemory: Process Virtual Memory: 262.42 MB used, 262.42 MB peak
+[2017.02.21-16.59.41:254][  0]LogMemory: Physical Memory: 8049.77 MB used,  8260.33 MB free, 16310.11 MB total
+[2017.02.21-16.59.41:254][  0]LogMemory: Virtual Memory: 674.53 MB used,  8260.33 MB free, 134217728.00 MB total
+[2017.02.21-16.59.41:602][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.02.21-16.59.44:630][  0]LogD3D11RHI: D3D11 adapters:
+[2017.02.21-16.59.45:351][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GPU' (Feature Level 11_0)
+[2017.02.21-16.59.45:351][  0]LogD3D11RHI:       996/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.02.21-16.59.45:392][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.02.21-16.59.45:392][  0]LogD3D11RHI:       128/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.02.21-16.59.45:394][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.02.21-16.59.45:394][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.02.21-16.59.45:394][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.02.21-16.59.45:403][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.02.21-16.59.45:403][  0]LogD3D11RHI:     GPU DeviceId: 0x134b (for the marketing name, search the web for "GPU Device Id")
+[2017.02.21-16.59.45:403][  0]LogWindows: EnumDisplayDevices:
+[2017.02.21-16.59.45:403][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.02.21-16.59.45:403][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.02.21-16.59.45:403][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.02.21-16.59.45:403][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.02.21-16.59.45:403][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GPU
+[2017.02.21-16.59.45:404][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.02.21-16.59.45:404][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.02.21-16.59.45:405][  0]LogRHI: Texture pool is 697 MB (70% of 996 MB)
+[2017.02.21-16.59.45:421][  0]LogD3D11RHI: Async texture creation enabled
+[2017.02.21-16.59.45:468][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.02.21-16.59.45:482][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Intermediate/Shaders/WorkingDirectory/3380/).
+[2017.02.21-16.59.45:482][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Sabrina/AppData/Local/Temp/UnrealShaderWorkingDir/C9A59A0149AC827BAD70E1B8807EF616/'.
+[2017.02.21-16.59.45:483][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.02.21-16.59.48:073][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.02.21-16.59.48:124][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.02.21-16.59.48:174][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.02.21-16.59.48:224][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.02.21-16.59.48:309][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.02.21-16.59.48:358][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.02.21-16.59.48:407][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.02.21-16.59.48:455][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.02.21-16.59.48:497][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.02.21-16.59.48:548][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.02.21-16.59.48:597][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.02.21-16.59.48:646][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.02.21-16.59.48:696][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.02.21-16.59.48:746][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.02.21-16.59.48:796][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.02.21-16.59.48:898][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.02.21-16.59.48:898][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.02.21-16.59.48:931][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.02.21-16.59.49:036][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.02.21-16.59.49:071][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.02.21-16.59.49:119][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.02.21-16.59.49:167][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.02.21-16.59.49:215][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.02.21-16.59.49:300][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.02.21-16.59.49:300][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.02.21-16.59.49:983][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.02.21-16.59.50:169][  0]LogDerivedDataCache: Loaded boot cache 0.19s 50MB C:/Users/Sabrina/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.21-16.59.50:169][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Sabrina/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.02.21-16.59.50:169][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.02.21-16.59.50:169][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.02.21-16.59.50:169][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.02.21-16.59.50:169][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.02.21-16.59.50:195][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.02.21-16.59.50:208][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Sabrina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.02.21-16.59.53:693][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.21-16.59.53:712][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.02.21-16.59.54:024][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.02.21-16.59.54:079][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.02.21-16.59.54:124][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.02.21-16.59.54:124][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.02.21-16.59.54:124][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.02.21-16.59.54:984][  0]LogExec:Warning: Cannot perform text import on property 'EnvironmentCubeMap' here: EnvironmentCubeMap=TextureCube'/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1',PostProcessingSettings=(bOverride_WhiteTemp=True,bOverride_WhiteTint=False,bOverride_ColorSaturation=True,bOverride_ColorContrast=True,bOverride_ColorGamma=True,bOverride_ColorGain=True,bOverride_ColorOffset=True,bOverride_FilmWhitePoint=False,bOverride_FilmSaturation=False,bOverride_FilmChannelMixerRed=False,bOverride_FilmChannelMixerGreen=False,bOverride_FilmChannelMixerBlue=False,bOverride_FilmContrast=False,bOverride_FilmDynamicRange=False,bOverride_FilmHealAmount=False,bOverride_FilmToeAmount=False,bOverride_FilmShadowTint=False,bOverride_FilmShadowTintBlend=False,bOverride_FilmShadowTintAmount=False,bOverride_FilmSlope=True,bOverride_FilmToe=True,bOverride_FilmShoulder=True,bOverride_FilmBlackClip=True,bOverride_FilmWhiteClip=True,bOverride_SceneColorTint=False,bOverride_SceneFringeIntensity=False,bOverride_AmbientCubemapTint=False,bOverride_AmbientCubemapIntensity=False,bOverride_BloomIntensity=True,bOverride_BloomThreshold=False,bOverride_Bloom1Tint=False,bOverride_Bloom1Size=False,bOverride_Bloom2Size=False,bOverride_Bloom2Tint=False,bOverride_Bloom3Tint=False,bOverride_Bloom3Size=False,bOverride_Bloom4Tint=False,bOverride_Bloom4Size=False,bOverride_Bloom5Tint=False,bOverride_Bloom5Size=False,bOverride_Bloom6Tint=False,bOverride_Bloom6Size=False,bOverride_BloomSizeScale=False,bOverride_BloomDirtMaskIntensity=False,bOverride_BloomDirtMaskTint=False,bOverride_BloomDirtMask=False,bOverride_AutoExposureMethod=True,bOverride_AutoExposureLowPercent=False,bOverride_AutoExposureHighPercent=False,bOverride_AutoExposureMinBrightness=True,bOverride_AutoExposureMaxBrightness=True,bOverride_AutoExposureSpeedUp=False,bOverride_AutoExposureSpeedDown=False,bOverride_AutoExposureBias=True,bOverride_HistogramLogMin=True,bOverride_HistogramLogMax=True,bOverride_LensFlareIntensity=False,bOverride_LensFlareTint=False,bOverride_LensFlareTints=False,bOverride_LensFlareBokehSize=False,bOverride_LensFlareBokehShape=False,bOverride_LensFlareThreshold=False,bOverride_VignetteIntensity=True,bOverride_GrainIntensity=False,bOverride_GrainJitter=False,bOverride_AmbientOcclusionIntensity=True,bOverride_AmbientOcclusionStaticFraction=True,bOverride_AmbientOcclusionRadius=True,bOverride_AmbientOcclusionFadeDistance=False,bOverride_AmbientOcclusionFadeRadius=False,bOverride_AmbientOcclusionDistance=False,bOverride_AmbientOcclusionRadiusInWS=False,bOverride_AmbientOcclusionPower=True,bOverride_AmbientOcclusionBias=True,bOverride_AmbientOcclusionQuality=True,bOverride_AmbientOcclusionMipBlend=True,bOverride_AmbientOcclusionMipScale=True,bOverride_AmbientOcclusionMipThreshold=True,bOverride_LPVIntensity=False,bOverride_LPVDirectionalOcclusionIntensity=False,bOverride_LPVDirectionalOcclusionRadius=False,bOverride_LPVDiffuseOcclusionExponent=False,bOverride_LPVSpecularOcclusionExponent=False,bOverride_LPVDiffuseOcclusionIntensity=False,bOverride_LPVSpecularOcclusionIntensity=False,bOverride_LPVSize=False,bOverride_LPVSecondaryOcclusionIntensity=False,bOverride_LPVSecondaryBounceIntensity=False,bOverride_LPVGeometryVolumeBias=False,bOverride_LPVVplInjectionBias=False,bOverride_LPVEmissiveInjectionIntensity=False,bOverride_IndirectLightingColor=False,bOverride_IndirectLightingIntensity=False,bOverride_ColorGradingIntensity=True,bOverride_ColorGradingLUT=True,bOverride_DepthOfFieldFocalDistance=False,bOverride_DepthOfFieldFstop=False,bOverride_DepthOfFieldSensorWidth=False,bOverride_DepthOfFieldDepthBlurRadius=False,bOverride_DepthOfFieldDepthBlurAmount=False,bOverride_DepthOfFieldFocalRegion=False,bOverride_DepthOfFieldNearTransitionRegion=False,bOverride_DepthOfFieldFarTransitionRegion=False,bOverride_DepthOfFieldScale=True,bOverride_DepthOfFieldMaxBokehSize=False,bOverride_DepthOfFieldNearBlurSize=False,bOverride_DepthOfFieldFarBlurSize=False,bOverride_DepthOfFieldMethod=True,bOverride_MobileHQGaussian=False,bOverride_DepthOfFieldBokehShape=False,bOverride_DepthOfFieldOcclusion=False,bOverride_DepthOfFieldColorThreshold=False,bOverride_DepthOfFieldSizeThreshold=False,bOverride_DepthOfFieldSkyFocusDistance=False,bOverride_DepthOfFieldVignetteSize=False,bOverride_MotionBlurAmount=False,bOverride_MotionBlurMax=False,bOverride_MotionBlurPerObjectSize=False,bOverride_ScreenPercentage=False,bOverride_AntiAliasingMethod=False,bOverride_ScreenSpaceReflectionIntensity=True,bOverride_ScreenSpaceReflectionQuality=True,bOverride_ScreenSpaceReflectionMaxRoughness=True,bOverride_ScreenSpaceReflectionRoughnessScale=False,WhiteTemp=6700.000000,WhiteTint=0.000000,ColorSaturation=(X=1.000000,Y=1.000000,Z=1.000000),ColorContrast=(X=1.000000,Y=1.000000,Z=1.000000),ColorGamma=(X=1.000000,Y=1.000000,Z=1.000000),ColorGain=(X=1.000000,Y=1.000000,Z=1.000000),ColorOffset=(X=0.005000,Y=0.005000,Z=0.005000),FilmWhitePoint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),FilmShadowTint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),FilmShadowTintBlend=0.500000,FilmShadowTintAmount=0.000000,FilmSaturation=1.000000,FilmChannelMixerRed=(R=1.000000,G=0.000000,B=0.000000,A=1.000000),FilmChannelMixerGreen=(R=0.000000,G=1.000000,B=0.000000,A=1.000000),FilmChannelMixerBlue=(R=0.000000,G=0.000000,B=1.000000,A=1.000000),FilmContrast=0.030000,FilmToeAmount=1.000000,FilmHealAmount=0.180000,FilmDynamicRange=4.000000,FilmSlope=0.880000,FilmToe=0.550000,FilmShoulder=0.260000,FilmBlackClip=0.000000,FilmWhiteClip=0.040000,SceneColorTint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),SceneFringeIntensity=0.000000,BloomIntensity=1.000000,BloomThreshold=1.000000,BloomSizeScale=4.000000,Bloom1Size=1.000000,Bloom2Size=4.000000,Bloom3Size=16.000000,Bloom4Size=32.000000,Bloom5Size=64.000000,Bloom6Size=64.000000,Bloom1Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom2Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom3Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom4Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom5Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),Bloom6Tint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),BloomDirtMaskIntensity=1.000000,BloomDirtMaskTint=(R=0.500000,G=0.500000,B=0.500000,A=1.000000),BloomDirtMask=None,LPVIntensity=1.000000,LPVVplInjectionBias=0.640000,LPVSize=5312.000000,LPVSecondaryOcclusionIntensity=0.000000,LPVSecondaryBounceIntensity=0.000000,LPVGeometryVolumeBias=0.384000,LPVEmissiveInjectionIntensity=1.000000,LPVDirectionalOcclusionIntensity=0.000000,LPVDirectionalOcclusionRadius=8.000000,LPVDiffuseOcclusionExponent=1.000000,LPVSpecularOcclusionExponent=7.000000,LPVDiffuseOcclusionIntensity=1.000000,LPVSpecularOcclusionIntensity=1.000000,AmbientCubemapTint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),AmbientCubemapIntensity=1.000000,AmbientCubemap=None,AutoExposureMethod=AEM_Histogram,AutoExposureLowPercent=80.000000,AutoExposureHighPercent=98.300003,AutoExposureMinBrightness=1.000000,AutoExposureMaxBrightness=1.000000,AutoExposureSpeedUp=3.000000,AutoExposureSpeedDown=1.000000,AutoExposureBias=0.330000,HistogramLogMin=-8.000000,HistogramLogMax=4.000000,LensFlareIntensity=1.000000,LensFlareTint=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),LensFlareBokehSize=3.000000,LensFlareThreshold=8.000000,LensFlareBokehShape=None,LensFlareTints[0]=(R=1.000000,G=0.800000,B=0.400000,A=0.600000),LensFlareTints[1]=(R=1.000000,G=1.000000,B=0.600000,A=0.530000),LensFlareTints[2]=(R=0.800000,G=0.800000,B=1.000000,A=0.460000),LensFlareTints[3]=(R=0.500000,G=1.000000,B=0.400000,A=0.390000),LensFlareTints[4]=(R=0.500000,G=0.800000,B=1.000000,A=0.310000),LensFlareTints[5]=(R=0.900000,G=1.000000,B=0.800000,A=0.270000),LensFlareTints[6]=(R=1.000000,G=0.800000,B=0.400000,A=0.220000),LensFlareTints[7]=(R=0.900000,G=0.700000,B=0.700000,A=0.150000),VignetteIntensity=0.161468,GrainJitter=0.000000,GrainIntensity=0.000000,AmbientOcclusionIntensity=1.000000,AmbientOcclusionStaticFraction=1.000000,AmbientOcclusionRadius=73.477997,AmbientOcclusionRadiusInWS=False,AmbientOcclusionFadeDistance=8000.000000,AmbientOcclusionFadeRadius=5000.000000,AmbientOcclusionDistance=80.000000,AmbientOcclusionPower=1.200000,AmbientOcclusionBias=3.000000,AmbientOcclusionQuality=100.000000,AmbientOcclusionMipBlend=0.600000,AmbientOcclusionMipScale=1.700000,AmbientOcclusionMipThreshold=0.010000,IndirectLightingColor=(R=1.000000,G=1.000000,B=1.000000,A=1.000000),IndirectLightingIntensity=1.000000,ColorGradingIntensity=0.000000,ColorGradingLUT=Texture2D'/Engine/EditorResources/RGBTable16x1_AssetViewer.RGBTable16x1_AssetViewer',DepthOfFieldMethod=DOFM_BokehDOF,bMobileHQGaussian=False,DepthOfFieldFstop=4.000000,DepthOfFieldSensorWidth=24.576000,DepthOfFieldFocalDistance=1000.000000,DepthOfFieldDepthBlurAmount=1.000000,DepthOfFieldDepthBlurRadius=0.000000,DepthOfFieldFocalRegion=0.000000,DepthOfFieldNearTransitionRegion=300.000000,DepthOfFieldFarTransitionRegion=500.000000,DepthOfFieldScale=0.000000,DepthOfFieldMaxBokehSize=15.000000,DepthOfFieldNearBlurSize=15.000000,DepthOfFieldFarBlurSize=15.000000,DepthOfFieldBokehShape=None,DepthOfFieldOcclusion=0.400000,DepthOfFieldColorThreshold=1.000000,DepthOfFieldSizeThreshold=0.080000,DepthOfFieldSkyFocusDistance=0.000000,DepthOfFieldVignetteSize=200.000000,MotionBlurAmount=0.500000,MotionBlurMax=5.000000,MotionBlurPerObjectSize=0.500000,ScreenPercentage=100.000000,AntiAliasingMethod=AAM_TemporalAA,ScreenSpaceReflectionIntensity=100.000000,ScreenSpaceReflectionQuality=100.000000,ScreenSpaceReflectionMaxRoughness=1.000000,WeightedBlendables=(Array=),Blendables=),bPostProcessingEnabled=True,LightingRigRotation=109.389069,RotationSpeed=2.000000,DirectionalLightRotation=(Pitch=-39.999985,Yaw=-67.500015,Roll=0.000000))
+[2017.02.21-16.59.55:782][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: call_of_bread, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 1183517265
+[2017.02.21-16.59.55:881][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2017.02.21-16.59.55:947][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.036914 seconds
+[2017.02.21-16.59.55:954][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.02.21-16.59.55:954][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.02.21-16.59.55:954][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.02.21-16.59.56:024][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.02.21-16.59.56:969][  0]LogSlate: Using Freetype 2.6.0
+[2017.02.21-16.59.56:984][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.21-16.59.56:984][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.21-17.00.00:611][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.02.21-17.00.00:653][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.02.21-17.00.01:077][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.02.21-17.00.01:530][  0]SourceControl: Info Source control is disabled
+[2017.02.21-17.00.01:562][  0]SourceControl: Info Source control is disabled
+[2017.02.21-17.00.01:619][  0]SourceControl: Info Source control is disabled
+[2017.02.21-17.00.01:668][  0]SourceControl: Info Source control is disabled
+[2017.02.21-17.00.03:226][  0]LogEngine: Initializing Engine...
+[2017.02.21-17.00.03:228][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.02.21-17.00.03:583][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.02.21-17.00.03:621][  0]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.21-17.00.03:637][  0]LogInit: FAudioDevice initialized.
+[2017.02.21-17.00.03:664][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/Sabrina/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.21-17.00.03:672][  0]LogInit: Texture streaming: Enabled
+[2017.02.21-17.00.03:889][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.21-17.00.03:889][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.21-17.00.03:946][  0]LogInit: Transaction tracking system initialized
+[2017.02.21-17.00.04:428][  0]BlueprintLog: New page: Editor Load
+[2017.02.21-17.00.05:916][  0]LocalizationService: Info Localization service is disabled
+[2017.02.21-17.00.06:893][  0]LogConsoleResponse:Display: 
+[2017.02.21-17.00.07:249][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.02.21-17.00.07:249][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/' took 0.02s
+[2017.02.21-17.00.07:249][  0]LogCook:Display: Mobile HDR setting 1
+[2017.02.21-17.00.09:864][  0]SourceControl: Info Source control is disabled
+[2017.02.21-17.00.17:319][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.21-17.00.17:319][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.21-17.00.17:346][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.21-17.00.17:346][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.21-17.00.23:373][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.21-17.00.23:373][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.21-17.00.23:402][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.21-17.00.23:402][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.21-17.00.23:407][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.21-17.00.23:411][  0]LightingResults: New page: Lighting Build
+[2017.02.21-17.00.23:526][  0]MapCheck: New page: Map Check
+[2017.02.21-17.00.23:526][  0]LightingResults: New page: Lighting Build
+[2017.02.21-17.00.24:417][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.02.21-17.00.24:419][  0]LogActorComponent: RegisterComponentWithWorld: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.WorldInfo_0.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.21-17.00.24:651][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.21-17.00.24:656][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.21-17.00.24:735][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 78.639ms to complete.
+[2017.02.21-17.00.24:735][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.331
+[2017.02.21-17.00.24:958][  0]LogStats:Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_5d38_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_4c74_0///####STATCAT_Advanced####
+[2017.02.21-17.00.24:959][  0]LogCollectionManager: Loaded 0 collections in 0.001508 seconds
+[2017.02.21-17.00.25:068][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Collections/' took 0.01s
+[2017.02.21-17.00.25:068][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Developers/Sabrina/Collections/' took 0.01s
+[2017.02.21-17.00.25:068][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Collections/' took 0.01s
+[2017.02.21-17.00.25:068][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.02.21-17.00.25:082][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2190 classes and 428 folders.
+[2017.02.21-17.00.25:129][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.02.21-17.00.25:130][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.02.21-17.00.25:131][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
+[2017.02.21-17.00.25:199][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.02.21-17.00.25:651][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.02.21-17.00.25:720][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.02.21-17.00.26:010][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.02.21-17.00.26:037][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.02.21-17.00.26:144][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0020 seconds. Added 1 classes and 2 folders.
+[2017.02.21-17.00.26:144][  0]LogLoad: (Engine Initialization) Total time: 48.23 seconds
+[2017.02.21-17.00.26:146][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.32 seconds
+[2017.02.21-17.00.26:146][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.02.21-17.00.26:146][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.02.21-17.00.26:169][  0]LogOcInput: OculusInput pre-init called
+[2017.02.21-17.00.26:210][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.02.21-17.00.26:426][  0]LogRenderer: Reallocating scene render targets to support 1152x544 NumSamples 1 (Frame:2).
+[2017.02.21-17.00.26:635][  1]LogAssetRegistry: Asset discovery search completed in 30.7760 seconds
+[2017.02.21-17.00.26:635][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.02.21-17.00.26:635][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
+[2017.02.21-17.01.10:169][484]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.21-17.01.16:072][484]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/chairsCALLOFBREAD.fbx)
+[2017.02.21-17.01.16:124][484]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.02.21-17.01.16:124][484]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2017.02.21-17.01.16:124][484]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.02.21-17.01.16:124][484]LogFbx: ItemName: Model, ItemCount : 2
+[2017.02.21-17.01.16:124][484]LogFbx: ItemName: Material, ItemCount : 4
+[2017.02.21-17.01.16:135][484]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/chairsCALLOFBREAD.fbx
+[2017.02.21-17.01.16:148][484]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.21-17.01.17:862][484]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/chairsCALLOFBREAD.fbx
+[2017.02.21-17.01.17:869][484]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.21-17.01.17:877][484]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material'
+[2017.02.21-17.01.17:877][484]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material'
+[2017.02.21-17.01.17:889][484]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.02.21-17.01.17:930][484]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_001'
+[2017.02.21-17.01.17:930][484]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_001'
+[2017.02.21-17.01.17:936][484]LogMaterial: Missing cached shader map for material Material_001, compiling. 
+[2017.02.21-17.01.17:950][484]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_002'
+[2017.02.21-17.01.17:950][484]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_002'
+[2017.02.21-17.01.17:955][484]LogMaterial: Missing cached shader map for material Material_002, compiling. 
+[2017.02.21-17.01.17:970][484]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_003'
+[2017.02.21-17.01.17:970][484]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_003'
+[2017.02.21-17.01.17:975][484]LogMaterial: Missing cached shader map for material Material_003, compiling. 
+[2017.02.21-17.01.17:995][484]LogFbx:Warning: Triangulating static mesh Cube.005
+[2017.02.21-17.01.18:041][484]LogStaticMesh: Building static mesh chairsCALLOFBREAD...
+[2017.02.21-17.01.18:052][484]LogStaticMesh: Built static mesh [0.01s] /Game/Counter_Modular-Kit/Assets/chairsCALLOFBREAD.chairsCALLOFBREAD
+[2017.02.21-17.01.18:058][484]LogStaticMesh:Warning: chairsCALLOFBREAD has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.02.21-17.01.18:069][484]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.02.21-17.01.18:069][484]FBXImport:Warning: Warning chairsCALLOFBREAD has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.02.21-17.01.39:657][100]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/TableCALLOFBREAD.fbx)
+[2017.02.21-17.01.39:677][100]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.02.21-17.01.39:677][100]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2017.02.21-17.01.39:677][100]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.02.21-17.01.39:677][100]LogFbx: ItemName: Model, ItemCount : 3
+[2017.02.21-17.01.39:682][100]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/TableCALLOFBREAD.fbx
+[2017.02.21-17.01.39:689][100]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.21-17.01.42:580][100]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/TableCALLOFBREAD.fbx
+[2017.02.21-17.01.42:587][100]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.21-17.01.42:589][100]LogFbx:Warning: Triangulating static mesh Cube.001
+[2017.02.21-17.01.42:642][100]LogStaticMesh: Building static mesh TableCALLOFBREAD...
+[2017.02.21-17.01.42:645][100]LogStaticMesh: Built static mesh [0.04s] /Game/Counter_Modular-Kit/Assets/TableCALLOFBREAD.TableCALLOFBREAD
+[2017.02.21-17.01.42:646][100]LogStaticMesh:Warning: TableCALLOFBREAD has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.02.21-17.01.42:653][100]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.02.21-17.01.42:653][100]FBXImport:Warning: Warning TableCALLOFBREAD has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.02.21-17.01.49:394][304]LogActorFactory: Actor Factory created TableCALLOFBREAD
+[2017.02.21-17.01.50:463][347]LogActorFactory: Actor Factory created TableCALLOFBREAD
+[2017.02.21-17.02.21:665][ 42]Cmd: DELETE
+[2017.02.21-17.02.21:665][ 42]Cmd: ACTOR DELETE
+[2017.02.21-17.02.21:681][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.02.21-17.02.21:725][ 42]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2017.02.21-17.02.23:585][110]LogActorFactory: Actor Factory created chairsCALLOFBREAD
+[2017.02.21-17.02.24:278][147]LogActorFactory: Actor Factory created chairsCALLOFBREAD
+[2017.02.21-17.02.29:896][461]Cmd: DELETE
+[2017.02.21-17.02.29:897][461]Cmd: ACTOR DELETE
+[2017.02.21-17.02.29:897][461]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.02.21-17.02.29:933][461]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2017.02.21-17.02.36:120][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:120][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:120][768]LoadErrors:Error: Error /Game/Test-Level : Can't find file for asset. /Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile
+[2017.02.21-17.02.36:120][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Inside_Corner'
+[2017.02.21-17.02.36:121][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Inside_Corner' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:121][768]LoadErrors:Error: Error /Game/Test-Level : Can't find file for asset. /Game/Modular_Room-Kit/Modular_Roof_Inside_Corner
+[2017.02.21-17.02.36:121][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Outside_Corner'
+[2017.02.21-17.02.36:121][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Outside_Corner' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:121][768]LoadErrors:Error: Error /Game/Test-Level : Can't find file for asset. /Game/Modular_Room-Kit/Modular_Roof_Outside_Corner
+[2017.02.21-17.02.36:121][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Seg_Edge'
+[2017.02.21-17.02.36:121][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Seg_Edge' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:122][768]LoadErrors:Error: Error /Game/Test-Level : Can't find file for asset. /Game/Modular_Room-Kit/Modular_Roof_Seg_Edge
+[2017.02.21-17.02.36:122][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Slant_End'
+[2017.02.21-17.02.36:122][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Slant_End' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:122][768]LoadErrors:Error: Error /Game/Test-Level : Can't find file for asset. /Game/Modular_Room-Kit/Modular_Roof_Slant_End
+[2017.02.21-17.02.36:122][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Slant_Sky_Light'
+[2017.02.21-17.02.36:122][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Slant_Sky_Light' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:122][768]LoadErrors:Error: Error /Game/Test-Level : Can't find file for asset. /Game/Modular_Room-Kit/Modular_Roof_Slant_Sky_Light
+[2017.02.21-17.02.36:123][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/lambert1'
+[2017.02.21-17.02.36:123][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/lambert1' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/Modular_Wall_ArchWay.uasset.
+[2017.02.21-17.02.36:123][768]LoadErrors:Error: Error /Game/Modular_Room-Kit/Modular_Wall_ArchWay : Can't find file for asset. /Game/Modular_Room-Kit/lambert1
+[2017.02.21-17.02.36:123][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/lambert1'
+[2017.02.21-17.02.36:123][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/lambert1' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/Modular_Wall_ArchWay.uasset.
+[2017.02.21-17.02.36:123][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Exo_Door'
+[2017.02.21-17.02.36:123][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Exo_Door' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:123][768]LoadErrors:Error: Error /Game/Test-Level : Can't find file for asset. /Game/Modular_Room-Kit/Modular_Wall_Exo_Door
+[2017.02.21-17.02.36:123][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Inside_Corner'
+[2017.02.21-17.02.36:123][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Inside_Corner' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:123][768]LoadErrors:Error: Error /Game/Test-Level : Can't find file for asset. /Game/Modular_Room-Kit/Modular_Wall_Inside_Corner
+[2017.02.21-17.02.36:124][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Pilliar'
+[2017.02.21-17.02.36:124][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Pilliar' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:124][768]LoadErrors:Error: Error /Game/Test-Level : Can't find file for asset. /Game/Modular_Room-Kit/Modular_Wall_Pilliar
+[2017.02.21-17.02.36:124][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Seg'
+[2017.02.21-17.02.36:124][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Seg' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:124][768]LoadErrors:Error: Error /Game/Test-Level : Can't find file for asset. /Game/Modular_Room-Kit/Modular_Wall_Seg
+[2017.02.21-17.02.36:124][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Window'
+[2017.02.21-17.02.36:124][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Window' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:124][768]LoadErrors:Error: Error /Game/Test-Level : Can't find file for asset. /Game/Modular_Room-Kit/Modular_Wall_Window
+[2017.02.21-17.02.36:125][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:125][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:125][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Inside_Corner'
+[2017.02.21-17.02.36:125][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Inside_Corner' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:125][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Outside_Corner'
+[2017.02.21-17.02.36:126][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Outside_Corner' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:126][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Seg_Edge'
+[2017.02.21-17.02.36:126][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Seg_Edge' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:126][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Slant_End'
+[2017.02.21-17.02.36:126][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Slant_End' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:126][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Slant_Sky_Light'
+[2017.02.21-17.02.36:126][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Slant_Sky_Light' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:126][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Exo_Door'
+[2017.02.21-17.02.36:126][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Exo_Door' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:126][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Inside_Corner'
+[2017.02.21-17.02.36:126][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Inside_Corner' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:127][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Pilliar'
+[2017.02.21-17.02.36:127][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Pilliar' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:127][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Seg'
+[2017.02.21-17.02.36:127][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Seg' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:127][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Window'
+[2017.02.21-17.02.36:127][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Window' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.02.21-17.02.36:139][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/lambert1'
+[2017.02.21-17.02.36:140][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/lambert1.lambert1 Referenced by Modular_Wall_ArchWay
+[2017.02.21-17.02.36:140][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/lambert1' while loading NULL.
+[2017.02.21-17.02.36:144][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:145][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile.Modular_Floor_Sqr_Tile Referenced by Modular_Floor_Sqr_Tile10
+[2017.02.21-17.02.36:145][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading NULL.
+[2017.02.21-17.02.36:145][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:145][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile.Modular_Floor_Sqr_Tile Referenced by Modular_Floor_Sqr_Tile11
+[2017.02.21-17.02.36:145][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading NULL.
+[2017.02.21-17.02.36:145][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:145][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile.Modular_Floor_Sqr_Tile Referenced by Modular_Floor_Sqr_Tile12
+[2017.02.21-17.02.36:146][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading NULL.
+[2017.02.21-17.02.36:146][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:146][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile.Modular_Floor_Sqr_Tile Referenced by Modular_Floor_Sqr_Tile13
+[2017.02.21-17.02.36:146][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading NULL.
+[2017.02.21-17.02.36:146][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:146][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile.Modular_Floor_Sqr_Tile Referenced by Modular_Floor_Sqr_Tile2
+[2017.02.21-17.02.36:146][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading NULL.
+[2017.02.21-17.02.36:146][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:146][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile.Modular_Floor_Sqr_Tile Referenced by Modular_Floor_Sqr_Tile3
+[2017.02.21-17.02.36:146][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading NULL.
+[2017.02.21-17.02.36:146][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:146][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile.Modular_Floor_Sqr_Tile Referenced by Modular_Floor_Sqr_Tile4
+[2017.02.21-17.02.36:147][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading NULL.
+[2017.02.21-17.02.36:147][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:147][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile.Modular_Floor_Sqr_Tile Referenced by Modular_Floor_Sqr_Tile5
+[2017.02.21-17.02.36:147][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading NULL.
+[2017.02.21-17.02.36:147][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:147][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile.Modular_Floor_Sqr_Tile Referenced by Modular_Floor_Sqr_Tile6
+[2017.02.21-17.02.36:147][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading NULL.
+[2017.02.21-17.02.36:147][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:147][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile.Modular_Floor_Sqr_Tile Referenced by Modular_Floor_Sqr_Tile7
+[2017.02.21-17.02.36:147][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading NULL.
+[2017.02.21-17.02.36:148][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:148][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile.Modular_Floor_Sqr_Tile Referenced by Modular_Floor_Sqr_Tile8
+[2017.02.21-17.02.36:148][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading NULL.
+[2017.02.21-17.02.36:148][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:148][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile.Modular_Floor_Sqr_Tile Referenced by Modular_Floor_Sqr_Tile9
+[2017.02.21-17.02.36:148][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading NULL.
+[2017.02.21-17.02.36:148][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile'
+[2017.02.21-17.02.36:148][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile.Modular_Floor_Sqr_Tile Referenced by Modular_Floor_Sqr_Tile_74
+[2017.02.21-17.02.36:148][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Floor_Sqr_Tile' while loading NULL.
+[2017.02.21-17.02.36:148][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Inside_Corner'
+[2017.02.21-17.02.36:148][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Roof_Inside_Corner.Modular_Roof_Inside_Corner Referenced by Modular_Roof_Inside_Corner_165
+[2017.02.21-17.02.36:149][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Inside_Corner' while loading NULL.
+[2017.02.21-17.02.36:149][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Outside_Corner'
+[2017.02.21-17.02.36:149][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Roof_Outside_Corner.Modular_Roof_Outside_Corner Referenced by Modular_Roof_Outside_Corner2
+[2017.02.21-17.02.36:149][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Outside_Corner' while loading NULL.
+[2017.02.21-17.02.36:149][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Outside_Corner'
+[2017.02.21-17.02.36:149][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Roof_Outside_Corner.Modular_Roof_Outside_Corner Referenced by Modular_Roof_Outside_Corner3
+[2017.02.21-17.02.36:149][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Outside_Corner' while loading NULL.
+[2017.02.21-17.02.36:149][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Outside_Corner'
+[2017.02.21-17.02.36:149][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Roof_Outside_Corner.Modular_Roof_Outside_Corner Referenced by Modular_Roof_Outside_Corner_143
+[2017.02.21-17.02.36:149][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Outside_Corner' while loading NULL.
+[2017.02.21-17.02.36:150][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Seg_Edge'
+[2017.02.21-17.02.36:150][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Roof_Seg_Edge.Modular_Roof_Seg_Edge Referenced by Modular_Roof_Seg_Edge2_152
+[2017.02.21-17.02.36:150][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Seg_Edge' while loading NULL.
+[2017.02.21-17.02.36:150][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Seg_Edge'
+[2017.02.21-17.02.36:150][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Roof_Seg_Edge.Modular_Roof_Seg_Edge Referenced by Modular_Roof_Seg_Edge3
+[2017.02.21-17.02.36:150][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Seg_Edge' while loading NULL.
+[2017.02.21-17.02.36:150][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Seg_Edge'
+[2017.02.21-17.02.36:150][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Roof_Seg_Edge.Modular_Roof_Seg_Edge Referenced by Modular_Roof_Seg_Edge4
+[2017.02.21-17.02.36:150][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Seg_Edge' while loading NULL.
+[2017.02.21-17.02.36:150][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Seg_Edge'
+[2017.02.21-17.02.36:150][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Roof_Seg_Edge.Modular_Roof_Seg_Edge Referenced by Modular_Roof_Seg_Edge_139
+[2017.02.21-17.02.36:151][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Seg_Edge' while loading NULL.
+[2017.02.21-17.02.36:151][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Slant_End'
+[2017.02.21-17.02.36:151][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Roof_Slant_End.Modular_Roof_Slant_End Referenced by Modular_Roof_Slant_End2
+[2017.02.21-17.02.36:151][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Slant_End' while loading NULL.
+[2017.02.21-17.02.36:151][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Slant_End'
+[2017.02.21-17.02.36:151][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Roof_Slant_End.Modular_Roof_Slant_End Referenced by Modular_Roof_Slant_End_135
+[2017.02.21-17.02.36:151][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Slant_End' while loading NULL.
+[2017.02.21-17.02.36:151][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Slant_Sky_Light'
+[2017.02.21-17.02.36:151][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Roof_Slant_Sky_Light.Modular_Roof_Slant_Sky_Light Referenced by Modular_Roof_Slant_Sky_Light2
+[2017.02.21-17.02.36:151][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Slant_Sky_Light' while loading NULL.
+[2017.02.21-17.02.36:152][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Roof_Slant_Sky_Light'
+[2017.02.21-17.02.36:152][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Roof_Slant_Sky_Light.Modular_Roof_Slant_Sky_Light Referenced by Modular_Roof_Slant_Sky_Light_131
+[2017.02.21-17.02.36:152][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Roof_Slant_Sky_Light' while loading NULL.
+[2017.02.21-17.02.36:152][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Exo_Door'
+[2017.02.21-17.02.36:152][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Exo_Door.Modular_Wall_Exo_Door Referenced by Modular_Wall_Exo_Door_123
+[2017.02.21-17.02.36:152][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Exo_Door' while loading NULL.
+[2017.02.21-17.02.36:152][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Inside_Corner'
+[2017.02.21-17.02.36:152][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Inside_Corner.Modular_Wall_Inside_Corner Referenced by Modular_Wall_Inside_Corner2
+[2017.02.21-17.02.36:152][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Inside_Corner' while loading NULL.
+[2017.02.21-17.02.36:153][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Inside_Corner'
+[2017.02.21-17.02.36:153][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Inside_Corner.Modular_Wall_Inside_Corner Referenced by Modular_Wall_Inside_Corner3_116
+[2017.02.21-17.02.36:153][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Inside_Corner' while loading NULL.
+[2017.02.21-17.02.36:153][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Inside_Corner'
+[2017.02.21-17.02.36:153][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Inside_Corner.Modular_Wall_Inside_Corner Referenced by Modular_Wall_Inside_Corner4_127
+[2017.02.21-17.02.36:153][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Inside_Corner' while loading NULL.
+[2017.02.21-17.02.36:153][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Inside_Corner'
+[2017.02.21-17.02.36:153][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Inside_Corner.Modular_Wall_Inside_Corner Referenced by Modular_Wall_Inside_Corner5
+[2017.02.21-17.02.36:153][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Inside_Corner' while loading NULL.
+[2017.02.21-17.02.36:154][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Inside_Corner'
+[2017.02.21-17.02.36:154][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Inside_Corner.Modular_Wall_Inside_Corner Referenced by Modular_Wall_Inside_Corner_95
+[2017.02.21-17.02.36:154][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Inside_Corner' while loading NULL.
+[2017.02.21-17.02.36:154][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Pilliar'
+[2017.02.21-17.02.36:154][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Pilliar.Modular_Wall_Pilliar Referenced by Modular_Wall_Pilliar_150
+[2017.02.21-17.02.36:154][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Pilliar' while loading NULL.
+[2017.02.21-17.02.36:154][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Seg'
+[2017.02.21-17.02.36:154][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Seg.Modular_Wall_Seg Referenced by Modular_Wall_Seg10
+[2017.02.21-17.02.36:154][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Seg' while loading NULL.
+[2017.02.21-17.02.36:155][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Seg'
+[2017.02.21-17.02.36:155][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Seg.Modular_Wall_Seg Referenced by Modular_Wall_Seg11
+[2017.02.21-17.02.36:155][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Seg' while loading NULL.
+[2017.02.21-17.02.36:155][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Seg'
+[2017.02.21-17.02.36:155][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Seg.Modular_Wall_Seg Referenced by Modular_Wall_Seg12
+[2017.02.21-17.02.36:155][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Seg' while loading NULL.
+[2017.02.21-17.02.36:155][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Seg'
+[2017.02.21-17.02.36:156][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Seg.Modular_Wall_Seg Referenced by Modular_Wall_Seg13
+[2017.02.21-17.02.36:156][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Seg' while loading NULL.
+[2017.02.21-17.02.36:156][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Seg'
+[2017.02.21-17.02.36:156][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Seg.Modular_Wall_Seg Referenced by Modular_Wall_Seg2
+[2017.02.21-17.02.36:156][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Seg' while loading NULL.
+[2017.02.21-17.02.36:156][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Seg'
+[2017.02.21-17.02.36:156][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Seg.Modular_Wall_Seg Referenced by Modular_Wall_Seg3_104
+[2017.02.21-17.02.36:156][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Seg' while loading NULL.
+[2017.02.21-17.02.36:157][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Seg'
+[2017.02.21-17.02.36:157][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Seg.Modular_Wall_Seg Referenced by Modular_Wall_Seg4
+[2017.02.21-17.02.36:157][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Seg' while loading NULL.
+[2017.02.21-17.02.36:157][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Seg'
+[2017.02.21-17.02.36:157][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Seg.Modular_Wall_Seg Referenced by Modular_Wall_Seg5_106
+[2017.02.21-17.02.36:157][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Seg' while loading NULL.
+[2017.02.21-17.02.36:157][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Seg'
+[2017.02.21-17.02.36:157][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Seg.Modular_Wall_Seg Referenced by Modular_Wall_Seg7
+[2017.02.21-17.02.36:158][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Seg' while loading NULL.
+[2017.02.21-17.02.36:158][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Seg'
+[2017.02.21-17.02.36:158][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Seg.Modular_Wall_Seg Referenced by Modular_Wall_Seg8
+[2017.02.21-17.02.36:158][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Seg' while loading NULL.
+[2017.02.21-17.02.36:158][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Seg'
+[2017.02.21-17.02.36:158][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Seg.Modular_Wall_Seg Referenced by Modular_Wall_Seg9
+[2017.02.21-17.02.36:158][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Seg' while loading NULL.
+[2017.02.21-17.02.36:159][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Seg'
+[2017.02.21-17.02.36:159][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Seg.Modular_Wall_Seg Referenced by Modular_Wall_Seg_92
+[2017.02.21-17.02.36:159][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Seg' while loading NULL.
+[2017.02.21-17.02.36:159][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Window'
+[2017.02.21-17.02.36:159][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Window.Modular_Wall_Window Referenced by Modular_Wall_Window2
+[2017.02.21-17.02.36:159][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Window' while loading NULL.
+[2017.02.21-17.02.36:159][768]LogLinker:Warning: Can't find file '/Game/Modular_Room-Kit/Modular_Wall_Window'
+[2017.02.21-17.02.36:159][768]LoadErrors: Info Failed to load /Game/Modular_Room-Kit/Modular_Wall_Window.Modular_Wall_Window Referenced by Modular_Wall_Window_88
+[2017.02.21-17.02.36:159][768]LogLinker:Warning: Can't find file for asset '/Game/Modular_Room-Kit/Modular_Wall_Window' while loading NULL.
+[2017.02.21-17.02.36:250][768]LogTexture:Display: Building textures: Counter_Set_normal (BC5)
+[2017.02.21-17.02.36:967][768]LogTexture:Display: Building textures: Counter_Set_reflection (AutoDXT)
+[2017.02.21-17.02.38:216][768]LogTexture:Display: Building textures: GodrayTexture (AutoDXT)
+[2017.02.21-17.02.38:353][768]LogMaterial: Missing cached shader map for material God_Rays_Mtrl, compiling. 
+[2017.02.21-17.02.38:371][768]LogStaticMesh: Building static mesh God-Ray-Mesh...
+[2017.02.21-17.02.38:372][768]LogStaticMesh: Built static mesh [0.00s] /Game/God-Rays_System/God-Ray-Mesh.God-Ray-Mesh
+[2017.02.21-17.02.38:373][768]LogStaticMesh: Building static mesh Counter_Sink_Seg...
+[2017.02.21-17.02.38:585][768]LogStaticMesh: Built static mesh [0.21s] /Game/Counter_Modular-Kit/Counter_Sink_Seg.Counter_Sink_Seg
+[2017.02.21-17.02.38:813][768]LogTexture:Display: Building textures: Counter_Set_albedo (AutoDXT)
+[2017.02.21-17.02.41:050][768]LogTexture:Display: Building textures: IS_MAsks (AutoDXT)
+[2017.02.21-17.02.41:449][768]LogMaterial: Missing cached shader map for material Counter-mtrl, compiling. 
+[2017.02.21-17.02.41:496][768]LogStaticMesh: Building static mesh Counter-Seg...
+[2017.02.21-17.02.41:501][768]LogStaticMesh: Built static mesh [0.01s] /Game/Counter_Modular-Kit/Counter-Seg.Counter-Seg
+[2017.02.21-17.02.41:502][768]LogStaticMesh: Building static mesh Counter_90_Outside...
+[2017.02.21-17.02.41:524][768]LogStaticMesh: Built static mesh [0.02s] /Game/Counter_Modular-Kit/Counter_90_Outside.Counter_90_Outside
+[2017.02.21-17.02.41:528][768]LogStaticMesh: Building static mesh Counter_90_Corner_inside...
+[2017.02.21-17.02.41:532][768]LogStaticMesh: Built static mesh [0.00s] /Game/Counter_Modular-Kit/Counter_90_Corner_inside.Counter_90_Corner_inside
+[2017.02.21-17.02.41:533][768]LogStaticMesh: Building static mesh Counter-Drawers...
+[2017.02.21-17.02.41:578][768]LogStaticMesh: Built static mesh [0.04s] /Game/Counter_Modular-Kit/Counter-Drawers.Counter-Drawers
+[2017.02.21-17.02.41:582][768]LogStaticMesh: Building static mesh Modular_Wall_ArchWay...
+[2017.02.21-17.02.41:679][768]LogStaticMesh: Built static mesh [0.10s] /Game/Modular_Room-Kit/Modular_Wall_ArchWay.Modular_Wall_ArchWay
+[2017.02.21-17.02.41:687][768]LogStaticMesh: Building static mesh Counter-Carboard...
+[2017.02.21-17.02.41:713][768]LogStaticMesh: Built static mesh [0.03s] /Game/Counter_Modular-Kit/Counter-Carboard.Counter-Carboard
+[2017.02.21-17.02.41:728][768]LogAIModule: Creating AISystem for world test-Level
+[2017.02.21-17.02.41:729][768]LogActorComponent: RegisterComponentWithWorld: (/Game/Test-Level.test-Level:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.21-17.02.45:267][768]LogSavePackage: Save=30.31ms
+[2017.02.21-17.02.45:267][768]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/chairsCALLOFBREAD567F609F4B6D77500A0542886F684C57.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/chairsCALLOFBREAD.uasset'
+[2017.02.21-17.02.45:274][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/chairsCALLOFBREAD.uasset
+[2017.02.21-17.02.45:381][768]LogSavePackage: Save=17.38ms
+[2017.02.21-17.02.45:381][768]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/MaterialDC8B3E8641B5EA4E1E3CA2AF047BACBB.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/Material.uasset'
+[2017.02.21-17.02.45:384][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/Material.uasset
+[2017.02.21-17.02.45:478][768]LogSavePackage: Save=15.35ms
+[2017.02.21-17.02.45:478][768]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_001C379E3D1480E2F250D638E86CCF71DE0.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/Material_001.uasset'
+[2017.02.21-17.02.45:481][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/Material_001.uasset
+[2017.02.21-17.02.45:519][768]LogSavePackage: Save=12.99ms
+[2017.02.21-17.02.45:520][768]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_0024213823A463C23FB40855C8298A8E8CE.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/Material_002.uasset'
+[2017.02.21-17.02.45:522][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/Material_002.uasset
+[2017.02.21-17.02.45:560][768]LogSavePackage: Save=13.22ms
+[2017.02.21-17.02.45:560][768]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_003D9EC5D0D4B8DEA457BC1B18D0A23641F.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/Material_003.uasset'
+[2017.02.21-17.02.45:564][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/Material_003.uasset
+[2017.02.21-17.02.45:637][768]LogSavePackage: Save=47.46ms
+[2017.02.21-17.02.45:637][768]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/TableCALLOFBREADFE38B3CF4BA8B1F97AA6008D56BA2729.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/TableCALLOFBREAD.uasset'
+[2017.02.21-17.02.45:640][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/TableCALLOFBREAD.uasset
+[2017.02.21-17.02.46:364][768]LogSavePackage: Save=644.74ms
+[2017.02.21-17.02.46:364][768]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/ThirdPersonExampleMapE75F322141D749DBA494C9B7266CFED3.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.02.21-17.02.46:369][768]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.02.21-17.02.46:428][768]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.788
+[2017.02.21-17.02.46:432][768]Cmd: MAP LOAD FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.21-17.02.46:432][768]LightingResults: New page: Lighting Build
+[2017.02.21-17.02.46:433][768]LoadErrors: New page: Loading map: Test-Level.umap
+[2017.02.21-17.02.46:437][768]MapCheck: New page: Map Check
+[2017.02.21-17.02.46:437][768]LightingResults: New page: Lighting Build
+[2017.02.21-17.02.46:521][768]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.21-17.02.46:539][768]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.21-17.02.46:580][768]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 41.174ms to complete.
+[2017.02.21-17.02.46:580][768]LogFileHelpers: Loading map 'Test-Level' took 0.152
+[2017.02.21-17.02.59:658][406]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2017.02.21-17.03.00:154][428]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.02.21-17.03.00:548][448]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.02.21-17.03.00:818][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Modular_Wall_ArchWay)
+[2017.02.21-17.03.01:173][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Modular_Wall_ArchWay)
+[2017.02.21-17.03.10:175][915]LogActorFactory: Actor Factory created chairsCALLOFBREAD
+[2017.02.21-17.03.11:004][959]LogActorFactory: Actor Factory created chairsCALLOFBREAD
+[2017.02.21-17.03.20:098][438]Cmd: TRANSACTION UNDO
+[2017.02.21-17.03.20:098][438]LogEditorTransaction: Undo Scale Actors
+[2017.02.21-17.03.20:704][469]Cmd: TRANSACTION UNDO
+[2017.02.21-17.03.20:704][469]LogEditorTransaction: Undo Scale Actors
+[2017.02.21-17.03.21:314][502]Cmd: TRANSACTION UNDO
+[2017.02.21-17.03.21:314][502]LogEditorTransaction: Undo Create Actors
+[2017.02.21-17.11.58:810][675]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/TableCALLOFBREAD.fbx)
+[2017.02.21-17.11.58:815][675]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.02.21-17.11.58:816][675]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2017.02.21-17.11.58:816][675]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.02.21-17.11.58:816][675]LogFbx: ItemName: Model, ItemCount : 3
+[2017.02.21-17.11.58:821][675]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/TableCALLOFBREAD.fbx
+[2017.02.21-17.11.58:827][675]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.21-17.12.01:068][675]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/TableCALLOFBREAD.fbx
+[2017.02.21-17.12.01:075][675]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.21-17.12.01:078][675]LogFbx:Warning: Triangulating static mesh Cube.001
+[2017.02.21-17.12.01:099][675]LogStaticMesh: Building static mesh TableCALLOFBREAD...
+[2017.02.21-17.12.01:102][675]LogStaticMesh: Built static mesh [0.00s] /Game/Counter_Modular-Kit/Assets/TableCALLOFBREAD.TableCALLOFBREAD
+[2017.02.21-17.12.01:103][675]LogStaticMesh:Warning: TableCALLOFBREAD has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.02.21-17.12.01:108][675]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.02.21-17.12.01:108][675]FBXImport:Warning: Warning TableCALLOFBREAD has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.02.21-17.12.06:328][890]LogActorFactory: Actor Factory created TableCALLOFBREAD
+[2017.02.21-17.12.07:097][932]LogActorFactory: Actor Factory created TableCALLOFBREAD
+[2017.02.21-17.13.26:031][141]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.02.21-17.13.58:248][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.02.21-17.13.58:448][846]LogSavePackage: Save=164.34ms
+[2017.02.21-17.13.58:449][846]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level9717E4E1487FD3DA9DFD6B86731CB436.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.02.21-17.13.58:453][846]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.02.21-17.16.31:965][960]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/TableCALLOFBREAD.fbx)
+[2017.02.21-17.16.31:972][960]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.02.21-17.16.31:972][960]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2017.02.21-17.16.31:973][960]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.02.21-17.16.31:973][960]LogFbx: ItemName: Model, ItemCount : 3
+[2017.02.21-17.16.31:978][960]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/TableCALLOFBREAD.fbx
+[2017.02.21-17.16.31:986][960]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.21-17.16.33:331][960]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/TableCALLOFBREAD.fbx
+[2017.02.21-17.16.33:339][960]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.21-17.16.33:341][960]LogFbx:Warning: Triangulating static mesh Cube.001
+[2017.02.21-17.16.33:395][960]LogStaticMesh: Building static mesh TableCALLOFBREAD...
+[2017.02.21-17.16.33:399][960]LogStaticMesh: Built static mesh [0.04s] /Game/Counter_Modular-Kit/Assets/TableCALLOFBREAD.TableCALLOFBREAD
+[2017.02.21-17.16.33:400][960]LogStaticMesh:Warning: TableCALLOFBREAD has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.02.21-17.16.33:404][960]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.02.21-17.16.33:404][960]FBXImport:Warning: Warning TableCALLOFBREAD has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.02.21-17.16.38:457][174]LogActorFactory: Actor Factory created TableCALLOFBREAD
+[2017.02.21-17.16.40:485][284]LogActorFactory: Actor Factory created TableCALLOFBREAD
+[2017.02.21-17.16.44:625][498]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.02.21-17.16.44:729][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TableCALLOFBREAD2)
+[2017.02.21-17.17.13:837][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.02.21-17.17.14:023][ 55]LogSavePackage: Save=164.29ms
+[2017.02.21-17.17.14:023][ 55]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-LevelFA1EC4D54C63C7298413CCBFADB1B99F.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.02.21-17.17.14:027][ 55]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.02.21-17.17.14:049][ 55]LogFileHelpers: Saving map 'Test-Level' took 0.260
+[2017.02.21-17.17.14:096][ 55]LogSavePackage: Save=14.39ms
+[2017.02.21-17.17.14:096][ 55]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/TableCALLOFBREADF34E6FDE495A02494CCE859C3863E750.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/TableCALLOFBREAD.uasset'
+[2017.02.21-17.17.14:099][ 55]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/TableCALLOFBREAD.uasset
+[2017.02.21-17.17.17:440][232]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.02.21-17.17.23:478][562]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.02.21-17.17.23:497][562]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.02.21-17.19.46:106][956]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/chairsCALLOFBREAD.fbx)
+[2017.02.21-17.19.46:112][956]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.02.21-17.19.46:112][956]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2017.02.21-17.19.46:112][956]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.02.21-17.19.46:112][956]LogFbx: ItemName: Model, ItemCount : 2
+[2017.02.21-17.19.46:112][956]LogFbx: ItemName: Material, ItemCount : 4
+[2017.02.21-17.19.46:118][956]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/chairsCALLOFBREAD.fbx
+[2017.02.21-17.19.46:125][956]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.21-17.19.47:368][956]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/chairsCALLOFBREAD.fbx
+[2017.02.21-17.19.47:375][956]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.21-17.19.47:377][956]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material'
+[2017.02.21-17.19.47:377][956]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material'
+[2017.02.21-17.19.47:381][956]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.02.21-17.19.47:395][956]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_001'
+[2017.02.21-17.19.47:395][956]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_001'
+[2017.02.21-17.19.47:432][956]LogMaterial: Missing cached shader map for material Material_001, compiling. 
+[2017.02.21-17.19.47:453][956]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_002'
+[2017.02.21-17.19.47:453][956]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_002'
+[2017.02.21-17.19.47:458][956]LogMaterial: Missing cached shader map for material Material_002, compiling. 
+[2017.02.21-17.19.47:479][956]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_003'
+[2017.02.21-17.19.47:479][956]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_003'
+[2017.02.21-17.19.47:484][956]LogMaterial: Missing cached shader map for material Material_003, compiling. 
+[2017.02.21-17.19.47:502][956]LogFbx:Warning: Triangulating static mesh Cube.005
+[2017.02.21-17.19.47:536][956]LogStaticMesh: Building static mesh chairsCALLOFBREAD...
+[2017.02.21-17.19.47:541][956]LogStaticMesh: Built static mesh [0.01s] /Game/Counter_Modular-Kit/Assets/chairsCALLOFBREAD.chairsCALLOFBREAD
+[2017.02.21-17.19.47:543][956]LogStaticMesh:Warning: chairsCALLOFBREAD has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.02.21-17.19.47:548][956]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.02.21-17.19.47:548][956]FBXImport:Warning: Warning chairsCALLOFBREAD has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.02.21-17.19.55:803][273]LogActorFactory: Actor Factory created chairsCALLOFBREAD
+[2017.02.21-17.19.56:750][326]LogActorFactory: Actor Factory created chairsCALLOFBREAD
+[2017.02.21-17.19.57:305][355]LogActorFactory: Actor Factory created chairsCALLOFBREAD
+[2017.02.21-17.20.50:971][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TableCALLOFBREAD2)
+[2017.02.21-17.21.03:587][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chairsCALLOFBREAD)
+[2017.02.21-17.21.04:005][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chairsCALLOFBREAD)
+[2017.02.21-17.21.04:735][923]Cmd: DELETE
+[2017.02.21-17.21.04:735][923]Cmd: ACTOR DELETE
+[2017.02.21-17.21.04:736][923]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.02.21-17.21.04:773][923]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2017.02.21-17.23.14:274][824]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/chairsCALLOFBREAD.fbx)
+[2017.02.21-17.23.14:280][824]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.02.21-17.23.14:280][824]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2017.02.21-17.23.14:280][824]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.02.21-17.23.14:280][824]LogFbx: ItemName: Model, ItemCount : 2
+[2017.02.21-17.23.14:280][824]LogFbx: ItemName: Material, ItemCount : 4
+[2017.02.21-17.23.14:285][824]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/chairsCALLOFBREAD.fbx
+[2017.02.21-17.23.14:292][824]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.21-17.23.15:430][824]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/chairsCALLOFBREAD.fbx
+[2017.02.21-17.23.15:438][824]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.21-17.23.15:441][824]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material'
+[2017.02.21-17.23.15:441][824]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material'
+[2017.02.21-17.23.15:477][824]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.02.21-17.23.15:491][824]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_001'
+[2017.02.21-17.23.15:491][824]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_001'
+[2017.02.21-17.23.15:495][824]LogMaterial: Missing cached shader map for material Material_001, compiling. 
+[2017.02.21-17.23.15:514][824]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_002'
+[2017.02.21-17.23.15:514][824]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_002'
+[2017.02.21-17.23.15:519][824]LogMaterial: Missing cached shader map for material Material_002, compiling. 
+[2017.02.21-17.23.15:541][824]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_003'
+[2017.02.21-17.23.15:541][824]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_003'
+[2017.02.21-17.23.15:546][824]LogMaterial: Missing cached shader map for material Material_003, compiling. 
+[2017.02.21-17.23.15:567][824]LogFbx:Warning: Triangulating static mesh Cube.005
+[2017.02.21-17.23.15:601][824]LogStaticMesh: Building static mesh chairsCALLOFBREAD...
+[2017.02.21-17.23.15:607][824]LogStaticMesh: Built static mesh [0.01s] /Game/Counter_Modular-Kit/Assets/chairsCALLOFBREAD.chairsCALLOFBREAD
+[2017.02.21-17.23.15:608][824]LogStaticMesh:Warning: chairsCALLOFBREAD has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.02.21-17.23.15:613][824]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.02.21-17.23.15:614][824]FBXImport:Warning: Warning chairsCALLOFBREAD has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.02.21-17.23.20:100][993]LogActorFactory: Actor Factory created chairsCALLOFBREAD
+[2017.02.21-17.23.22:202][107]LogActorFactory: Actor Factory created chairsCALLOFBREAD
+[2017.02.21-17.23.37:145][890]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.02.21-17.23.38:358][951]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (chairsCALLOFBREAD)
+[2017.02.21-17.23.39:587][ 17]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.02.21-17.23.40:383][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chairsCALLOFBREAD)
+[2017.02.21-17.24.17:745][ 43]Cmd: DELETE
+[2017.02.21-17.24.17:745][ 43]Cmd: ACTOR DELETE
+[2017.02.21-17.24.17:746][ 43]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.02.21-17.24.17:784][ 43]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2017.02.21-17.27.03:514][740]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/chairsCALLOFBREAD.fbx)
+[2017.02.21-17.27.03:519][740]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.02.21-17.27.03:519][740]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2017.02.21-17.27.03:519][740]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.02.21-17.27.03:519][740]LogFbx: ItemName: Model, ItemCount : 2
+[2017.02.21-17.27.03:519][740]LogFbx: ItemName: Material, ItemCount : 4
+[2017.02.21-17.27.03:524][740]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/chairsCALLOFBREAD.fbx
+[2017.02.21-17.27.03:531][740]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.21-17.27.09:506][740]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/chairsCALLOFBREAD.fbx
+[2017.02.21-17.27.09:513][740]LogFbx: FBX Scene Loaded Succesfully
+[2017.02.21-17.27.09:516][740]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material'
+[2017.02.21-17.27.09:516][740]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material'
+[2017.02.21-17.27.09:552][740]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2017.02.21-17.27.09:565][740]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_001'
+[2017.02.21-17.27.09:565][740]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_001'
+[2017.02.21-17.27.09:570][740]LogMaterial: Missing cached shader map for material Material_001, compiling. 
+[2017.02.21-17.27.09:585][740]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_002'
+[2017.02.21-17.27.09:586][740]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_002'
+[2017.02.21-17.27.09:592][740]LogMaterial: Missing cached shader map for material Material_002, compiling. 
+[2017.02.21-17.27.09:613][740]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_003'
+[2017.02.21-17.27.09:613][740]LogLinker: Can't find file '/Game/Counter_Modular-Kit/Assets/Material_003'
+[2017.02.21-17.27.09:618][740]LogMaterial: Missing cached shader map for material Material_003, compiling. 
+[2017.02.21-17.27.09:639][740]LogFbx:Warning: Triangulating static mesh Cube.005
+[2017.02.21-17.27.09:671][740]LogStaticMesh: Building static mesh chairsCALLOFBREAD...
+[2017.02.21-17.27.09:677][740]LogStaticMesh: Built static mesh [0.01s] /Game/Counter_Modular-Kit/Assets/chairsCALLOFBREAD.chairsCALLOFBREAD
+[2017.02.21-17.27.09:679][740]LogStaticMesh:Warning: chairsCALLOFBREAD has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.02.21-17.27.09:684][740]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.02.21-17.27.09:684][740]FBXImport:Warning: Warning chairsCALLOFBREAD has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.02.21-17.27.17:836][ 52]LogActorFactory: Actor Factory created chairsCALLOFBREAD
+[2017.02.21-17.27.19:771][157]LogActorFactory: Actor Factory created chairsCALLOFBREAD
+[2017.02.21-17.27.56:771][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.02.21-17.27.56:977][103]LogSavePackage: Save=179.04ms
+[2017.02.21-17.27.56:977][103]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-LevelA8475B4B47A15B303FF72980B1914210.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.02.21-17.27.56:980][103]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.02.21-17.27.57:004][103]LogFileHelpers: Saving map 'Test-Level' took 0.280
+[2017.02.21-17.27.57:118][103]LogSavePackage: Save=14.37ms
+[2017.02.21-17.27.57:118][103]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_003642FCF0A4CC33B647469C8AD6A4FF04A.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/Material_003.uasset'
+[2017.02.21-17.27.57:122][103]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/Material_003.uasset
+[2017.02.21-17.27.57:233][103]LogSavePackage: Save=14.67ms
+[2017.02.21-17.27.57:233][103]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/chairsCALLOFBREADBF9C602A4208EE2D8753DA9264894359.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/chairsCALLOFBREAD.uasset'
+[2017.02.21-17.27.57:236][103]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Counter_Modular-Kit/Assets/chairsCALLOFBREAD.uasset
