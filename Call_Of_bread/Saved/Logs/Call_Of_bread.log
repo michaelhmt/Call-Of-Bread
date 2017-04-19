@@ -1336,3 +1336,32 @@ LogInit: Object subsystem initialized
 [2017.04.19-14.56.03:142][ 37]LogSavePackage: Save=1365.23ms
 [2017.04.19-14.56.03:142][ 37]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltDataD05B7BFE43C6CDF3F77F62BD8BD6044B.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
 [2017.04.19-14.56.03:146][ 37]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.19-15.04.40:576][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Modular_Wall_Window4)
+[2017.04.19-15.04.47:907][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (curtains5)
+[2017.04.19-15.04.50:774][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Modular_Wall_Seg13)
+[2017.04.19-15.05.26:071][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.19-15.05.26:502][960]LogSavePackage: Save=384.91ms
+[2017.04.19-15.05.26:502][960]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level9E1E265B4726C7A0F8334395FFB70FB2.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.19-15.05.26:505][960]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.19-15.05.26:537][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.19-15.05.27:993][960]LogSavePackage: Save=1433.80ms
+[2017.04.19-15.05.27:993][960]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltData76FFD98F4739BFDB66A03BBF21B645B4.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.19-15.05.27:996][960]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.19-15.06.24:625][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.19-15.06.25:054][594]LogSavePackage: Save=394.72ms
+[2017.04.19-15.06.25:054][594]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-LevelA69C0B71467103B8F79B929C76430024.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.19-15.06.25:056][594]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.19-15.06.25:085][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.19-15.06.26:434][594]LogSavePackage: Save=1345.43ms
+[2017.04.19-15.06.26:434][594]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltData2AC94F914F656D904729CF8B8DA88940.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.19-15.06.26:437][594]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.19-15.07.32:017][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.19-15.07.32:437][482]LogSavePackage: Save=383.82ms
+[2017.04.19-15.07.32:437][482]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-LevelFB11DE2C454307B9B736C7967281FCF1.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.19-15.07.32:439][482]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.19-15.07.32:473][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.19-15.07.33:896][482]LogSavePackage: Save=1419.65ms
+[2017.04.19-15.07.33:896][482]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltDataAEB6F5D646E1CB8AEC95D58546E7FDBB.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.19-15.07.33:900][482]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.19-15.17.32:179][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Test-Level' took 0.036
+[2017.04.19-15.17.32:182][529]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Kitchencounterclutter/MaterialsTextures/sheerfabric] ([1] browsable assets)...
