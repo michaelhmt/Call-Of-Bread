@@ -407,3 +407,1056 @@ LogInit: Object subsystem initialized
 [2017.04.21-11.38.46:921][722]LogSavePackage: Save=12.88ms
 [2017.04.21-11.38.46:921][722]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/knifeC9DC306B41A30C61A0FE9BBA5245D0FC.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Kitchencounterclutter/knife.uasset'
 [2017.04.21-11.38.46:925][722]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Kitchencounterclutter/knife.uasset
+[2017.04.21-11.40.09:407][714]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\bookshelf.fbx)
+[2017.04.21-11.40.09:429][714]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.04.21-11.40.09:429][714]LogFbx: ItemName: NodeAttribute, ItemCount : 4
+[2017.04.21-11.40.09:429][714]LogFbx: ItemName: Geometry, ItemCount : 2
+[2017.04.21-11.40.09:429][714]LogFbx: ItemName: Model, ItemCount : 6
+[2017.04.21-11.40.09:429][714]LogFbx: ItemName: Material, ItemCount : 37
+[2017.04.21-11.40.09:434][714]LogFbx: Loading FBX Scene from C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\bookshelf.fbx
+[2017.04.21-11.40.09:477][714]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.21-11.40.11:181][714]LogFbx: Loading FBX Scene from C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\bookshelf.fbx
+[2017.04.21-11.40.11:192][714]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.21-11.40.11:195][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/shelf'
+[2017.04.21-11.40.11:195][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/shelf'
+[2017.04.21-11.40.11:202][714]LogMaterial: Missing cached shader map for material shelf, compiling. 
+[2017.04.21-11.40.11:224][714]LogFbx:Warning: Triangulating static mesh Plane
+[2017.04.21-11.40.11:227][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_031'
+[2017.04.21-11.40.11:227][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_031'
+[2017.04.21-11.40.11:237][714]LogMaterial: Missing cached shader map for material Material_031, compiling. 
+[2017.04.21-11.40.11:264][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_032'
+[2017.04.21-11.40.11:265][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_032'
+[2017.04.21-11.40.11:275][714]LogMaterial: Missing cached shader map for material Material_032, compiling. 
+[2017.04.21-11.40.11:295][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_001'
+[2017.04.21-11.40.11:295][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_001'
+[2017.04.21-11.40.11:308][714]LogMaterial: Missing cached shader map for material Material_001, compiling. 
+[2017.04.21-11.40.11:328][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_002'
+[2017.04.21-11.40.11:329][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_002'
+[2017.04.21-11.40.11:340][714]LogMaterial: Missing cached shader map for material Material_002, compiling. 
+[2017.04.21-11.40.11:362][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_003'
+[2017.04.21-11.40.11:362][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_003'
+[2017.04.21-11.40.11:374][714]LogMaterial: Missing cached shader map for material Material_003, compiling. 
+[2017.04.21-11.40.11:404][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_004'
+[2017.04.21-11.40.11:404][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_004'
+[2017.04.21-11.40.11:409][714]LogMaterial: Missing cached shader map for material Material_004, compiling. 
+[2017.04.21-11.40.11:428][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_005'
+[2017.04.21-11.40.11:428][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_005'
+[2017.04.21-11.40.11:438][714]LogMaterial: Missing cached shader map for material Material_005, compiling. 
+[2017.04.21-11.40.11:458][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_006'
+[2017.04.21-11.40.11:459][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_006'
+[2017.04.21-11.40.11:500][714]LogMaterial: Missing cached shader map for material Material_006, compiling. 
+[2017.04.21-11.40.11:520][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_007'
+[2017.04.21-11.40.11:520][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_007'
+[2017.04.21-11.40.11:532][714]LogMaterial: Missing cached shader map for material Material_007, compiling. 
+[2017.04.21-11.40.11:552][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_008'
+[2017.04.21-11.40.11:552][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_008'
+[2017.04.21-11.40.11:563][714]LogMaterial: Missing cached shader map for material Material_008, compiling. 
+[2017.04.21-11.40.11:584][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_009'
+[2017.04.21-11.40.11:585][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_009'
+[2017.04.21-11.40.11:595][714]LogMaterial: Missing cached shader map for material Material_009, compiling. 
+[2017.04.21-11.40.11:625][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_010'
+[2017.04.21-11.40.11:626][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_010'
+[2017.04.21-11.40.11:631][714]LogMaterial: Missing cached shader map for material Material_010, compiling. 
+[2017.04.21-11.40.11:656][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_011'
+[2017.04.21-11.40.11:656][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_011'
+[2017.04.21-11.40.11:666][714]LogMaterial: Missing cached shader map for material Material_011, compiling. 
+[2017.04.21-11.40.11:687][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_012'
+[2017.04.21-11.40.11:687][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_012'
+[2017.04.21-11.40.11:698][714]LogMaterial: Missing cached shader map for material Material_012, compiling. 
+[2017.04.21-11.40.11:720][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_013'
+[2017.04.21-11.40.11:720][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_013'
+[2017.04.21-11.40.11:732][714]LogMaterial: Missing cached shader map for material Material_013, compiling. 
+[2017.04.21-11.40.11:751][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_014'
+[2017.04.21-11.40.11:752][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_014'
+[2017.04.21-11.40.11:762][714]LogMaterial: Missing cached shader map for material Material_014, compiling. 
+[2017.04.21-11.40.11:782][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_015'
+[2017.04.21-11.40.11:782][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_015'
+[2017.04.21-11.40.11:791][714]LogMaterial: Missing cached shader map for material Material_015, compiling. 
+[2017.04.21-11.40.11:811][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_016'
+[2017.04.21-11.40.11:812][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_016'
+[2017.04.21-11.40.11:823][714]LogMaterial: Missing cached shader map for material Material_016, compiling. 
+[2017.04.21-11.40.11:853][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_017'
+[2017.04.21-11.40.11:853][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_017'
+[2017.04.21-11.40.11:859][714]LogMaterial: Missing cached shader map for material Material_017, compiling. 
+[2017.04.21-11.40.11:879][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_018'
+[2017.04.21-11.40.11:879][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_018'
+[2017.04.21-11.40.11:890][714]LogMaterial: Missing cached shader map for material Material_018, compiling. 
+[2017.04.21-11.40.11:911][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_019'
+[2017.04.21-11.40.11:912][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_019'
+[2017.04.21-11.40.11:921][714]LogMaterial: Missing cached shader map for material Material_019, compiling. 
+[2017.04.21-11.40.11:945][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_020'
+[2017.04.21-11.40.11:946][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_020'
+[2017.04.21-11.40.11:972][714]LogMaterial: Missing cached shader map for material Material_020, compiling. 
+[2017.04.21-11.40.12:002][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_021'
+[2017.04.21-11.40.12:002][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_021'
+[2017.04.21-11.40.12:013][714]LogMaterial: Missing cached shader map for material Material_021, compiling. 
+[2017.04.21-11.40.12:035][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_022'
+[2017.04.21-11.40.12:035][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_022'
+[2017.04.21-11.40.12:047][714]LogMaterial: Missing cached shader map for material Material_022, compiling. 
+[2017.04.21-11.40.12:084][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_023'
+[2017.04.21-11.40.12:084][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_023'
+[2017.04.21-11.40.12:098][714]LogMaterial: Missing cached shader map for material Material_023, compiling. 
+[2017.04.21-11.40.12:120][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_024'
+[2017.04.21-11.40.12:120][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_024'
+[2017.04.21-11.40.12:132][714]LogMaterial: Missing cached shader map for material Material_024, compiling. 
+[2017.04.21-11.40.12:153][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_025'
+[2017.04.21-11.40.12:153][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_025'
+[2017.04.21-11.40.12:164][714]LogMaterial: Missing cached shader map for material Material_025, compiling. 
+[2017.04.21-11.40.12:186][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_026'
+[2017.04.21-11.40.12:187][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_026'
+[2017.04.21-11.40.12:197][714]LogMaterial: Missing cached shader map for material Material_026, compiling. 
+[2017.04.21-11.40.12:235][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_027'
+[2017.04.21-11.40.12:235][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_027'
+[2017.04.21-11.40.12:243][714]LogMaterial: Missing cached shader map for material Material_027, compiling. 
+[2017.04.21-11.40.12:266][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_028'
+[2017.04.21-11.40.12:266][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_028'
+[2017.04.21-11.40.12:278][714]LogMaterial: Missing cached shader map for material Material_028, compiling. 
+[2017.04.21-11.40.12:310][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_029'
+[2017.04.21-11.40.12:310][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_029'
+[2017.04.21-11.40.12:316][714]LogMaterial: Missing cached shader map for material Material_029, compiling. 
+[2017.04.21-11.40.12:338][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_030'
+[2017.04.21-11.40.12:339][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_030'
+[2017.04.21-11.40.12:351][714]LogMaterial: Missing cached shader map for material Material_030, compiling. 
+[2017.04.21-11.40.12:374][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_033'
+[2017.04.21-11.40.12:374][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_033'
+[2017.04.21-11.40.12:385][714]LogMaterial: Missing cached shader map for material Material_033, compiling. 
+[2017.04.21-11.40.12:408][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_034'
+[2017.04.21-11.40.12:408][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_034'
+[2017.04.21-11.40.12:420][714]LogMaterial: Missing cached shader map for material Material_034, compiling. 
+[2017.04.21-11.40.12:442][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_035'
+[2017.04.21-11.40.12:442][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_035'
+[2017.04.21-11.40.12:454][714]LogMaterial: Missing cached shader map for material Material_035, compiling. 
+[2017.04.21-11.40.12:479][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_036'
+[2017.04.21-11.40.12:479][714]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_036'
+[2017.04.21-11.40.12:488][714]LogMaterial: Missing cached shader map for material Material_036, compiling. 
+[2017.04.21-11.40.12:510][714]LogFbx:Warning: Triangulating static mesh Cube.015
+[2017.04.21-11.40.12:632][714]LogStaticMesh: Building static mesh bookshelf...
+[2017.04.21-11.40.12:946][714]LogStaticMesh: Built static mesh [0.34s] /Game/Modular_Room-Kit/bookshelf.bookshelf
+[2017.04.21-11.40.12:978][714]LogStaticMesh:Warning: bookshelf has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.04.21-11.40.12:985][714]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.04.21-11.40.12:985][714]FBXImport:Warning: Warning bookshelf has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.04.21-11.41.33:859][515]LogActorFactory: Actor Factory created FuitBowl
+[2017.04.21-11.41.36:324][653]LogActorFactory: Actor Factory created FuitBowl
+[2017.04.21-11.45.18:005][161]LogSavePackage: Save=185.29ms
+[2017.04.21-11.45.18:005][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_Auto11989AA5D44DD76B2449970AAFD6FC29B.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Test-Level_Auto1.umap'
+[2017.04.21-11.45.18:008][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Test-Level_Auto1.umap
+[2017.04.21-11.45.18:011][161]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Test-Level' took 0.266
+[2017.04.21-11.45.18:011][161]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.266
+[2017.04.21-11.45.18:013][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/shelf] ([1] browsable assets)...
+[2017.04.21-11.45.18:148][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/shelf.shelf]
+[2017.04.21-11.45.18:148][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/shelf]
+[2017.04.21-11.45.18:210][161]LogSavePackage: Save=60.84ms
+[2017.04.21-11.45.18:211][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/shelf_Auto18EB6BA234F5FE2F42F2712987F49A7FE.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/shelf_Auto1.uasset'
+[2017.04.21-11.45.18:214][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/shelf_Auto1.uasset
+[2017.04.21-11.45.18:215][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/bookshelf] ([1] browsable assets)...
+[2017.04.21-11.45.18:264][161]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Modular_Room-Kit/bookshelf.bookshelf]
+[2017.04.21-11.45.18:264][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/bookshelf]
+[2017.04.21-11.45.18:285][161]LogSavePackage: Save=18.82ms
+[2017.04.21-11.45.18:285][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/bookshelf_Auto16AF93C8C4971C0230DE12EB6E0DD0509.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/bookshelf_Auto1.uasset'
+[2017.04.21-11.45.18:286][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/bookshelf_Auto1.uasset
+[2017.04.21-11.45.18:286][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_031] ([1] browsable assets)...
+[2017.04.21-11.45.18:311][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_031.Material_031]
+[2017.04.21-11.45.18:311][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_031]
+[2017.04.21-11.45.18:331][161]LogSavePackage: Save=18.99ms
+[2017.04.21-11.45.18:332][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_031_Auto145BC81744A055E443A9CFEAB845D9721.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_031_Auto1.uasset'
+[2017.04.21-11.45.18:333][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_031_Auto1.uasset
+[2017.04.21-11.45.18:333][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_032] ([1] browsable assets)...
+[2017.04.21-11.45.18:359][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_032.Material_032]
+[2017.04.21-11.45.18:359][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_032]
+[2017.04.21-11.45.18:378][161]LogSavePackage: Save=17.73ms
+[2017.04.21-11.45.18:378][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_032_Auto15449E48F48DD81AE2374D5B6C48F70B9.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_032_Auto1.uasset'
+[2017.04.21-11.45.18:379][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_032_Auto1.uasset
+[2017.04.21-11.45.18:380][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_001] ([1] browsable assets)...
+[2017.04.21-11.45.18:404][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_001.Material_001]
+[2017.04.21-11.45.18:404][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_001]
+[2017.04.21-11.45.18:425][161]LogSavePackage: Save=19.18ms
+[2017.04.21-11.45.18:425][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_001_Auto132B82E52421246B692398C89E4F8EF82.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_001_Auto1.uasset'
+[2017.04.21-11.45.18:426][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_001_Auto1.uasset
+[2017.04.21-11.45.18:427][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_002] ([1] browsable assets)...
+[2017.04.21-11.45.18:451][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_002.Material_002]
+[2017.04.21-11.45.18:451][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_002]
+[2017.04.21-11.45.18:501][161]LogSavePackage: Save=16.17ms
+[2017.04.21-11.45.18:501][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_002_Auto1C21EBD554594DDD7B81C00B400FCC4D7.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_002_Auto1.uasset'
+[2017.04.21-11.45.18:502][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_002_Auto1.uasset
+[2017.04.21-11.45.18:503][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_003] ([1] browsable assets)...
+[2017.04.21-11.45.18:523][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_003.Material_003]
+[2017.04.21-11.45.18:523][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_003]
+[2017.04.21-11.45.18:540][161]LogSavePackage: Save=15.19ms
+[2017.04.21-11.45.18:540][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_003_Auto199FB8D9A40282E9F7989AD9EC01985B5.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_003_Auto1.uasset'
+[2017.04.21-11.45.18:541][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_003_Auto1.uasset
+[2017.04.21-11.45.18:542][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_004] ([1] browsable assets)...
+[2017.04.21-11.45.18:563][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_004.Material_004]
+[2017.04.21-11.45.18:563][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_004]
+[2017.04.21-11.45.18:580][161]LogSavePackage: Save=16.04ms
+[2017.04.21-11.45.18:581][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_004_Auto11A7410D74E8A4FDA453BC0A560B18D2D.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_004_Auto1.uasset'
+[2017.04.21-11.45.18:582][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_004_Auto1.uasset
+[2017.04.21-11.45.18:582][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_005] ([1] browsable assets)...
+[2017.04.21-11.45.18:606][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_005.Material_005]
+[2017.04.21-11.45.18:606][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_005]
+[2017.04.21-11.45.18:629][161]LogSavePackage: Save=19.55ms
+[2017.04.21-11.45.18:629][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_005_Auto1C5B5F0704E54BBC9ED7383B755729939.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_005_Auto1.uasset'
+[2017.04.21-11.45.18:630][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_005_Auto1.uasset
+[2017.04.21-11.45.18:631][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_006] ([1] browsable assets)...
+[2017.04.21-11.45.18:658][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_006.Material_006]
+[2017.04.21-11.45.18:658][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_006]
+[2017.04.21-11.45.18:676][161]LogSavePackage: Save=16.69ms
+[2017.04.21-11.45.18:676][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_006_Auto1719B252D41D9D96BA1C8BE9361935730.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_006_Auto1.uasset'
+[2017.04.21-11.45.18:678][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_006_Auto1.uasset
+[2017.04.21-11.45.18:678][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_007] ([1] browsable assets)...
+[2017.04.21-11.45.18:700][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_007.Material_007]
+[2017.04.21-11.45.18:700][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_007]
+[2017.04.21-11.45.18:721][161]LogSavePackage: Save=18.51ms
+[2017.04.21-11.45.18:721][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_007_Auto15C4439F54AE82C2401453C9565414231.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_007_Auto1.uasset'
+[2017.04.21-11.45.18:722][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_007_Auto1.uasset
+[2017.04.21-11.45.18:723][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_008] ([1] browsable assets)...
+[2017.04.21-11.45.18:746][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_008.Material_008]
+[2017.04.21-11.45.18:746][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_008]
+[2017.04.21-11.45.18:764][161]LogSavePackage: Save=17.13ms
+[2017.04.21-11.45.18:765][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_008_Auto1A52198A647FF221A6BEE0B86BA7DD234.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_008_Auto1.uasset'
+[2017.04.21-11.45.18:766][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_008_Auto1.uasset
+[2017.04.21-11.45.18:766][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_009] ([1] browsable assets)...
+[2017.04.21-11.45.18:789][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_009.Material_009]
+[2017.04.21-11.45.18:789][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_009]
+[2017.04.21-11.45.18:809][161]LogSavePackage: Save=16.96ms
+[2017.04.21-11.45.18:809][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_009_Auto1BF418D254AAB65E68B0F53919172DAB2.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_009_Auto1.uasset'
+[2017.04.21-11.45.18:811][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_009_Auto1.uasset
+[2017.04.21-11.45.18:812][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_010] ([1] browsable assets)...
+[2017.04.21-11.45.18:837][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_010.Material_010]
+[2017.04.21-11.45.18:837][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_010]
+[2017.04.21-11.45.18:873][161]LogSavePackage: Save=20.64ms
+[2017.04.21-11.45.18:873][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_010_Auto198AB8E8F4B725902F0DCAD8CB5B8B173.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_010_Auto1.uasset'
+[2017.04.21-11.45.18:874][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_010_Auto1.uasset
+[2017.04.21-11.45.18:874][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_011] ([1] browsable assets)...
+[2017.04.21-11.45.18:897][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_011.Material_011]
+[2017.04.21-11.45.18:897][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_011]
+[2017.04.21-11.45.18:916][161]LogSavePackage: Save=17.16ms
+[2017.04.21-11.45.18:916][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_011_Auto1557BA1984A407CCF5EB68E8596A7D517.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_011_Auto1.uasset'
+[2017.04.21-11.45.18:917][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_011_Auto1.uasset
+[2017.04.21-11.45.18:918][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_012] ([1] browsable assets)...
+[2017.04.21-11.45.18:940][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_012.Material_012]
+[2017.04.21-11.45.18:940][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_012]
+[2017.04.21-11.45.18:961][161]LogSavePackage: Save=17.95ms
+[2017.04.21-11.45.18:961][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_012_Auto1EE40F359483B4BCC1F939A80409CF112.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_012_Auto1.uasset'
+[2017.04.21-11.45.18:962][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_012_Auto1.uasset
+[2017.04.21-11.45.18:963][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_013] ([1] browsable assets)...
+[2017.04.21-11.45.18:985][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_013.Material_013]
+[2017.04.21-11.45.18:985][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_013]
+[2017.04.21-11.45.19:005][161]LogSavePackage: Save=17.50ms
+[2017.04.21-11.45.19:005][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_013_Auto11C948C054608DE0715D872A740DC0DDD.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_013_Auto1.uasset'
+[2017.04.21-11.45.19:006][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_013_Auto1.uasset
+[2017.04.21-11.45.19:007][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_014] ([1] browsable assets)...
+[2017.04.21-11.45.19:030][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_014.Material_014]
+[2017.04.21-11.45.19:030][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_014]
+[2017.04.21-11.45.19:047][161]LogSavePackage: Save=15.84ms
+[2017.04.21-11.45.19:047][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_014_Auto134DDF551491D5BE3360FB19328225B72.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_014_Auto1.uasset'
+[2017.04.21-11.45.19:048][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_014_Auto1.uasset
+[2017.04.21-11.45.19:049][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_015] ([1] browsable assets)...
+[2017.04.21-11.45.19:068][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_015.Material_015]
+[2017.04.21-11.45.19:068][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_015]
+[2017.04.21-11.45.19:084][161]LogSavePackage: Save=13.90ms
+[2017.04.21-11.45.19:084][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_015_Auto127EA5D144D07092E8CFDADBC52BA2057.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_015_Auto1.uasset'
+[2017.04.21-11.45.19:085][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_015_Auto1.uasset
+[2017.04.21-11.45.19:086][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_016] ([1] browsable assets)...
+[2017.04.21-11.45.19:108][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_016.Material_016]
+[2017.04.21-11.45.19:108][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_016]
+[2017.04.21-11.45.19:126][161]LogSavePackage: Save=16.29ms
+[2017.04.21-11.45.19:126][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_016_Auto1808D72974AF425C994176DB09FD9928E.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_016_Auto1.uasset'
+[2017.04.21-11.45.19:127][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_016_Auto1.uasset
+[2017.04.21-11.45.19:128][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_017] ([1] browsable assets)...
+[2017.04.21-11.45.19:148][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_017.Material_017]
+[2017.04.21-11.45.19:148][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_017]
+[2017.04.21-11.45.19:167][161]LogSavePackage: Save=16.65ms
+[2017.04.21-11.45.19:167][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_017_Auto1D54BAA58436A19872E6213A388648C68.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_017_Auto1.uasset'
+[2017.04.21-11.45.19:168][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_017_Auto1.uasset
+[2017.04.21-11.45.19:168][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_018] ([1] browsable assets)...
+[2017.04.21-11.45.19:191][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_018.Material_018]
+[2017.04.21-11.45.19:191][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_018]
+[2017.04.21-11.45.19:212][161]LogSavePackage: Save=18.67ms
+[2017.04.21-11.45.19:212][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_018_Auto131BB08714D925D961FF884BCE8A59DE8.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_018_Auto1.uasset'
+[2017.04.21-11.45.19:213][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_018_Auto1.uasset
+[2017.04.21-11.45.19:214][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_019] ([1] browsable assets)...
+[2017.04.21-11.45.19:238][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_019.Material_019]
+[2017.04.21-11.45.19:238][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_019]
+[2017.04.21-11.45.19:260][161]LogSavePackage: Save=20.07ms
+[2017.04.21-11.45.19:260][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_019_Auto1372E9527417F6677912D139BDB90622B.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_019_Auto1.uasset'
+[2017.04.21-11.45.19:261][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_019_Auto1.uasset
+[2017.04.21-11.45.19:262][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_020] ([1] browsable assets)...
+[2017.04.21-11.45.19:284][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_020.Material_020]
+[2017.04.21-11.45.19:284][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_020]
+[2017.04.21-11.45.19:300][161]LogSavePackage: Save=15.45ms
+[2017.04.21-11.45.19:300][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_020_Auto10B2D40E54F2E8373CC9E9EA70A807FCD.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_020_Auto1.uasset'
+[2017.04.21-11.45.19:301][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_020_Auto1.uasset
+[2017.04.21-11.45.19:302][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_021] ([1] browsable assets)...
+[2017.04.21-11.45.19:321][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_021.Material_021]
+[2017.04.21-11.45.19:321][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_021]
+[2017.04.21-11.45.19:337][161]LogSavePackage: Save=13.90ms
+[2017.04.21-11.45.19:337][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_021_Auto190AD44544F6A8A40459B6FBFEA2E274C.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_021_Auto1.uasset'
+[2017.04.21-11.45.19:338][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_021_Auto1.uasset
+[2017.04.21-11.45.19:339][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_022] ([1] browsable assets)...
+[2017.04.21-11.45.19:358][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_022.Material_022]
+[2017.04.21-11.45.19:358][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_022]
+[2017.04.21-11.45.19:376][161]LogSavePackage: Save=15.26ms
+[2017.04.21-11.45.19:376][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_022_Auto1858047404251551BBC42FC836A4AAE49.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_022_Auto1.uasset'
+[2017.04.21-11.45.19:377][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_022_Auto1.uasset
+[2017.04.21-11.45.19:378][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_023] ([1] browsable assets)...
+[2017.04.21-11.45.19:401][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_023.Material_023]
+[2017.04.21-11.45.19:401][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_023]
+[2017.04.21-11.45.19:422][161]LogSavePackage: Save=19.32ms
+[2017.04.21-11.45.19:422][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_023_Auto1B672D57D4CD7411ECEA93BB938D1FA73.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_023_Auto1.uasset'
+[2017.04.21-11.45.19:424][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_023_Auto1.uasset
+[2017.04.21-11.45.19:425][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_024] ([1] browsable assets)...
+[2017.04.21-11.45.19:450][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_024.Material_024]
+[2017.04.21-11.45.19:450][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_024]
+[2017.04.21-11.45.19:477][161]LogSavePackage: Save=25.02ms
+[2017.04.21-11.45.19:477][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_024_Auto164D415644DD489C30238F5992EF4A9F3.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_024_Auto1.uasset'
+[2017.04.21-11.45.19:478][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_024_Auto1.uasset
+[2017.04.21-11.45.19:478][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_025] ([1] browsable assets)...
+[2017.04.21-11.45.19:499][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_025.Material_025]
+[2017.04.21-11.45.19:499][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_025]
+[2017.04.21-11.45.19:514][161]LogSavePackage: Save=13.84ms
+[2017.04.21-11.45.19:514][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_025_Auto116C91E9843DF93F32694EFBAA02FA493.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_025_Auto1.uasset'
+[2017.04.21-11.45.19:516][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_025_Auto1.uasset
+[2017.04.21-11.45.19:516][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_026] ([1] browsable assets)...
+[2017.04.21-11.45.19:536][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_026.Material_026]
+[2017.04.21-11.45.19:536][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_026]
+[2017.04.21-11.45.19:550][161]LogSavePackage: Save=12.83ms
+[2017.04.21-11.45.19:551][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_026_Auto1424255364CE24076A4CDD4BFBDE8A3B3.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_026_Auto1.uasset'
+[2017.04.21-11.45.19:552][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_026_Auto1.uasset
+[2017.04.21-11.45.19:553][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_027] ([1] browsable assets)...
+[2017.04.21-11.45.19:572][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_027.Material_027]
+[2017.04.21-11.45.19:572][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_027]
+[2017.04.21-11.45.19:589][161]LogSavePackage: Save=14.52ms
+[2017.04.21-11.45.19:589][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_027_Auto1C98FD6084DFCFEF8503602A6BC1D44EF.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_027_Auto1.uasset'
+[2017.04.21-11.45.19:590][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_027_Auto1.uasset
+[2017.04.21-11.45.19:591][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_028] ([1] browsable assets)...
+[2017.04.21-11.45.19:614][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_028.Material_028]
+[2017.04.21-11.45.19:614][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_028]
+[2017.04.21-11.45.19:634][161]LogSavePackage: Save=17.36ms
+[2017.04.21-11.45.19:634][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_028_Auto1080821F64E8084357913A39EB079BEA6.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_028_Auto1.uasset'
+[2017.04.21-11.45.19:635][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_028_Auto1.uasset
+[2017.04.21-11.45.19:636][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_029] ([1] browsable assets)...
+[2017.04.21-11.45.19:660][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_029.Material_029]
+[2017.04.21-11.45.19:660][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_029]
+[2017.04.21-11.45.19:683][161]LogSavePackage: Save=17.67ms
+[2017.04.21-11.45.19:683][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_029_Auto13AAF71F94C14C519250472BC74B34028.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_029_Auto1.uasset'
+[2017.04.21-11.45.19:685][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_029_Auto1.uasset
+[2017.04.21-11.45.19:685][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_030] ([1] browsable assets)...
+[2017.04.21-11.45.19:706][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_030.Material_030]
+[2017.04.21-11.45.19:706][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_030]
+[2017.04.21-11.45.19:758][161]LogSavePackage: Save=17.56ms
+[2017.04.21-11.45.19:758][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_030_Auto1227232144C8694D2A84349AA94774487.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_030_Auto1.uasset'
+[2017.04.21-11.45.19:759][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_030_Auto1.uasset
+[2017.04.21-11.45.19:760][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_033] ([1] browsable assets)...
+[2017.04.21-11.45.19:780][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_033.Material_033]
+[2017.04.21-11.45.19:780][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_033]
+[2017.04.21-11.45.19:796][161]LogSavePackage: Save=14.10ms
+[2017.04.21-11.45.19:796][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_033_Auto1AC2C25164F468B1D2A0C2890B17058E5.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_033_Auto1.uasset'
+[2017.04.21-11.45.19:796][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_033_Auto1.uasset
+[2017.04.21-11.45.19:797][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_034] ([1] browsable assets)...
+[2017.04.21-11.45.19:817][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_034.Material_034]
+[2017.04.21-11.45.19:817][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_034]
+[2017.04.21-11.45.19:831][161]LogSavePackage: Save=13.28ms
+[2017.04.21-11.45.19:831][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_034_Auto1C678B43D4B9492856444B584F12A4116.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_034_Auto1.uasset'
+[2017.04.21-11.45.19:833][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_034_Auto1.uasset
+[2017.04.21-11.45.19:833][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_035] ([1] browsable assets)...
+[2017.04.21-11.45.19:852][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_035.Material_035]
+[2017.04.21-11.45.19:852][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_035]
+[2017.04.21-11.45.19:869][161]LogSavePackage: Save=15.70ms
+[2017.04.21-11.45.19:869][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_035_Auto1198D6FA94212F8C5A6BF4E9DC538C79C.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_035_Auto1.uasset'
+[2017.04.21-11.45.19:870][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_035_Auto1.uasset
+[2017.04.21-11.45.19:871][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_036] ([1] browsable assets)...
+[2017.04.21-11.45.19:890][161]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_036.Material_036]
+[2017.04.21-11.45.19:890][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_036]
+[2017.04.21-11.45.19:906][161]LogSavePackage: Save=13.83ms
+[2017.04.21-11.45.19:906][161]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_036_Auto16B322F9646A6E42179B585A33D821B0A.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_036_Auto1.uasset'
+[2017.04.21-11.45.19:907][161]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_036_Auto1.uasset
+[2017.04.21-11.45.19:907][161]LogFileHelpers: Auto-saving content packages took 1.894
+[2017.04.21-11.46.51:449][204]Cmd: DELETE
+[2017.04.21-11.46.51:449][204]Cmd: ACTOR DELETE
+[2017.04.21-11.46.51:460][204]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.21-11.46.51:481][204]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2017.04.21-11.46.53:054][275]LogActorFactory: Actor Factory created FuitBowl
+[2017.04.21-11.46.54:678][371]LogActorFactory: Actor Factory created FuitBowl
+[2017.04.21-11.47.52:283][663]LogActorFactory: Actor Factory created CookieJar
+[2017.04.21-11.47.53:178][716]LogActorFactory: Actor Factory created CookieJar
+[2017.04.21-11.47.54:494][794]LogActorFactory: Actor Factory created CookieJar
+[2017.04.21-11.48.34:554][831]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2017.04.21-11.48.34:720][831]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2017.04.21-11.48.34:733][831]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-11.48.34:760][831]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.04.21-11.48.34:766][831]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.04.21-11.48.34:771][831]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.04.21-11.48.34:777][831]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2017.04.21-11.48.34:783][831]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_10, compiling. 
+[2017.04.21-11.48.38:292][918]MaterialEditorStats: Info Base pass shader with static lighting: 77 instructions
+[2017.04.21-11.48.38:292][918]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 49 instructions
+[2017.04.21-11.48.38:292][918]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.04.21-11.48.38:292][918]MaterialEditorStats: Info Texture samplers: 6/16
+[2017.04.21-11.48.54:282][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bounce_Bin)
+[2017.04.21-11.49.29:425][723]LogEditorViewport: Clicking on Actor (LMB): Drawer_Movement_Collision_C (Drawer_Movement_Collision)
+[2017.04.21-11.49.36:783][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.21-11.49.36:964][144]LogSavePackage: Save=150.28ms
+[2017.04.21-11.49.36:964][144]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-LevelC77B3A7F4E3ED47556ED51B4072DEF95.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.21-11.49.36:975][144]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.21-11.49.37:027][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.21-11.49.39:318][144]LogSavePackage: Save=2263.38ms
+[2017.04.21-11.49.39:318][144]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltDataB5FA6F1A4A886B114438FD84B41AD601.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.21-11.49.39:322][144]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.21-11.50.36:058][298]LogMaterial: Missing cached shader map for material shelf, compiling. 
+[2017.04.21-11.50.36:162][298]LogMaterial: Missing cached shader map for material shelf, compiling. 
+[2017.04.21-11.50.36:173][298]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-11.50.36:217][298]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.04.21-11.50.38:244][347]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.04.21-11.50.38:244][347]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.21-11.50.38:244][347]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.04.21-11.57.02:631][423]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\bookshelf.fbx)
+[2017.04.21-11.57.02:640][423]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.04.21-11.57.02:640][423]LogFbx: ItemName: NodeAttribute, ItemCount : 4
+[2017.04.21-11.57.02:640][423]LogFbx: ItemName: Geometry, ItemCount : 2
+[2017.04.21-11.57.02:640][423]LogFbx: ItemName: Model, ItemCount : 6
+[2017.04.21-11.57.02:640][423]LogFbx: ItemName: Material, ItemCount : 38
+[2017.04.21-11.57.02:644][423]LogFbx: Loading FBX Scene from C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\bookshelf.fbx
+[2017.04.21-11.57.02:656][423]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.21-11.57.04:197][423]LogFbx: Loading FBX Scene from C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\bookshelf.fbx
+[2017.04.21-11.57.04:229][423]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.21-11.57.04:233][423]LogFbx:Warning: Triangulating static mesh Plane
+[2017.04.21-11.57.04:236][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Bookcovers'
+[2017.04.21-11.57.04:236][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Bookcovers'
+[2017.04.21-11.57.04:243][423]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-11.57.04:264][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_032'
+[2017.04.21-11.57.04:264][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_032'
+[2017.04.21-11.57.04:275][423]LogMaterial: Missing cached shader map for material Material_032, compiling. 
+[2017.04.21-11.57.04:298][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_001'
+[2017.04.21-11.57.04:298][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_001'
+[2017.04.21-11.57.04:311][423]LogMaterial: Missing cached shader map for material Material_001, compiling. 
+[2017.04.21-11.57.04:335][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_002'
+[2017.04.21-11.57.04:335][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_002'
+[2017.04.21-11.57.04:347][423]LogMaterial: Missing cached shader map for material Material_002, compiling. 
+[2017.04.21-11.57.04:368][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_003'
+[2017.04.21-11.57.04:368][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_003'
+[2017.04.21-11.57.04:380][423]LogMaterial: Missing cached shader map for material Material_003, compiling. 
+[2017.04.21-11.57.04:411][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_004'
+[2017.04.21-11.57.04:411][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_004'
+[2017.04.21-11.57.04:415][423]LogMaterial: Missing cached shader map for material Material_004, compiling. 
+[2017.04.21-11.57.04:435][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_005'
+[2017.04.21-11.57.04:435][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_005'
+[2017.04.21-11.57.04:444][423]LogMaterial: Missing cached shader map for material Material_005, compiling. 
+[2017.04.21-11.57.04:468][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_006'
+[2017.04.21-11.57.04:468][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_006'
+[2017.04.21-11.57.04:479][423]LogMaterial: Missing cached shader map for material Material_006, compiling. 
+[2017.04.21-11.57.04:500][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_007'
+[2017.04.21-11.57.04:500][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_007'
+[2017.04.21-11.57.04:511][423]LogMaterial: Missing cached shader map for material Material_007, compiling. 
+[2017.04.21-11.57.04:533][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_008'
+[2017.04.21-11.57.04:533][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_008'
+[2017.04.21-11.57.04:544][423]LogMaterial: Missing cached shader map for material Material_008, compiling. 
+[2017.04.21-11.57.04:565][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_009'
+[2017.04.21-11.57.04:565][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_009'
+[2017.04.21-11.57.04:577][423]LogMaterial: Missing cached shader map for material Material_009, compiling. 
+[2017.04.21-11.57.04:598][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_010'
+[2017.04.21-11.57.04:598][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_010'
+[2017.04.21-11.57.04:609][423]LogMaterial: Missing cached shader map for material Material_010, compiling. 
+[2017.04.21-11.57.04:639][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_011'
+[2017.04.21-11.57.04:639][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_011'
+[2017.04.21-11.57.04:643][423]LogMaterial: Missing cached shader map for material Material_011, compiling. 
+[2017.04.21-11.57.04:665][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_012'
+[2017.04.21-11.57.04:665][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_012'
+[2017.04.21-11.57.04:677][423]LogMaterial: Missing cached shader map for material Material_012, compiling. 
+[2017.04.21-11.57.04:699][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_013'
+[2017.04.21-11.57.04:699][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_013'
+[2017.04.21-11.57.04:742][423]LogMaterial: Missing cached shader map for material Material_013, compiling. 
+[2017.04.21-11.57.04:763][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_014'
+[2017.04.21-11.57.04:763][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_014'
+[2017.04.21-11.57.04:774][423]LogMaterial: Missing cached shader map for material Material_014, compiling. 
+[2017.04.21-11.57.04:795][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_015'
+[2017.04.21-11.57.04:795][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_015'
+[2017.04.21-11.57.04:806][423]LogMaterial: Missing cached shader map for material Material_015, compiling. 
+[2017.04.21-11.57.04:826][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_016'
+[2017.04.21-11.57.04:826][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_016'
+[2017.04.21-11.57.04:836][423]LogMaterial: Missing cached shader map for material Material_016, compiling. 
+[2017.04.21-11.57.04:867][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_017'
+[2017.04.21-11.57.04:867][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_017'
+[2017.04.21-11.57.04:871][423]LogMaterial: Missing cached shader map for material Material_017, compiling. 
+[2017.04.21-11.57.04:893][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_018'
+[2017.04.21-11.57.04:893][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_018'
+[2017.04.21-11.57.04:904][423]LogMaterial: Missing cached shader map for material Material_018, compiling. 
+[2017.04.21-11.57.04:925][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_019'
+[2017.04.21-11.57.04:925][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_019'
+[2017.04.21-11.57.04:936][423]LogMaterial: Missing cached shader map for material Material_019, compiling. 
+[2017.04.21-11.57.04:958][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_020'
+[2017.04.21-11.57.04:958][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_020'
+[2017.04.21-11.57.04:969][423]LogMaterial: Missing cached shader map for material Material_020, compiling. 
+[2017.04.21-11.57.04:990][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_021'
+[2017.04.21-11.57.04:990][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_021'
+[2017.04.21-11.57.05:002][423]LogMaterial: Missing cached shader map for material Material_021, compiling. 
+[2017.04.21-11.57.05:022][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_022'
+[2017.04.21-11.57.05:022][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_022'
+[2017.04.21-11.57.05:033][423]LogMaterial: Missing cached shader map for material Material_022, compiling. 
+[2017.04.21-11.57.05:055][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_023'
+[2017.04.21-11.57.05:055][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_023'
+[2017.04.21-11.57.05:066][423]LogMaterial: Missing cached shader map for material Material_023, compiling. 
+[2017.04.21-11.57.05:101][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_024'
+[2017.04.21-11.57.05:101][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_024'
+[2017.04.21-11.57.05:106][423]LogMaterial: Missing cached shader map for material Material_024, compiling. 
+[2017.04.21-11.57.05:128][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_025'
+[2017.04.21-11.57.05:128][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_025'
+[2017.04.21-11.57.05:173][423]LogMaterial: Missing cached shader map for material Material_025, compiling. 
+[2017.04.21-11.57.05:194][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_026'
+[2017.04.21-11.57.05:194][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_026'
+[2017.04.21-11.57.05:206][423]LogMaterial: Missing cached shader map for material Material_026, compiling. 
+[2017.04.21-11.57.05:226][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_027'
+[2017.04.21-11.57.05:226][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_027'
+[2017.04.21-11.57.05:240][423]LogMaterial: Missing cached shader map for material Material_027, compiling. 
+[2017.04.21-11.57.05:260][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_028'
+[2017.04.21-11.57.05:260][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_028'
+[2017.04.21-11.57.05:271][423]LogMaterial: Missing cached shader map for material Material_028, compiling. 
+[2017.04.21-11.57.05:300][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_029'
+[2017.04.21-11.57.05:300][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_029'
+[2017.04.21-11.57.05:304][423]LogMaterial: Missing cached shader map for material Material_029, compiling. 
+[2017.04.21-11.57.05:324][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_030'
+[2017.04.21-11.57.05:325][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_030'
+[2017.04.21-11.57.05:335][423]LogMaterial: Missing cached shader map for material Material_030, compiling. 
+[2017.04.21-11.57.05:356][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_033'
+[2017.04.21-11.57.05:357][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_033'
+[2017.04.21-11.57.05:368][423]LogMaterial: Missing cached shader map for material Material_033, compiling. 
+[2017.04.21-11.57.05:390][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_034'
+[2017.04.21-11.57.05:391][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_034'
+[2017.04.21-11.57.05:403][423]LogMaterial: Missing cached shader map for material Material_034, compiling. 
+[2017.04.21-11.57.05:425][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_035'
+[2017.04.21-11.57.05:425][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_035'
+[2017.04.21-11.57.05:437][423]LogMaterial: Missing cached shader map for material Material_035, compiling. 
+[2017.04.21-11.57.05:459][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_036'
+[2017.04.21-11.57.05:459][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Material_036'
+[2017.04.21-11.57.05:471][423]LogMaterial: Missing cached shader map for material Material_036, compiling. 
+[2017.04.21-11.57.05:505][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Pages'
+[2017.04.21-11.57.05:505][423]LogLinker: Can't find file '/Game/Modular_Room-Kit/Pages'
+[2017.04.21-11.57.05:511][423]LogMaterial: Missing cached shader map for material Pages, compiling. 
+[2017.04.21-11.57.05:534][423]LogFbx:Warning: Triangulating static mesh Cube.015
+[2017.04.21-11.57.05:625][423]LogStaticMesh: Building static mesh bookshelf...
+[2017.04.21-11.57.05:908][423]LogStaticMesh: Built static mesh [0.28s] /Game/Modular_Room-Kit/bookshelf.bookshelf
+[2017.04.21-11.57.05:917][423]LogStaticMesh:Warning: bookshelf has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.04.21-11.57.05:955][423]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.04.21-11.57.05:955][423]FBXImport:Warning: Warning bookshelf has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.04.21-11.59.37:908][119]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Test-Level' took 0.025
+[2017.04.21-11.59.37:911][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_032] ([1] browsable assets)...
+[2017.04.21-11.59.38:055][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_032.Material_032]
+[2017.04.21-11.59.38:055][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_032]
+[2017.04.21-11.59.38:073][119]LogSavePackage: Save=15.87ms
+[2017.04.21-11.59.38:073][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_032_Auto20AC7A5B84FE84843245273AD34AF9978.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_032_Auto2.uasset'
+[2017.04.21-11.59.38:075][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_032_Auto2.uasset
+[2017.04.21-11.59.38:075][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_001] ([1] browsable assets)...
+[2017.04.21-11.59.38:097][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_001.Material_001]
+[2017.04.21-11.59.38:097][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_001]
+[2017.04.21-11.59.38:114][119]LogSavePackage: Save=15.53ms
+[2017.04.21-11.59.38:114][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_001_Auto208BEED514CE5B589EFF3D4BAE7936F2F.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_001_Auto2.uasset'
+[2017.04.21-11.59.38:116][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_001_Auto2.uasset
+[2017.04.21-11.59.38:116][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_002] ([1] browsable assets)...
+[2017.04.21-11.59.38:138][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_002.Material_002]
+[2017.04.21-11.59.38:138][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_002]
+[2017.04.21-11.59.38:154][119]LogSavePackage: Save=13.74ms
+[2017.04.21-11.59.38:154][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_002_Auto250DB071042E1B364A143C4916039E97F.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_002_Auto2.uasset'
+[2017.04.21-11.59.38:155][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_002_Auto2.uasset
+[2017.04.21-11.59.38:156][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Bookcovers] ([1] browsable assets)...
+[2017.04.21-11.59.38:178][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Bookcovers.Bookcovers]
+[2017.04.21-11.59.38:178][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Bookcovers]
+[2017.04.21-11.59.38:232][119]LogSavePackage: Save=18.31ms
+[2017.04.21-11.59.38:232][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Bookcovers_Auto2415E623F48E0D0BACBE0429C63217ECF.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Bookcovers_Auto2.uasset'
+[2017.04.21-11.59.38:235][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Bookcovers_Auto2.uasset
+[2017.04.21-11.59.38:235][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/bookshelf] ([1] browsable assets)...
+[2017.04.21-11.59.38:257][119]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Modular_Room-Kit/bookshelf.bookshelf]
+[2017.04.21-11.59.38:257][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/bookshelf]
+[2017.04.21-11.59.38:273][119]LogSavePackage: Save=14.56ms
+[2017.04.21-11.59.38:273][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/bookshelf_Auto2957E9A754CE8431339FA528E9FDD4417.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/bookshelf_Auto2.uasset'
+[2017.04.21-11.59.38:274][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/bookshelf_Auto2.uasset
+[2017.04.21-11.59.38:275][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_013] ([1] browsable assets)...
+[2017.04.21-11.59.38:296][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_013.Material_013]
+[2017.04.21-11.59.38:296][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_013]
+[2017.04.21-11.59.38:312][119]LogSavePackage: Save=14.17ms
+[2017.04.21-11.59.38:313][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_013_Auto24EC7D17044648CF27E65BC857121B52D.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_013_Auto2.uasset'
+[2017.04.21-11.59.38:315][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_013_Auto2.uasset
+[2017.04.21-11.59.38:316][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_014] ([1] browsable assets)...
+[2017.04.21-11.59.38:337][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_014.Material_014]
+[2017.04.21-11.59.38:338][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_014]
+[2017.04.21-11.59.38:355][119]LogSavePackage: Save=15.82ms
+[2017.04.21-11.59.38:355][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_014_Auto239149B564B8072A35A2ABB8840E5E84A.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_014_Auto2.uasset'
+[2017.04.21-11.59.38:357][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_014_Auto2.uasset
+[2017.04.21-11.59.38:357][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_015] ([1] browsable assets)...
+[2017.04.21-11.59.38:379][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_015.Material_015]
+[2017.04.21-11.59.38:379][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_015]
+[2017.04.21-11.59.38:395][119]LogSavePackage: Save=14.40ms
+[2017.04.21-11.59.38:395][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_015_Auto28BB1291149657141F2B19DAEAFD25472.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_015_Auto2.uasset'
+[2017.04.21-11.59.38:397][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_015_Auto2.uasset
+[2017.04.21-11.59.38:398][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_016] ([1] browsable assets)...
+[2017.04.21-11.59.38:419][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_016.Material_016]
+[2017.04.21-11.59.38:419][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_016]
+[2017.04.21-11.59.38:434][119]LogSavePackage: Save=13.46ms
+[2017.04.21-11.59.38:434][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_016_Auto2F8FAA602492BFAE3DEE232B6D2DF94DD.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_016_Auto2.uasset'
+[2017.04.21-11.59.38:436][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_016_Auto2.uasset
+[2017.04.21-11.59.38:437][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_017] ([1] browsable assets)...
+[2017.04.21-11.59.38:459][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_017.Material_017]
+[2017.04.21-11.59.38:459][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_017]
+[2017.04.21-11.59.38:476][119]LogSavePackage: Save=15.42ms
+[2017.04.21-11.59.38:476][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_017_Auto27D26A38C4BDAF7DE64BE9DA0385AE670.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_017_Auto2.uasset'
+[2017.04.21-11.59.38:477][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_017_Auto2.uasset
+[2017.04.21-11.59.38:478][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_018] ([1] browsable assets)...
+[2017.04.21-11.59.38:500][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_018.Material_018]
+[2017.04.21-11.59.38:500][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_018]
+[2017.04.21-11.59.38:516][119]LogSavePackage: Save=13.87ms
+[2017.04.21-11.59.38:516][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_018_Auto2CDC4B0ED419911242CA46797E90B9799.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_018_Auto2.uasset'
+[2017.04.21-11.59.38:519][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_018_Auto2.uasset
+[2017.04.21-11.59.38:520][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_019] ([1] browsable assets)...
+[2017.04.21-11.59.38:542][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_019.Material_019]
+[2017.04.21-11.59.38:542][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_019]
+[2017.04.21-11.59.38:562][119]LogSavePackage: Save=18.51ms
+[2017.04.21-11.59.38:563][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_019_Auto2E2C26BBB41BA9E4232D56E88F8D7C8AD.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_019_Auto2.uasset'
+[2017.04.21-11.59.38:564][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_019_Auto2.uasset
+[2017.04.21-11.59.38:565][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_020] ([1] browsable assets)...
+[2017.04.21-11.59.38:586][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_020.Material_020]
+[2017.04.21-11.59.38:586][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_020]
+[2017.04.21-11.59.38:604][119]LogSavePackage: Save=14.86ms
+[2017.04.21-11.59.38:604][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_020_Auto230ED3E444DB295EE227EC1929B280FDD.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_020_Auto2.uasset'
+[2017.04.21-11.59.38:606][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_020_Auto2.uasset
+[2017.04.21-11.59.38:607][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_021] ([1] browsable assets)...
+[2017.04.21-11.59.38:635][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_021.Material_021]
+[2017.04.21-11.59.38:635][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_021]
+[2017.04.21-11.59.38:651][119]LogSavePackage: Save=14.83ms
+[2017.04.21-11.59.38:651][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_021_Auto2C5A02C774E76857A00A08F8719FE823A.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_021_Auto2.uasset'
+[2017.04.21-11.59.38:652][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_021_Auto2.uasset
+[2017.04.21-11.59.38:653][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_022] ([1] browsable assets)...
+[2017.04.21-11.59.38:685][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_022.Material_022]
+[2017.04.21-11.59.38:685][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_022]
+[2017.04.21-11.59.38:709][119]LogSavePackage: Save=21.62ms
+[2017.04.21-11.59.38:709][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_022_Auto2BC3E76164583923EEA45C4AD1AEAB95E.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_022_Auto2.uasset'
+[2017.04.21-11.59.38:711][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_022_Auto2.uasset
+[2017.04.21-11.59.38:712][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_023] ([1] browsable assets)...
+[2017.04.21-11.59.38:734][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_023.Material_023]
+[2017.04.21-11.59.38:734][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_023]
+[2017.04.21-11.59.38:787][119]LogSavePackage: Save=17.34ms
+[2017.04.21-11.59.38:787][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_023_Auto2F119418942D3AD3DB46CB7B24B09AF81.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_023_Auto2.uasset'
+[2017.04.21-11.59.38:789][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_023_Auto2.uasset
+[2017.04.21-11.59.38:789][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_024] ([1] browsable assets)...
+[2017.04.21-11.59.38:810][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_024.Material_024]
+[2017.04.21-11.59.38:810][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_024]
+[2017.04.21-11.59.38:837][119]LogSavePackage: Save=18.29ms
+[2017.04.21-11.59.38:837][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_024_Auto2E630B9244D0A808C1C02FE95F2FFAFD1.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_024_Auto2.uasset'
+[2017.04.21-11.59.38:838][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_024_Auto2.uasset
+[2017.04.21-11.59.38:838][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_025] ([1] browsable assets)...
+[2017.04.21-11.59.38:859][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_025.Material_025]
+[2017.04.21-11.59.38:859][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_025]
+[2017.04.21-11.59.38:876][119]LogSavePackage: Save=15.86ms
+[2017.04.21-11.59.38:876][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_025_Auto22B1D0E4A4548AFF1C3B63D9D984F3609.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_025_Auto2.uasset'
+[2017.04.21-11.59.38:878][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_025_Auto2.uasset
+[2017.04.21-11.59.38:879][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_026] ([1] browsable assets)...
+[2017.04.21-11.59.38:900][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_026.Material_026]
+[2017.04.21-11.59.38:900][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_026]
+[2017.04.21-11.59.38:917][119]LogSavePackage: Save=15.52ms
+[2017.04.21-11.59.38:917][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_026_Auto2D526BC024ECA7CB0C71E5D8E106F1874.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_026_Auto2.uasset'
+[2017.04.21-11.59.38:920][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_026_Auto2.uasset
+[2017.04.21-11.59.38:922][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_027] ([1] browsable assets)...
+[2017.04.21-11.59.38:943][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_027.Material_027]
+[2017.04.21-11.59.38:943][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_027]
+[2017.04.21-11.59.38:961][119]LogSavePackage: Save=14.75ms
+[2017.04.21-11.59.38:961][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_027_Auto2164A6B46449D00D7404CECABFE2F83A2.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_027_Auto2.uasset'
+[2017.04.21-11.59.38:962][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_027_Auto2.uasset
+[2017.04.21-11.59.38:963][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_028] ([1] browsable assets)...
+[2017.04.21-11.59.38:983][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_028.Material_028]
+[2017.04.21-11.59.38:983][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_028]
+[2017.04.21-11.59.38:999][119]LogSavePackage: Save=13.51ms
+[2017.04.21-11.59.38:999][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_028_Auto2489DEC3241A8454AEADC0ABE151F9CED.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_028_Auto2.uasset'
+[2017.04.21-11.59.39:001][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_028_Auto2.uasset
+[2017.04.21-11.59.39:001][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_029] ([1] browsable assets)...
+[2017.04.21-11.59.39:022][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_029.Material_029]
+[2017.04.21-11.59.39:022][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_029]
+[2017.04.21-11.59.39:038][119]LogSavePackage: Save=14.26ms
+[2017.04.21-11.59.39:038][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_029_Auto2211A1BA2438D357E4993DAB3C3FA2FF2.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_029_Auto2.uasset'
+[2017.04.21-11.59.39:040][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_029_Auto2.uasset
+[2017.04.21-11.59.39:040][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_030] ([1] browsable assets)...
+[2017.04.21-11.59.39:063][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_030.Material_030]
+[2017.04.21-11.59.39:063][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_030]
+[2017.04.21-11.59.39:078][119]LogSavePackage: Save=14.02ms
+[2017.04.21-11.59.39:078][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_030_Auto27A9912BF4553FB242C154DB61ADC9FEF.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_030_Auto2.uasset'
+[2017.04.21-11.59.39:080][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_030_Auto2.uasset
+[2017.04.21-11.59.39:081][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_033] ([1] browsable assets)...
+[2017.04.21-11.59.39:102][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_033.Material_033]
+[2017.04.21-11.59.39:102][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_033]
+[2017.04.21-11.59.39:119][119]LogSavePackage: Save=14.82ms
+[2017.04.21-11.59.39:119][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_033_Auto2BBC0DF744569A57F3E9FE69172E00DA9.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_033_Auto2.uasset'
+[2017.04.21-11.59.39:122][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_033_Auto2.uasset
+[2017.04.21-11.59.39:123][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_034] ([1] browsable assets)...
+[2017.04.21-11.59.39:143][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_034.Material_034]
+[2017.04.21-11.59.39:143][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_034]
+[2017.04.21-11.59.39:163][119]LogSavePackage: Save=14.06ms
+[2017.04.21-11.59.39:163][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_034_Auto2B63A93654C6800F27E1E09A59269CF63.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_034_Auto2.uasset'
+[2017.04.21-11.59.39:164][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_034_Auto2.uasset
+[2017.04.21-11.59.39:165][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_035] ([1] browsable assets)...
+[2017.04.21-11.59.39:186][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_035.Material_035]
+[2017.04.21-11.59.39:186][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_035]
+[2017.04.21-11.59.39:207][119]LogSavePackage: Save=19.02ms
+[2017.04.21-11.59.39:207][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_035_Auto2D5739AEF46813149586CAEB639BBB213.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_035_Auto2.uasset'
+[2017.04.21-11.59.39:209][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_035_Auto2.uasset
+[2017.04.21-11.59.39:210][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_036] ([1] browsable assets)...
+[2017.04.21-11.59.39:231][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_036.Material_036]
+[2017.04.21-11.59.39:231][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_036]
+[2017.04.21-11.59.39:250][119]LogSavePackage: Save=13.30ms
+[2017.04.21-11.59.39:250][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_036_Auto26E966EEA425DA0EBEEB418AB9E4E9486.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_036_Auto2.uasset'
+[2017.04.21-11.59.39:251][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_036_Auto2.uasset
+[2017.04.21-11.59.39:252][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_003] ([1] browsable assets)...
+[2017.04.21-11.59.39:278][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_003.Material_003]
+[2017.04.21-11.59.39:278][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_003]
+[2017.04.21-11.59.39:294][119]LogSavePackage: Save=14.87ms
+[2017.04.21-11.59.39:294][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_003_Auto26FFAE6D144750F17896CFDB5C2725CEB.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_003_Auto2.uasset'
+[2017.04.21-11.59.39:296][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_003_Auto2.uasset
+[2017.04.21-11.59.39:297][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_004] ([1] browsable assets)...
+[2017.04.21-11.59.39:319][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_004.Material_004]
+[2017.04.21-11.59.39:319][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_004]
+[2017.04.21-11.59.39:336][119]LogSavePackage: Save=15.84ms
+[2017.04.21-11.59.39:336][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_004_Auto2845D51DB4769ACA1B4E209B12AF0D35C.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_004_Auto2.uasset'
+[2017.04.21-11.59.39:340][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_004_Auto2.uasset
+[2017.04.21-11.59.39:340][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_005] ([1] browsable assets)...
+[2017.04.21-11.59.39:364][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_005.Material_005]
+[2017.04.21-11.59.39:364][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_005]
+[2017.04.21-11.59.39:382][119]LogSavePackage: Save=15.05ms
+[2017.04.21-11.59.39:382][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_005_Auto2D63C85AD4D82CAAAA64DC695D3A1770A.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_005_Auto2.uasset'
+[2017.04.21-11.59.39:384][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_005_Auto2.uasset
+[2017.04.21-11.59.39:385][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_006] ([1] browsable assets)...
+[2017.04.21-11.59.39:408][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_006.Material_006]
+[2017.04.21-11.59.39:408][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_006]
+[2017.04.21-11.59.39:426][119]LogSavePackage: Save=15.47ms
+[2017.04.21-11.59.39:426][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_006_Auto2AC618530497020F04818CF9F47DB4197.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_006_Auto2.uasset'
+[2017.04.21-11.59.39:427][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_006_Auto2.uasset
+[2017.04.21-11.59.39:428][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_007] ([1] browsable assets)...
+[2017.04.21-11.59.39:448][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_007.Material_007]
+[2017.04.21-11.59.39:448][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_007]
+[2017.04.21-11.59.39:464][119]LogSavePackage: Save=14.03ms
+[2017.04.21-11.59.39:464][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_007_Auto2E090A87C4EF7629DFE0E62B5B24D8D5A.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_007_Auto2.uasset'
+[2017.04.21-11.59.39:465][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_007_Auto2.uasset
+[2017.04.21-11.59.39:466][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_008] ([1] browsable assets)...
+[2017.04.21-11.59.39:486][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_008.Material_008]
+[2017.04.21-11.59.39:486][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_008]
+[2017.04.21-11.59.39:501][119]LogSavePackage: Save=13.52ms
+[2017.04.21-11.59.39:501][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_008_Auto21C9A837541F94FA707BC4FBBF1FB2AF9.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_008_Auto2.uasset'
+[2017.04.21-11.59.39:502][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_008_Auto2.uasset
+[2017.04.21-11.59.39:503][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_009] ([1] browsable assets)...
+[2017.04.21-11.59.39:523][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_009.Material_009]
+[2017.04.21-11.59.39:523][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_009]
+[2017.04.21-11.59.39:540][119]LogSavePackage: Save=14.64ms
+[2017.04.21-11.59.39:540][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_009_Auto287258F3349CAA15B29DF85B5F1D4B0AE.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_009_Auto2.uasset'
+[2017.04.21-11.59.39:541][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_009_Auto2.uasset
+[2017.04.21-11.59.39:542][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_010] ([1] browsable assets)...
+[2017.04.21-11.59.39:562][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_010.Material_010]
+[2017.04.21-11.59.39:562][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_010]
+[2017.04.21-11.59.39:579][119]LogSavePackage: Save=15.71ms
+[2017.04.21-11.59.39:579][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_010_Auto21B0FA38F44CC96010C6663BD21030B24.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_010_Auto2.uasset'
+[2017.04.21-11.59.39:581][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_010_Auto2.uasset
+[2017.04.21-11.59.39:581][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_011] ([1] browsable assets)...
+[2017.04.21-11.59.39:602][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_011.Material_011]
+[2017.04.21-11.59.39:602][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_011]
+[2017.04.21-11.59.39:651][119]LogSavePackage: Save=14.58ms
+[2017.04.21-11.59.39:651][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_011_Auto2E925462944C6EEE8A29D66A662C5ECB6.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_011_Auto2.uasset'
+[2017.04.21-11.59.39:653][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_011_Auto2.uasset
+[2017.04.21-11.59.39:653][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Material_012] ([1] browsable assets)...
+[2017.04.21-11.59.39:673][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Material_012.Material_012]
+[2017.04.21-11.59.39:673][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Material_012]
+[2017.04.21-11.59.39:690][119]LogSavePackage: Save=15.26ms
+[2017.04.21-11.59.39:690][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_012_Auto2EBDA4A1F4E4345DE608877A23BE9AED5.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_012_Auto2.uasset'
+[2017.04.21-11.59.39:692][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Material_012_Auto2.uasset
+[2017.04.21-11.59.39:693][119]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modular_Room-Kit/Pages] ([1] browsable assets)...
+[2017.04.21-11.59.39:712][119]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Modular_Room-Kit/Pages.Pages]
+[2017.04.21-11.59.39:712][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modular_Room-Kit/Pages]
+[2017.04.21-11.59.39:728][119]LogSavePackage: Save=13.67ms
+[2017.04.21-11.59.39:728][119]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Pages_Auto20A57CE554CB6386B3548EFBD3D2ACEC8.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Pages_Auto2.uasset'
+[2017.04.21-11.59.39:729][119]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Modular_Room-Kit/Pages_Auto2.uasset
+[2017.04.21-11.59.39:729][119]LogFileHelpers: Auto-saving content packages took 1.820
+[2017.04.21-12.02.19:171][ 59]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\clock.fbx)
+[2017.04.21-12.02.19:180][ 59]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.04.21-12.02.19:180][ 59]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2017.04.21-12.02.19:180][ 59]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.04.21-12.02.19:180][ 59]LogFbx: ItemName: Model, ItemCount : 3
+[2017.04.21-12.02.19:181][ 59]LogFbx: ItemName: Material, ItemCount : 2
+[2017.04.21-12.02.19:185][ 59]LogFbx: Loading FBX Scene from C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\clock.fbx
+[2017.04.21-12.02.19:193][ 59]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.21-12.02.20:757][ 59]LogFbx: Loading FBX Scene from C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\clock.fbx
+[2017.04.21-12.02.20:766][ 59]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.21-12.02.20:768][ 59]LogLinker: Can't find file '/Game/Assets/clocksides'
+[2017.04.21-12.02.20:768][ 59]LogLinker: Can't find file '/Game/Assets/clocksides'
+[2017.04.21-12.02.20:777][ 59]LogMaterial: Missing cached shader map for material clocksides, compiling. 
+[2017.04.21-12.02.20:793][ 59]LogLinker: Can't find file '/Game/Assets/clockface'
+[2017.04.21-12.02.20:793][ 59]LogLinker: Can't find file '/Game/Assets/clockface'
+[2017.04.21-12.02.20:805][ 59]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.21-12.02.20:828][ 59]LogFbx:Warning: Triangulating static mesh Circle
+[2017.04.21-12.02.20:865][ 59]LogStaticMesh: Building static mesh clock...
+[2017.04.21-12.02.20:869][ 59]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/clock.clock
+[2017.04.21-12.02.20:886][ 59]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.04.21-12.03.21:066][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modular_Room-Kit/bookshelf" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/bookshelf.uasset" SILENT=true
+[2017.04.21-12.03.21:081][572]LogSavePackage: Save=13.49ms
+[2017.04.21-12.03.21:081][572]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/bookshelfA4C1045A4216F9DA84847D92B220734C.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/bookshelf.uasset'
+[2017.04.21-12.03.21:088][572]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/bookshelf.uasset
+[2017.04.21-12.03.27:646][728]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.03.27:737][728]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.03.27:749][728]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.03.27:777][728]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.04.21-12.03.30:298][798]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.04.21-12.03.30:298][798]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.21-12.03.30:298][798]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.04.21-12.03.32:635][855]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.03.32:646][855]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.03.32:675][855]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.04.21-12.03.34:361][897]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.04.21-12.03.34:361][897]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.21-12.03.34:361][897]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.04.21-12.03.38:813][997]LogMaterialEditor: Applying material Bookcovers
+[2017.04.21-12.03.40:167][997]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.03.40:187][997]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.03.40:224][997]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.03.40:252][997]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.03.40:273][997]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.03.42:218][ 33]LogMaterialEditor: Saving and Compiling material Bookcovers
+[2017.04.21-12.03.43:978][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modular_Room-Kit/Bookcovers" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/Bookcovers.uasset" SILENT=true
+[2017.04.21-12.03.43:996][ 33]LogSavePackage: Save=15.57ms
+[2017.04.21-12.03.43:996][ 33]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/BookcoversA16D13F140ECA50F22E4DCB90373ED35.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/Bookcovers.uasset'
+[2017.04.21-12.03.44:001][ 33]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/Bookcovers.uasset
+[2017.04.21-12.03.44:009][ 33]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.04.21-12.03.44:009][ 33]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.21-12.03.44:009][ 33]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.04.21-12.03.56:869][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.21-12.03.57:051][674]LogSavePackage: Save=148.26ms
+[2017.04.21-12.03.57:051][674]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level13F5E1EB48303ED587BC57A0A841F306.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.21-12.03.57:053][674]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.21-12.03.57:095][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.21-12.03.59:340][674]LogSavePackage: Save=2216.93ms
+[2017.04.21-12.03.59:340][674]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltDataF562E73446060B4AA2EF6F907A2A2FF0.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.21-12.03.59:344][674]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.21-12.04.11:224][ 86]LogActorFactory: Actor Factory created bookshelf
+[2017.04.21-12.04.12:334][150]LogActorFactory: Actor Factory created bookshelf
+[2017.04.21-12.05.48:816][793]Cmd: EDIT COPY
+[2017.04.21-12.05.49:738][846]Cmd: EDIT PASTE
+[2017.04.21-12.05.53:234][ 50]Cmd: EDIT PASTE
+[2017.04.21-12.06.01:248][520]Cmd: DELETE
+[2017.04.21-12.06.01:248][520]Cmd: ACTOR DELETE
+[2017.04.21-12.06.01:249][520]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.21-12.06.01:269][520]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.04.21-12.06.02:662][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf2)
+[2017.04.21-12.06.03:380][641]Cmd: DELETE
+[2017.04.21-12.06.03:380][641]Cmd: ACTOR DELETE
+[2017.04.21-12.06.03:381][641]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.21-12.06.03:401][641]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.04.21-12.06.04:516][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf)
+[2017.04.21-12.06.15:775][373]Cmd: EDIT COPY
+[2017.04.21-12.06.16:884][439]Cmd: EDIT PASTE
+[2017.04.21-12.06.19:180][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf)
+[2017.04.21-12.06.20:128][624]Cmd: DELETE
+[2017.04.21-12.06.20:128][624]Cmd: ACTOR DELETE
+[2017.04.21-12.06.20:129][624]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.21-12.06.20:148][624]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.04.21-12.06.21:129][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf2)
+[2017.04.21-12.06.22:040][735]Cmd: EDIT COPY
+[2017.04.21-12.06.22:811][781]Cmd: EDIT PASTE
+[2017.04.21-12.06.29:859][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf2)
+[2017.04.21-12.06.44:230][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf3)
+[2017.04.21-12.06.55:308][697]Cmd: EDIT COPY
+[2017.04.21-12.06.56:114][745]Cmd: EDIT PASTE
+[2017.04.21-12.06.59:217][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf2)
+[2017.04.21-12.07.01:099][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf3)
+[2017.04.21-12.07.01:639][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf2)
+[2017.04.21-12.07.02:342][103]Cmd: DELETE
+[2017.04.21-12.07.02:342][103]Cmd: ACTOR DELETE
+[2017.04.21-12.07.02:343][103]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.21-12.07.02:364][103]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2017.04.21-12.07.03:580][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf3)
+[2017.04.21-12.07.04:532][230]Cmd: EDIT COPY
+[2017.04.21-12.07.05:365][280]Cmd: EDIT PASTE
+[2017.04.21-12.07.12:466][696]Cmd: EDIT COPY
+[2017.04.21-12.07.19:053][ 85]Cmd: TRANSACTION UNDO
+[2017.04.21-12.07.19:053][ 85]LogEditorTransaction: Undo Move Actors
+[2017.04.21-12.07.21:392][220]Cmd: EDIT COPY
+[2017.04.21-12.07.22:285][272]Cmd: EDIT PASTE
+[2017.04.21-12.07.26:786][534]Cmd: EDIT COPY
+[2017.04.21-12.07.27:388][570]Cmd: EDIT PASTE
+[2017.04.21-12.07.32:615][876]Cmd: EDIT COPY
+[2017.04.21-12.07.33:249][914]Cmd: EDIT PASTE
+[2017.04.21-12.07.41:652][388]Cmd: EDIT COPY
+[2017.04.21-12.07.44:168][533]Cmd: TRANSACTION UNDO
+[2017.04.21-12.07.44:168][533]LogEditorTransaction: Undo Move Actors
+[2017.04.21-12.07.45:031][583]Cmd: EDIT COPY
+[2017.04.21-12.07.45:532][611]Cmd: EDIT PASTE
+[2017.04.21-12.07.51:001][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf8)
+[2017.04.21-12.07.53:117][ 45]Cmd: EDIT COPY
+[2017.04.21-12.07.53:768][ 83]Cmd: EDIT PASTE
+[2017.04.21-12.08.16:242][345]Cmd: DELETE
+[2017.04.21-12.08.16:242][345]Cmd: ACTOR DELETE
+[2017.04.21-12.08.16:243][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.21-12.08.16:259][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.21-12.08.16:279][345]LogEditorActor: Deleted 2 Actors (0.037 secs)
+[2017.04.21-12.08.17:757][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf12)
+[2017.04.21-12.08.18:734][486]Cmd: DELETE
+[2017.04.21-12.08.18:734][486]Cmd: ACTOR DELETE
+[2017.04.21-12.08.18:735][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.21-12.08.18:770][486]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2017.04.21-12.08.19:931][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf13)
+[2017.04.21-12.08.20:646][592]Cmd: DELETE
+[2017.04.21-12.08.20:646][592]Cmd: ACTOR DELETE
+[2017.04.21-12.08.20:647][592]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.21-12.08.20:679][592]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2017.04.21-12.08.39:425][455]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.08.39:527][455]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.08.39:538][455]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.08.39:564][455]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.04.21-12.08.41:553][502]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.04.21-12.08.41:553][502]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.21-12.08.41:553][502]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.04.21-12.08.44:159][569]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.08.44:169][569]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.08.44:198][569]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.04.21-12.08.45:109][593]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.08.45:125][593]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.08.45:183][593]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.04.21-12.08.45:910][605]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.08.45:926][605]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.08.45:954][605]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.04.21-12.08.47:123][633]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.08.47:138][633]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.08.47:165][633]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.04.21-12.08.49:088][676]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.04.21-12.08.49:088][676]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.21-12.08.49:088][676]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.04.21-12.08.51:126][723]LogMaterialEditor: Saving and Compiling material Bookcovers
+[2017.04.21-12.08.51:603][723]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.08.51:625][723]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.08.51:675][723]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.08.51:702][723]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.08.51:723][723]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.08.55:102][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modular_Room-Kit/Bookcovers" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/Bookcovers.uasset" SILENT=true
+[2017.04.21-12.08.55:130][723]LogSavePackage: Save=15.47ms
+[2017.04.21-12.08.55:130][723]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Bookcovers8399390047E1C4106E3950A8D1B1A0F9.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/Bookcovers.uasset'
+[2017.04.21-12.08.55:136][723]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/Bookcovers.uasset
+[2017.04.21-12.08.55:142][723]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.04.21-12.08.55:142][723]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.21-12.08.55:142][723]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.04.21-12.09.18:104][772]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.04.21-12.09.18:188][772]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.04.21-12.09.18:200][772]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.09.18:226][772]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.04.21-12.09.20:291][820]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.04.21-12.09.20:291][820]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.21-12.09.20:291][820]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.04.21-12.09.22:703][878]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.04.21-12.09.22:714][878]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.09.22:740][878]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.04.21-12.09.23:889][906]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.04.21-12.09.23:919][906]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.09.23:946][906]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.04.21-12.09.24:418][918]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.04.21-12.09.24:433][918]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.09.24:460][918]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.04.21-12.09.26:145][956]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.04.21-12.09.26:146][956]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.21-12.09.26:146][956]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.04.21-12.09.27:005][975]LogMaterialEditor: Saving and Compiling material Bookcovers
+[2017.04.21-12.09.27:481][975]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.04.21-12.09.27:502][975]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.09.27:525][975]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.09.27:552][975]LogMaterial: Missing cached shader map for material Bookcovers, compiling. 
+[2017.04.21-12.09.27:572][975]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.09.30:985][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modular_Room-Kit/Bookcovers" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/Bookcovers.uasset" SILENT=true
+[2017.04.21-12.09.31:010][975]LogSavePackage: Save=18.82ms
+[2017.04.21-12.09.31:011][975]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Bookcovers7780D1844A66E812EB97C0A8DA9AF91A.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/Bookcovers.uasset'
+[2017.04.21-12.09.31:014][975]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/Bookcovers.uasset
+[2017.04.21-12.09.31:022][975]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 58 instructions
+[2017.04.21-12.09.31:022][975]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.21-12.09.31:022][975]MaterialEditorStats: Info Texture samplers: 3/16
+[2017.04.21-12.09.39:140][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf6)
+[2017.04.21-12.09.40:658][429]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (bookshelf3)
+[2017.04.21-12.09.42:093][509]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (bookshelf4)
+[2017.04.21-12.09.42:845][548]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (bookshelf7)
+[2017.04.21-12.09.43:813][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf3)
+[2017.04.21-12.09.58:573][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf5)
+[2017.04.21-12.09.59:428][448]Cmd: DELETE
+[2017.04.21-12.09.59:428][448]Cmd: ACTOR DELETE
+[2017.04.21-12.09.59:429][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.04.21-12.09.59:467][448]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2017.04.21-12.10.26:268][ 12]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (bookshelf3)
+[2017.04.21-12.10.31:115][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Modular_Wall_Seg12)
+[2017.04.21-12.10.31:701][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf3)
+[2017.04.21-12.10.33:720][437]Cmd: EDIT COPY
+[2017.04.21-12.10.34:442][479]Cmd: EDIT PASTE
+[2017.04.21-12.11.03:044][120]Cmd: EDIT COPY
+[2017.04.21-12.11.04:131][182]Cmd: EDIT PASTE
+[2017.04.21-12.11.12:629][664]Cmd: EDIT COPY
+[2017.04.21-12.11.13:834][733]Cmd: EDIT PASTE
+[2017.04.21-12.11.22:067][194]Cmd: EDIT COPY
+[2017.04.21-12.11.22:529][221]Cmd: EDIT PASTE
+[2017.04.21-12.11.53:789][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.21-12.11.53:981][959]LogSavePackage: Save=162.04ms
+[2017.04.21-12.11.53:981][959]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level392CB43B4F5D1433688D0AA38168C9D8.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.21-12.11.53:985][959]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.21-12.11.54:032][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.21-12.11.56:267][959]LogSavePackage: Save=2204.37ms
+[2017.04.21-12.11.56:267][959]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltData8E92044D4294CCE3219FFBA15F6274A2.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.21-12.11.56:272][959]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.21-12.12.56:038][ 99]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (bookshelf13)
+[2017.04.21-12.12.57:590][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Modular_Wall_Seg10)
+[2017.04.21-12.12.58:463][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf13)
+[2017.04.21-12.13.02:481][454]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (bookshelf12)
+[2017.04.21-12.13.03:853][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (bookshelf12)
+[2017.04.21-12.13.04:271][550]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.04.21-12.13.26:575][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.21-12.13.26:792][799]LogSavePackage: Save=189.04ms
+[2017.04.21-12.13.26:793][799]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-LevelD6E45A17427AED810EE915A1339FA84A.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.21-12.13.26:797][799]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.21-12.13.26:834][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.21-12.13.29:351][799]LogSavePackage: Save=2512.34ms
+[2017.04.21-12.13.29:351][799]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltDataAFE666E240F3AFC58889329500C48407.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.21-12.13.29:355][799]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.21-12.13.52:780][841]LogStreaming:Warning: Took 948.15ms to ProcessLoadedPackages
+[2017.04.21-12.13.56:595][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.21-12.13.56:792][894]LogSavePackage: Save=167.49ms
+[2017.04.21-12.13.56:792][894]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level46E0D45441623D86B27BDF94FF7A2406.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.21-12.13.56:795][894]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.21-12.13.56:877][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.21-12.13.59:099][894]LogSavePackage: Save=2217.26ms
+[2017.04.21-12.13.59:099][894]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltDataAD3EA7BE41571B6E46406D927C5DE425.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.21-12.13.59:103][894]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.21-12.17.06:382][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.21-12.17.06:660][742]LogSavePackage: Save=225.78ms
+[2017.04.21-12.17.06:660][742]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level10F15B6A48FD7FEDD019D3B88D318518.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.21-12.17.06:878][742]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.21-12.17.06:934][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.21-12.17.09:473][742]LogSavePackage: Save=2504.05ms
+[2017.04.21-12.17.09:473][742]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltData2D8AA412471D8EBD19A697A67160074D.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.21-12.17.09:477][742]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.21-12.17.25:823][889]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\pictureframe.fbx)
+[2017.04.21-12.17.25:831][889]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.04.21-12.17.25:831][889]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2017.04.21-12.17.25:831][889]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.04.21-12.17.25:831][889]LogFbx: ItemName: Model, ItemCount : 3
+[2017.04.21-12.17.25:831][889]LogFbx: ItemName: Material, ItemCount : 3
+[2017.04.21-12.17.25:837][889]LogFbx: Loading FBX Scene from C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\pictureframe.fbx
+[2017.04.21-12.17.25:850][889]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.21-12.17.28:157][889]LogFbx: Loading FBX Scene from C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\pictureframe.fbx
+[2017.04.21-12.17.28:168][889]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.21-12.17.28:172][889]LogLinker: Can't find file '/Game/Assets/frame_002'
+[2017.04.21-12.17.28:172][889]LogLinker: Can't find file '/Game/Assets/frame_002'
+[2017.04.21-12.17.28:218][889]LogMaterial: Missing cached shader map for material frame_002, compiling. 
+[2017.04.21-12.17.28:239][889]LogLinker: Can't find file '/Game/Assets/placing'
+[2017.04.21-12.17.28:239][889]LogLinker: Can't find file '/Game/Assets/placing'
+[2017.04.21-12.17.28:256][889]LogMaterial: Missing cached shader map for material placing, compiling. 
+[2017.04.21-12.17.28:286][889]LogLinker: Can't find file '/Game/Assets/picture_001'
+[2017.04.21-12.17.28:287][889]LogLinker: Can't find file '/Game/Assets/picture_001'
+[2017.04.21-12.17.28:301][889]LogMaterial: Missing cached shader map for material picture_001, compiling. 
+[2017.04.21-12.17.28:325][889]LogFbx:Warning: Triangulating static mesh Plane
+[2017.04.21-12.17.28:337][889]LogStaticMesh: Building static mesh pictureframe...
+[2017.04.21-12.17.28:339][889]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/pictureframe.pictureframe
+[2017.04.21-12.17.28:339][889]LogStaticMesh:Warning: pictureframe has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.04.21-12.17.28:346][889]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.04.21-12.17.28:346][889]FBXImport:Warning: Warning pictureframe has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.04.21-12.17.52:596][366]LogMaterial: Missing cached shader map for material frame_002, compiling. 
+[2017.04.21-12.17.52:849][366]LogMaterial: Missing cached shader map for material frame_002, compiling. 
+[2017.04.21-12.17.52:941][366]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.21-12.17.52:979][366]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.04.21-12.18.12:588][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.21-12.18.13:030][734]LogSavePackage: Save=373.18ms
+[2017.04.21-12.18.13:030][734]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-LevelF1CBA32E4D82C9D5B5C51A866DD3A16E.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.21-12.18.13:033][734]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.21-12.18.13:121][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.21-12.18.15:999][734]LogSavePackage: Save=2871.32ms
+[2017.04.21-12.18.15:999][734]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltData0A77EEBE4020F3DFE96EABBA058CEE71.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
