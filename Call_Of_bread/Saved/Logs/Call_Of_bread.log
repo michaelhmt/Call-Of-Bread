@@ -1460,3 +1460,321 @@ LogInit: Object subsystem initialized
 [2017.04.21-12.18.13:121][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
 [2017.04.21-12.18.15:999][734]LogSavePackage: Save=2871.32ms
 [2017.04.21-12.18.15:999][734]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltData0A77EEBE4020F3DFE96EABBA058CEE71.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.21-12.18.16:003][734]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.21-12.19.44:247][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PotKitchen)
+[2017.04.21-12.19.55:755][210]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.04.21-12.20.18:471][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hnagin-Light2)
+[2017.04.21-12.20.27:839][874]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.04.21-12.20.33:568][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.21-12.20.33:763][169]LogSavePackage: Save=165.35ms
+[2017.04.21-12.20.33:763][169]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level9E45A3B147A2797EA9EF7FB029CA5690.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.21-12.20.33:768][169]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.21-12.20.33:860][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.21-12.20.36:358][169]LogSavePackage: Save=2492.60ms
+[2017.04.21-12.20.36:358][169]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltData772EB14F424CAE6D9E16B89106C8F52E.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.21-12.20.36:362][169]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.21-12.22.09:242][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.21-12.22.09:491][149]LogSavePackage: Save=211.90ms
+[2017.04.21-12.22.09:491][149]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level1C3E053B4DE7304AF1BE31BB1CE57115.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.21-12.22.09:493][149]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.21-12.22.09:535][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.21-12.22.11:947][149]LogSavePackage: Save=2364.55ms
+[2017.04.21-12.22.11:947][149]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltDataF0061AAE4A0EA28791D5EA914676C6BA.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.21-12.22.11:952][149]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.21-12.22.15:428][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/clock" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/clock.uasset" SILENT=true
+[2017.04.21-12.22.15:450][200]LogSavePackage: Save=20.21ms
+[2017.04.21-12.22.15:450][200]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/clockA3BD0F714E609404A05DE7A9DCD4608D.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/clock.uasset'
+[2017.04.21-12.22.15:454][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/clock.uasset
+[2017.04.21-12.22.15:544][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/clockface" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/clockface.uasset" SILENT=true
+[2017.04.21-12.22.15:566][200]LogSavePackage: Save=20.20ms
+[2017.04.21-12.22.15:566][200]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/clockface978835F54253C7400AE1CAA1006F775D.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/clockface.uasset'
+[2017.04.21-12.22.15:570][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/clockface.uasset
+[2017.04.21-12.22.15:646][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/clocksides" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/clocksides.uasset" SILENT=true
+[2017.04.21-12.22.15:672][200]LogSavePackage: Save=23.57ms
+[2017.04.21-12.22.15:672][200]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/clocksides8AF7478945D9D0030224DEBCA53F2185.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/clocksides.uasset'
+[2017.04.21-12.22.15:675][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/clocksides.uasset
+[2017.04.21-12.22.15:706][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/frame_002" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/frame_002.uasset" SILENT=true
+[2017.04.21-12.22.15:767][200]LogSavePackage: Save=58.53ms
+[2017.04.21-12.22.15:767][200]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/frame_00269E9697149B91CE8286D0B84551A7166.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/frame_002.uasset'
+[2017.04.21-12.22.15:770][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/frame_002.uasset
+[2017.04.21-12.22.15:858][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/picture_001" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/picture_001.uasset" SILENT=true
+[2017.04.21-12.22.15:895][200]LogSavePackage: Save=32.72ms
+[2017.04.21-12.22.15:895][200]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/picture_0012D1549FA494712A3BFEDA69FBBAF64CF.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/picture_001.uasset'
+[2017.04.21-12.22.15:898][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/picture_001.uasset
+[2017.04.21-12.22.15:987][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/pictureframe" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/pictureframe.uasset" SILENT=true
+[2017.04.21-12.22.16:015][200]LogSavePackage: Save=24.41ms
+[2017.04.21-12.22.16:015][200]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/pictureframeCFF4E35F41CA8F92541D4283EB5EDC37.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/pictureframe.uasset'
+[2017.04.21-12.22.16:022][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/pictureframe.uasset
+[2017.04.21-12.22.16:111][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/placing" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/placing.uasset" SILENT=true
+[2017.04.21-12.22.16:134][200]LogSavePackage: Save=21.21ms
+[2017.04.21-12.22.16:134][200]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/placing392AC8CE4C5953918E100D9CB27250F7.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/placing.uasset'
+[2017.04.21-12.22.16:140][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/placing.uasset
+[2017.04.21-12.22.16:251][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modular_Room-Kit/Pages" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/Pages.uasset" SILENT=true
+[2017.04.21-12.22.16:278][200]LogSavePackage: Save=18.95ms
+[2017.04.21-12.22.16:278][200]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/PagesE12E26AE492F43CD6B36EA8473E06890.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/Pages.uasset'
+[2017.04.21-12.22.16:284][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Modular_Room-Kit/Pages.uasset
+[2017.04.21-12.22.16:965][201]Cmd: QUIT_EDITOR
+[2017.04.21-12.22.17:078][201]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.21-12.22.17:078][201]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.21-12.22.17:234][201]LogExit: Preparing to exit.
+[2017.04.21-12.22.18:341][201]LogDirectoryWatcher: A directory notification for 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/' was aborted.
+[2017.04.21-12.22.18:438][201]LogExit: Editor shut down
+[2017.04.21-12.22.18:440][201]LogExit: Transaction tracking system shut down
+[2017.04.21-12.22.18:997][201]LogObj: Freed 0b from 0 cluster array pools.
+[2017.04.21-12.22.18:997][201]LogExit: Object subsystem successfully closed.
+[2017.04.21-12.22.19:039][201]LogD3D11RHI: Shutdown
+[2017.04.21-12.22.19:040][201]LogD3D11RHI: CleanupD3DDevice
+[2017.04.21-12.22.19:319][201]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.04.21-12.22.19:387][201]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.04.21-12.22.19:387][201]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7C873A37-49D8-F8F3-BA78-A4B6CB97BB93%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=c7f13bf945c3301e352a60bf81dddae3%7Cf7698a23ab304a72af95938514704e6f%7Ca4eec51f-45a8-441a-8972-fd03d43fbe44&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.04.21-12.22.19:391][201]LogModuleManager: Shutting down and abandoning module MaterialEditor (243)
+[2017.04.21-12.22.19:392][201]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (242)
+[2017.04.21-12.22.19:392][201]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.04.21-12.22.19:392][201]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.04.21-12.22.19:392][201]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.04.21-12.22.19:392][201]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.04.21-12.22.19:392][201]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.04.21-12.22.19:393][201]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.04.21-12.22.19:399][201]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.04.21-12.22.19:399][201]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.04.21-12.22.19:399][201]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.04.21-12.22.19:400][201]LogDirectoryWatcher: A directory notification for 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Collections/' was aborted.
+[2017.04.21-12.22.19:400][201]LogDirectoryWatcher: A directory notification for 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Developers/Sabrina/Collections/' was aborted.
+[2017.04.21-12.22.19:400][201]LogDirectoryWatcher: A directory notification for 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Collections/' was aborted.
+[2017.04.21-12.22.19:400][201]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.04.21-12.22.19:400][201]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.04.21-12.22.19:401][201]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.04.21-12.22.19:402][201]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.04.21-12.22.19:402][201]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.04.21-12.22.19:402][201]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.04.21-12.22.19:402][201]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.04.21-12.22.19:402][201]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.04.21-12.22.19:402][201]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.04.21-12.22.19:402][201]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.04.21-12.22.19:402][201]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.04.21-12.22.19:402][201]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.04.21-12.22.19:402][201]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.04.21-12.22.19:403][201]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.04.21-12.22.19:405][201]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.04.21-12.22.19:405][201]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.04.21-12.22.19:405][201]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.04.21-12.22.19:405][201]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.04.21-12.22.19:405][201]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.04.21-12.22.19:405][201]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.04.21-12.22.19:405][201]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.04.21-12.22.19:405][201]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.04.21-12.22.19:405][201]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.04.21-12.22.19:406][201]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.04.21-12.22.19:406][201]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.04.21-12.22.19:406][201]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.04.21-12.22.19:406][201]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.04.21-12.22.19:406][201]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.04.21-12.22.19:406][201]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.04.21-12.22.19:407][201]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.04.21-12.22.19:409][201]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.04.21-12.22.19:410][201]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.04.21-12.22.19:410][201]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.04.21-12.22.19:411][201]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.04.21-12.22.19:411][201]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.04.21-12.22.19:536][201]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.04.21-12.22.19:570][201]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.04.21-12.22.19:570][201]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.04.21-12.22.19:570][201]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.04.21-12.22.19:570][201]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.04.21-12.22.19:572][201]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.04.21-12.22.19:572][201]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.04.21-12.22.19:572][201]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.04.21-12.22.19:573][201]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.04.21-12.22.19:573][201]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.04.21-12.22.19:573][201]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.04.21-12.22.19:574][201]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.04.21-12.22.19:574][201]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.04.21-12.22.19:575][201]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.04.21-12.22.19:575][201]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.04.21-12.22.19:575][201]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.04.21-12.22.19:575][201]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.04.21-12.22.19:575][201]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.04.21-12.22.19:576][201]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.04.21-12.22.19:576][201]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.04.21-12.22.19:576][201]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.04.21-12.22.19:577][201]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.04.21-12.22.19:578][201]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.04.21-12.22.19:578][201]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.04.21-12.22.19:579][201]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.04.21-12.22.19:579][201]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.04.21-12.22.19:621][201]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.04.21-12.22.19:623][201]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.04.21-12.22.19:624][201]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.04.21-12.22.19:626][201]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.04.21-12.22.19:626][201]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.04.21-12.22.19:626][201]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.04.21-12.22.19:627][201]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.04.21-12.22.19:627][201]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.04.21-12.22.19:627][201]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.04.21-12.22.19:628][201]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.04.21-12.22.19:628][201]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.04.21-12.22.19:629][201]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.04.21-12.22.19:629][201]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.04.21-12.22.19:630][201]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.04.21-12.22.19:631][201]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.04.21-12.22.19:632][201]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.04.21-12.22.19:632][201]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.04.21-12.22.19:632][201]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.04.21-12.22.19:632][201]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.04.21-12.22.19:632][201]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.04.21-12.22.19:632][201]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.04.21-12.22.19:632][201]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.04.21-12.22.19:632][201]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.04.21-12.22.19:633][201]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.04.21-12.22.19:633][201]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.04.21-12.22.19:633][201]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.04.21-12.22.19:633][201]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.04.21-12.22.19:640][201]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.04.21-12.22.19:641][201]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.04.21-12.22.19:641][201]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.04.21-12.22.19:641][201]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.04.21-12.22.19:641][201]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.04.21-12.22.19:642][201]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.04.21-12.22.19:642][201]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.04.21-12.22.19:642][201]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.04.21-12.22.19:642][201]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.04.21-12.22.19:642][201]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.04.21-12.22.19:642][201]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.04.21-12.22.19:642][201]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.04.21-12.22.19:642][201]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.04.21-12.22.19:644][201]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.04.21-12.22.19:644][201]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.04.21-12.22.19:645][201]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.04.21-12.22.19:645][201]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.04.21-12.22.19:645][201]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.04.21-12.22.19:645][201]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.04.21-12.22.19:645][201]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.04.21-12.22.19:645][201]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.04.21-12.22.19:645][201]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.04.21-12.22.19:647][201]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.04.21-12.22.19:648][201]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.04.21-12.22.19:648][201]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.04.21-12.22.19:648][201]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.04.21-12.22.19:648][201]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.04.21-12.22.19:648][201]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.04.21-12.22.19:649][201]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.04.21-12.22.19:650][201]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.04.21-12.22.19:651][201]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.04.21-12.22.19:651][201]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.04.21-12.22.19:651][201]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.04.21-12.22.19:652][201]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.04.21-12.22.19:652][201]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.04.21-12.22.19:652][201]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.04.21-12.22.19:652][201]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.04.21-12.22.19:653][201]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.04.21-12.22.19:653][201]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.04.21-12.22.19:660][201]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.04.21-12.22.19:663][201]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.04.21-12.22.19:689][201]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.04.21-12.22.20:261][201]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.04.21-12.22.20:515][201]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.04.21-12.22.20:516][201]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.04.21-12.22.20:523][201]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.04.21-12.22.20:523][201]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.04.21-12.22.20:534][201]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.04.21-12.22.20:534][201]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.04.21-12.22.20:535][201]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.04.21-12.22.20:535][201]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.04.21-12.22.20:535][201]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.04.21-12.22.20:535][201]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.04.21-12.22.20:538][201]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.04.21-12.22.20:539][201]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.04.21-12.22.20:541][201]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.04.21-12.22.20:546][201]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.04.21-12.22.20:546][201]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.04.21-12.22.20:546][201]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.04.21-12.22.20:550][201]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.04.21-12.22.20:558][201]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.04.21-12.22.20:563][201]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.04.21-12.22.20:569][201]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.04.21-12.22.20:569][201]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.04.21-12.22.20:575][201]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.04.21-12.22.20:575][201]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.04.21-12.22.20:575][201]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.04.21-12.22.20:575][201]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.04.21-12.22.20:575][201]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.04.21-12.22.20:575][201]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.04.21-12.22.20:575][201]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.04.21-12.22.20:575][201]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/' was aborted.
+[2017.04.21-12.22.20:576][201]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.04.21-12.22.20:580][201]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.04.21-12.22.20:863][201]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.04.21-12.22.20:864][201]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.04.21-12.22.20:864][201]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.04.21-12.22.20:865][201]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.04.21-12.22.20:865][201]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.04.21-12.22.20:865][201]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.04.21-12.22.20:865][201]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.04.21-12.22.20:865][201]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.04.21-12.22.20:940][201]LogDerivedDataCache: Shutdown
+[2017.04.21-12.22.20:940][201]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.04.21-12.22.20:940][201]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.04.21-12.22.20:941][201]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.04.21-12.22.20:941][201]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.04.21-12.22.20:941][201]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.04.21-12.22.20:941][201]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.04.21-12.22.20:941][201]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.04.21-12.22.20:941][201]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.04.21-12.22.20:942][201]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.04.21-12.22.20:942][201]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.04.21-12.22.20:942][201]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.04.21-12.22.20:942][201]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.04.21-12.22.20:943][201]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.04.21-12.22.20:944][201]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.04.21-12.22.20:944][201]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.04.21-12.22.20:944][201]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.04.21-12.22.20:944][201]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.04.21-12.22.20:944][201]LogOnline:Display: Unloading online subsystem: NULL
+[2017.04.21-12.22.20:945][201]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.04.21-12.22.20:947][201]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.04.21-12.22.20:947][201]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.04.21-12.22.20:948][201]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.04.21-12.22.20:948][201]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.04.21-12.22.20:948][201]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.04.21-12.22.20:948][201]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.04.21-12.22.20:962][201]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.04.21-12.22.20:963][201]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.04.21-12.22.20:963][201]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.04.21-12.22.20:963][201]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.04.21-12.22.20:963][201]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.04.21-12.22.20:963][201]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.04.21-12.22.20:963][201]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.04.21-12.22.20:963][201]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.04.21-12.22.20:963][201]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.04.21-12.22.20:963][201]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.04.21-12.22.20:965][201]LogExit: Exiting.
+[2017.04.21-12.22.20:995][201]Log file closed, 04/21/17 13:22:20
