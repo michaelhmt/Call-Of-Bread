@@ -1295,3 +1295,625 @@ LogInit: Object subsystem initialized
 [2017.04.22-15.25.27:219][881]LogEditorActor: Deleted 1 Actors (0.061 secs)
 [2017.04.22-15.25.30:741][979]Cmd: TRANSACTION UNDO
 [2017.04.22-15.25.30:741][979]LogEditorTransaction: Undo Delete Actors
+[2017.04.22-15.33.57:228][152]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Artworkz\pictureframe2.png)
+[2017.04.22-15.33.57:308][152]LogTexture:Display: Building textures: pictureframe2 (AutoDXT)
+[2017.04.22-15.34.06:431][178]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Artworkz\pictureframe3.png)
+[2017.04.22-15.34.06:485][178]LogTexture:Display: Building textures: pictureframe3 (AutoDXT)
+[2017.04.22-15.34.57:981][948]LogMaterial: Missing cached shader map for material picture2, compiling. 
+[2017.04.22-15.34.58:145][948]LogMaterial: Missing cached shader map for material picture2, compiling. 
+[2017.04.22-15.34.58:157][948]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.35.00:826][  4]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.04.22-15.35.00:826][  4]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.22-15.35.00:826][  4]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.04.22-15.35.07:263][198]LogMaterial: Missing cached shader map for material picture2, compiling. 
+[2017.04.22-15.35.07:280][198]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.35.07:282][198]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.04.22-15.35.14:520][423]LogMaterial: Missing cached shader map for material picture2, compiling. 
+[2017.04.22-15.35.14:539][423]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.35.14:570][423]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.04.22-15.35.17:134][474]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2017.04.22-15.35.17:134][474]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2017.04.22-15.35.17:134][474]MaterialEditorStats: Info Texture samplers: 0/16
+[2017.04.22-15.35.18:090][501]LogMaterial: Missing cached shader map for material picture2, compiling. 
+[2017.04.22-15.35.18:109][501]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.35.18:140][501]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.04.22-15.35.19:549][533]LogMaterialEditor: Saving and Compiling material picture2
+[2017.04.22-15.35.20:307][533]LogMaterial: Missing cached shader map for material picture2, compiling. 
+[2017.04.22-15.35.20:340][533]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.35.20:364][533]LogMaterial: Missing cached shader map for material picture2, compiling. 
+[2017.04.22-15.35.20:393][533]LogMaterial: Missing cached shader map for material picture2, compiling. 
+[2017.04.22-15.35.20:416][533]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.35.23:335][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Misc/Materials/picture2" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/Materials/picture2.uasset" SILENT=true
+[2017.04.22-15.35.23:388][533]LogSavePackage: Save=50.75ms
+[2017.04.22-15.35.23:388][533]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/picture26F9A063442EE0E05EAA92F8B7F4D38FB.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/Materials/picture2.uasset'
+[2017.04.22-15.35.23:392][533]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/Materials/picture2.uasset
+[2017.04.22-15.35.23:397][533]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 59 instructions
+[2017.04.22-15.35.23:397][533]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.04.22-15.35.23:397][533]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.04.22-15.35.31:249][693]LogMaterial: Missing cached shader map for material picture3, compiling. 
+[2017.04.22-15.35.31:321][693]LogMaterial: Missing cached shader map for material picture3, compiling. 
+[2017.04.22-15.35.31:331][693]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.35.38:902][933]LogMaterial: Missing cached shader map for material picture3, compiling. 
+[2017.04.22-15.35.38:921][933]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.35.38:923][933]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.04.22-15.35.44:820][114]LogMaterial: Missing cached shader map for material picture3, compiling. 
+[2017.04.22-15.35.44:838][114]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.35.44:866][114]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.04.22-15.35.48:534][226]LogMaterial: Missing cached shader map for material picture3, compiling. 
+[2017.04.22-15.35.48:564][226]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.35.48:593][226]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.04.22-15.35.51:791][325]LogMaterialEditor: Saving and Compiling material picture3
+[2017.04.22-15.35.52:466][325]LogMaterial: Missing cached shader map for material picture3, compiling. 
+[2017.04.22-15.35.52:495][325]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.35.52:518][325]LogMaterial: Missing cached shader map for material picture3, compiling. 
+[2017.04.22-15.35.52:548][325]LogMaterial: Missing cached shader map for material picture3, compiling. 
+[2017.04.22-15.35.52:570][325]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.35.55:842][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Misc/Materials/picture3" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/Materials/picture3.uasset" SILENT=true
+[2017.04.22-15.35.55:865][325]LogSavePackage: Save=19.69ms
+[2017.04.22-15.35.55:865][325]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/picture3F4BDC18545E8FC4241171592222FBAA3.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/Materials/picture3.uasset'
+[2017.04.22-15.35.55:869][325]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/Materials/picture3.uasset
+[2017.04.22-15.35.55:875][325]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 59 instructions
+[2017.04.22-15.35.55:875][325]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.04.22-15.35.55:875][325]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.04.22-15.36.25:065][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Misc/pictureframe2" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/pictureframe2.uasset" SILENT=true
+[2017.04.22-15.36.25:081][  6]LogSavePackage: Save=14.09ms
+[2017.04.22-15.36.25:081][  6]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/pictureframe28E739B59457B61371A5E158DB9BF3B76.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/pictureframe2.uasset'
+[2017.04.22-15.36.25:084][  6]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/pictureframe2.uasset
+[2017.04.22-15.36.43:694][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Misc/pictureframe3" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/pictureframe3.uasset" SILENT=true
+[2017.04.22-15.36.43:722][391]LogSavePackage: Save=23.22ms
+[2017.04.22-15.36.43:722][391]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/pictureframe31A8E9AD64D054D1D9D810481BC2E2887.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/pictureframe3.uasset'
+[2017.04.22-15.36.43:726][391]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/pictureframe3.uasset
+[2017.04.22-15.36.58:155][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Misc/pictureframe3" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/pictureframe3.uasset" SILENT=true
+[2017.04.22-15.36.58:177][642]LogSavePackage: Save=9.46ms
+[2017.04.22-15.36.58:177][642]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/pictureframe3DA386B0246CF8D6783BD158C7A102FE3.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/pictureframe3.uasset'
+[2017.04.22-15.36.58:178][642]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/pictureframe3.uasset
+[2017.04.22-15.37.03:447][783]LogActorFactory: Actor Factory created pictureframe3
+[2017.04.22-15.37.06:387][919]LogActorFactory: Actor Factory created pictureframe3
+[2017.04.22-15.39.05:292][466]LogSavePackage: Save=205.59ms
+[2017.04.22-15.39.05:292][466]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_Auto797E2FFB242F42F8E2FB76CA00AE0F2A7.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Test-Level_Auto7.umap'
+[2017.04.22-15.39.05:295][466]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Test-Level_Auto7.umap
+[2017.04.22-15.39.05:297][466]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Test-Level' took 0.253
+[2017.04.22-15.39.05:298][466]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.253
+[2017.04.22-15.39.05:304][466]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Misc/Materials/pictureframe2] ([1] browsable assets)...
+[2017.04.22-15.39.05:316][466]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Misc/Materials/pictureframe2.pictureframe2]
+[2017.04.22-15.39.05:316][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Misc/Materials/pictureframe2]
+[2017.04.22-15.39.05:334][466]LogSavePackage: Save=15.35ms
+[2017.04.22-15.39.05:334][466]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/pictureframe2_Auto76244EEBF4756DE0306C882AC28506043.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Assets/Misc/Materials/pictureframe2_Auto7.uasset'
+[2017.04.22-15.39.05:336][466]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Assets/Misc/Materials/pictureframe2_Auto7.uasset
+[2017.04.22-15.39.05:337][466]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Misc/Materials/pictureframe3] ([1] browsable assets)...
+[2017.04.22-15.39.05:347][466]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Misc/Materials/pictureframe3.pictureframe3]
+[2017.04.22-15.39.05:347][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Misc/Materials/pictureframe3]
+[2017.04.22-15.39.05:365][466]LogSavePackage: Save=16.34ms
+[2017.04.22-15.39.05:365][466]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/pictureframe3_Auto7CCE7A9B24CBACCBB01F5D29E34BAF391.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Assets/Misc/Materials/pictureframe3_Auto7.uasset'
+[2017.04.22-15.39.05:367][466]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Assets/Misc/Materials/pictureframe3_Auto7.uasset
+[2017.04.22-15.39.05:368][466]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Misc/Materials/clock_face2psd] ([1] browsable assets)...
+[2017.04.22-15.39.05:380][466]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Misc/Materials/clock_face2psd.clock_face2psd]
+[2017.04.22-15.39.05:380][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Misc/Materials/clock_face2psd]
+[2017.04.22-15.39.05:395][466]LogSavePackage: Save=13.99ms
+[2017.04.22-15.39.05:395][466]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/clock_face2psd_Auto78FFD949D4110EDA1CB81228FAA0F5EE5.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Assets/Misc/Materials/clock_face2psd_Auto7.uasset'
+[2017.04.22-15.39.05:398][466]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Assets/Misc/Materials/clock_face2psd_Auto7.uasset
+[2017.04.22-15.39.05:398][466]LogFileHelpers: Auto-saving content packages took 0.095
+[2017.04.22-15.40.08:913][987]LogActorFactory: Actor Factory created pictureframe2
+[2017.04.22-15.40.09:949][ 34]LogActorFactory: Actor Factory created pictureframe2
+[2017.04.22-15.40.40:818][484]Cmd: TRANSACTION UNDO
+[2017.04.22-15.40.40:818][484]LogEditorTransaction: Undo Rotate Actors
+[2017.04.22-15.40.48:304][826]Cmd: TRANSACTION UNDO
+[2017.04.22-15.40.48:304][826]LogEditorTransaction: Undo Rotate Actors
+[2017.04.22-15.41.38:921][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.22-15.41.39:115][200]LogSavePackage: Save=164.56ms
+[2017.04.22-15.41.39:115][200]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-LevelF952B0AB430040701E3C6ABA61B5BC47.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.22-15.41.39:124][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.22-15.41.39:198][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.22-15.41.41:373][200]LogSavePackage: Save=2150.15ms
+[2017.04.22-15.41.41:373][200]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltData6284876D4B85C8712CCC26AAA12E4E35.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.22-15.41.41:378][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.22-15.44.54:311][233]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.04.22-15.45.01:570][424]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.45.01:570][424]LogMaterial:Warning: Failed to compile Material /Game/Assets/Misc/Materials/clockface.clockface for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-15.45.01:570][424]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-15.45.01:570][424]LogMaterial:Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (0 / 0)
+[2017.04.22-15.45.01:574][424]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.45.01:575][424]LogMaterial:Warning: Failed to compile Material /Game/Assets/Misc/Materials/clockface.clockface for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-15.45.01:575][424]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-15.45.11:646][585]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Artworkz\clockFinal.png)
+[2017.04.22-15.45.11:698][585]LogTexture:Display: Building textures: clockFinal (AutoDXT)
+[2017.04.22-15.45.17:624][664]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.45.17:624][664]LogMaterial:Warning: Failed to compile Material /Engine/Transient.clockface for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-15.45.17:624][664]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-15.45.17:745][664]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.45.17:745][664]LogMaterial:Warning: Failed to compile Material /Engine/Transient.clockface for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-15.45.17:745][664]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-15.45.17:745][664]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.45.17:772][664]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.04.22-15.45.17:780][664]MaterialEditorStats:Error: Error [SM5] (Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-15.45.26:145][930]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.45.26:160][930]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.45.26:193][930]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.04.22-15.45.28:532][995]LogMaterialEditor: Saving and Compiling material clockface
+[2017.04.22-15.45.29:196][995]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.45.29:226][995]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.45.29:249][995]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.45.29:277][995]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.45.29:304][995]LogMaterial: 0.01 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.45.32:490][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Misc/Materials/clockface" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/Materials/clockface.uasset" SILENT=true
+[2017.04.22-15.45.32:527][995]LogSavePackage: Save=17.66ms
+[2017.04.22-15.45.32:527][995]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/clockfaceB56E48C24DFAF497BD85EBA644557594.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/Materials/clockface.uasset'
+[2017.04.22-15.45.32:536][995]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/Materials/clockface.uasset
+[2017.04.22-15.45.32:545][995]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 59 instructions
+[2017.04.22-15.45.32:545][995]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.04.22-15.45.32:545][995]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.04.22-15.49.06:095][400]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.49.06:096][400]LogMaterial:Warning: Failed to compile Material /Game/Assets/Misc/Materials/clockface.clockface for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-15.49.06:096][400]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-15.49.06:098][400]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.49.06:099][400]LogMaterial:Warning: Failed to compile Material /Game/Assets/Misc/Materials/clockface.clockface for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-15.49.06:099][400]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-15.49.06:100][400]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'MaterialExpressionTextureSample_2' or package '/Engine/Transient'.
+[2017.04.22-15.49.06:104][400]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.49.06:105][400]LogMaterial:Warning: Failed to compile Material /Engine/Transient.clockface for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-15.49.06:105][400]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-15.49.06:105][400]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'clockface' or package '/Engine/Transient'.
+[2017.04.22-15.49.14:165][462]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Artworkz\clockfinalfinal.png)
+[2017.04.22-15.49.14:216][462]LogTexture:Display: Building textures: clockfinalfinal (AutoDXT)
+[2017.04.22-15.49.19:359][514]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.49.19:360][514]LogMaterial:Warning: Failed to compile Material /Engine/Transient.clockface for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-15.49.19:360][514]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-15.49.19:463][514]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.49.19:463][514]LogMaterial:Warning: Failed to compile Material /Engine/Transient.clockface for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-15.49.19:464][514]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-15.49.19:464][514]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.49.19:494][514]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.04.22-15.49.19:501][514]MaterialEditorStats:Error: Error [SM5] (Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-15.49.28:794][816]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.49.28:813][816]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.49.28:839][816]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.04.22-15.49.32:966][941]LogMaterialEditor: Saving and Compiling material clockface
+[2017.04.22-15.49.33:645][941]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.49.33:675][941]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.49.33:699][941]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.49.33:729][941]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.49.33:754][941]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.49.36:905][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Misc/Materials/clockface" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/Materials/clockface.uasset" SILENT=true
+[2017.04.22-15.49.36:931][941]LogSavePackage: Save=18.06ms
+[2017.04.22-15.49.36:931][941]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/clockface219C82014EF4A3EB933E7B94E72165BE.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/Materials/clockface.uasset'
+[2017.04.22-15.49.36:934][941]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Misc/Materials/clockface.uasset
+[2017.04.22-15.49.36:942][941]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 59 instructions
+[2017.04.22-15.49.36:942][941]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.04.22-15.49.36:942][941]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.04.22-15.50.04:100][679]LogEditorTransaction: Undo Edit Texture
+[2017.04.22-15.50.04:157][679]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.50.04:158][679]LogMaterial:Warning: Failed to compile Material /Engine/Transient.clockface for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-15.50.04:159][679]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-15.50.12:647][885]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.04.22-15.50.12:765][885]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.04.22-15.50.12:775][885]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-15.50.12:804][885]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.04.22-15.50.25:862][ 59]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.50.25:862][ 59]LogMaterial:Warning: Failed to compile Material /Game/Assets/Misc/Materials/clockface.clockface for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-15.50.25:862][ 59]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-15.50.25:865][ 59]LogMaterial: Missing cached shader map for material clockface, compiling. 
+[2017.04.22-15.50.25:865][ 59]LogMaterial:Warning: Failed to compile Material /Game/Assets/Misc/Materials/clockface.clockface for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-15.50.25:865][ 59]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-15.50.28:886][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.22-15.50.29:188][139]LogSavePackage: Save=234.28ms
+[2017.04.22-15.50.29:188][139]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-LevelD32AC33942E667EE2AF811A5FFA4C378.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.22-15.50.29:190][139]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.22-15.50.29:232][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.22-15.50.31:522][139]LogSavePackage: Save=2221.20ms
+[2017.04.22-15.50.31:522][139]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltData66FEEC074D9F1EB785F83B9D0D01B9BD.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.22-15.50.31:526][139]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.22-15.50.39:736][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.22-15.50.39:935][505]LogSavePackage: Save=173.75ms
+[2017.04.22-15.50.39:936][505]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level9E431DDA49D70DB79D1E54AE9BAD9E14.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.22-15.50.39:939][505]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.22-15.50.39:980][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.22-15.50.42:240][505]LogSavePackage: Save=2257.45ms
+[2017.04.22-15.50.42:240][505]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltDataE951F9F14479525F563CA38CDEE4FBB8.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.22-15.50.42:244][505]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.22-16.00.43:954][476]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Test-Level' took 0.024
+[2017.04.22-16.00.43:956][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Misc/Materials/clockface] ([1] browsable assets)...
+[2017.04.22-16.00.44:121][476]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Misc/Materials/clockface.clockface]
+[2017.04.22-16.00.44:122][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Misc/Materials/clockface]
+[2017.04.22-16.00.44:195][476]LogSavePackage: Save=66.03ms
+[2017.04.22-16.00.44:195][476]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/clockface_Auto89B59EF0744334D7DAE7A1698F7FEAE5B.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Assets/Misc/Materials/clockface_Auto8.uasset'
+[2017.04.22-16.00.44:196][476]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Assets/Misc/Materials/clockface_Auto8.uasset
+[2017.04.22-16.00.44:197][476]LogFileHelpers: Auto-saving content packages took 0.242
+[2017.04.22-16.01.03:531][604]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\untitled.fbx)
+[2017.04.22-16.01.03:537][604]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.04.22-16.01.03:537][604]LogFbx: ItemName: NodeAttribute, ItemCount : 2
+[2017.04.22-16.01.03:537][604]LogFbx: ItemName: Geometry, ItemCount : 1
+[2017.04.22-16.01.03:537][604]LogFbx: ItemName: Model, ItemCount : 3
+[2017.04.22-16.01.03:542][604]LogFbx: Loading FBX Scene from C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\untitled.fbx
+[2017.04.22-16.01.03:551][604]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-16.01.13:291][604]LogFbx: Loading FBX Scene from C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Fbx files\untitled.fbx
+[2017.04.22-16.01.13:302][604]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-16.01.13:306][604]LogFbx:Warning: Triangulating static mesh Plane
+[2017.04.22-16.01.13:308][604]LogStaticMesh: Building static mesh untitled...
+[2017.04.22-16.01.13:310][604]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Magnets/untitled.untitled
+[2017.04.22-16.01.13:312][604]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.04.22-16.05.22:954][762]LogMaterial: Missing cached shader map for material SF, compiling. 
+[2017.04.22-16.05.22:954][762]LogMaterial:Warning: Failed to compile Material /Game/Assets/Magnets/SF.SF for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-16.05.22:954][762]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-16.05.22:957][762]LogMaterial: Missing cached shader map for material SF, compiling. 
+[2017.04.22-16.05.22:958][762]LogMaterial:Warning: Failed to compile Material /Game/Assets/Magnets/SF.SF for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-16.05.22:958][762]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-16.10.44:887][ 62]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Test-Level' took 0.024
+[2017.04.22-16.10.44:889][ 62]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Magnets/SF] ([1] browsable assets)...
+[2017.04.22-16.10.44:915][ 62]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Magnets/SF.SF]
+[2017.04.22-16.10.44:915][ 62]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Magnets/SF]
+[2017.04.22-16.10.44:938][ 62]LogSavePackage: Save=16.01ms
+[2017.04.22-16.10.44:938][ 62]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/SF_Auto91E89BF6F412EA5F7FB8CFB8218717BFE.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Assets/Magnets/SF_Auto9.uasset'
+[2017.04.22-16.10.44:940][ 62]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Assets/Magnets/SF_Auto9.uasset
+[2017.04.22-16.10.44:940][ 62]LogFileHelpers: Auto-saving content packages took 0.052
+[2017.04.22-17.48.11:852][899]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Glass3)
+[2017.04.22-17.48.13:012][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Glass3)
+[2017.04.22-17.49.04:278][ 88]LogSavePackage: Save=195.69ms
+[2017.04.22-17.49.04:278][ 88]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_Auto0D0FF2970403EAE462404098A1918C136.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Test-Level_Auto0.umap'
+[2017.04.22-17.49.04:280][ 88]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Test-Level_Auto0.umap
+[2017.04.22-17.49.04:283][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Test-Level' took 0.279
+[2017.04.22-17.49.04:283][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.279
+[2017.04.22-17.49.28:766][460]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 111 classes and 0 folders.
+[2017.04.22-17.49.29:259][460]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.04.22-17.50.09:628][926]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.04.22-17.57.39:591][348]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2017.04.22-17.58.12:818][586]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-17.59.25:783][355]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Idle.fbx)
+[2017.04.22-17.59.25:799][355]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.04.22-17.59.25:799][355]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.04.22-17.59.25:799][355]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.04.22-17.59.25:799][355]LogFbx: ItemName: NodeAttribute, ItemCount : 73
+[2017.04.22-17.59.25:799][355]LogFbx: ItemName: Model, ItemCount : 86
+[2017.04.22-17.59.25:799][355]LogFbx: ItemName: Geometry, ItemCount : 13
+[2017.04.22-17.59.25:799][355]LogFbx: ItemName: Material, ItemCount : 1
+[2017.04.22-17.59.25:799][355]LogFbx: ItemName: AnimationCurveNode, ItemCount : 217
+[2017.04.22-17.59.25:799][355]LogFbx: ItemName: CollectionExclusive, ItemCount : 7
+[2017.04.22-17.59.25:799][355]LogFbx: ItemName: AnimationCurve, ItemCount : 210
+[2017.04.22-17.59.25:799][355]LogFbx: ItemName: Pose, ItemCount : 1
+[2017.04.22-17.59.25:799][355]LogFbx: ItemName: Deformer, ItemCount : 46
+[2017.04.22-17.59.25:805][355]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Idle.fbx
+[2017.04.22-17.59.25:870][355]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-17.59.29:966][355]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Idle.fbx
+[2017.04.22-17.59.30:036][355]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-17.59.30:044][355]LogFbx: =================================================
+[2017.04.22-17.59.30:044][355]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-17.59.30:044][355]LogFbx: 	Total Deformer Count -2061475968.
+[2017.04.22-17.59.30:044][355]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-17.59.30:044][355]LogFbx: =================================================
+[2017.04.22-17.59.30:044][355]LogFbx: 	Attribute () Type (4).
+[2017.04.22-17.59.30:044][355]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-17.59.30:044][355]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-17.59.30:045][355]LogFbx: =================================================
+[2017.04.22-17.59.30:045][355]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-17.59.30:045][355]LogFbx: 	Total Deformer Count -2061475968.
+[2017.04.22-17.59.30:045][355]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-17.59.30:045][355]LogFbx: =================================================
+[2017.04.22-17.59.30:045][355]LogFbx: 	Attribute () Type (4).
+[2017.04.22-17.59.30:045][355]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-17.59.30:045][355]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-17.59.30:046][355]LogFbx: Valid bind pose for Pose (skinCluster1) - breadcharacterretopsimplemaya:Mesh
+[2017.04.22-17.59.30:052][355]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.22-17.59.30:052][355]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.22-17.59.30:052][355]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.22-17.59.30:052][355]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.22-17.59.30:053][355]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.22-17.59.30:053][355]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.22-17.59.30:053][355]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.22-17.59.30:053][355]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.22-17.59.30:053][355]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.22-17.59.30:053][355]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.22-17.59.30:053][355]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.22-17.59.30:053][355]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.22-17.59.30:053][355]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2017.04.22-17.59.30:053][355]FBXImport:Error: Error Error, Could not import breadcharacterretopsimplemaya:Mesh.
+Duplicate bone name found ('end_Right'). Each bone must have a unique name. 
+[2017.04.22-17.59.30:053][355]FBXImport:Error: Error Multiple roots found 
+[2017.04.22-17.59.30:053][355]FBXImport:Warning: Warning Get Import Data has failed. 
+[2017.04.22-17.59.30:053][355]FBXImport:Error: Error Import failed. 
+[2017.04.22-17.59.31:969][355]LogAssetTools:Warning: Failed to import '../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Idle.fbx'. Failed to create asset '/Game/Bread/Animations/Idle'.
+Please see Output Log for details.
+[2017.04.22-18.01.09:823][839]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/magnetswithpostcard.fbx]
+[2017.04.22-18.01.09:857][839]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/Fbx files/magnetswithpostcard.fbx
+[2017.04.22-18.01.09:867][839]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-18.01.09:870][839]LogFbx:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing.
+[2017.04.22-18.01.09:871][839]LogFbx:Warning: Triangulating static mesh Plane
+[2017.04.22-18.01.09:967][839]LogStaticMesh: Building static mesh magnetswithpostcard...
+[2017.04.22-18.01.09:984][839]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Magnets/magnetswithpostcard.magnetswithpostcard
+[2017.04.22-18.01.09:991][839]LogEditorFactories: -- imported successfully
+[2017.04.22-18.09.32:488][273]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Test-Level' took 0.058
+[2017.04.22-18.09.32:489][273]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Magnets/magnetswithpostcard] ([1] browsable assets)...
+[2017.04.22-18.09.32:592][273]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Magnets/magnetswithpostcard.magnetswithpostcard]
+[2017.04.22-18.09.32:592][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Magnets/magnetswithpostcard]
+[2017.04.22-18.09.32:620][273]LogSavePackage: Save=17.12ms
+[2017.04.22-18.09.32:620][273]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/magnetswithpostcard_Auto12D45A7324176E832738F0B9C904DA571.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Assets/Magnets/magnetswithpostcard_Auto1.uasset'
+[2017.04.22-18.09.32:622][273]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Assets/Magnets/magnetswithpostcard_Auto1.uasset
+[2017.04.22-18.09.32:622][273]LogFileHelpers: Auto-saving content packages took 0.133
+[2017.04.22-18.16.15:661][956]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Artworkz\magnetswithLondonpostcardfinal.png)
+[2017.04.22-18.16.15:734][956]LogTexture:Display: Building textures: magnetswithLondonpostcardfinal (AutoDXT)
+[2017.04.22-18.17.18:395][174]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Sabrina\Desktop\CALL OF BREAD GAME\Artworkz\magnetswithfinalSFpostcard.png)
+[2017.04.22-18.17.18:462][174]LogTexture:Display: Building textures: magnetswithfinalSFpostcard (AutoDXT)
+[2017.04.22-18.17.30:212][371]LogMaterial: Missing cached shader map for material SF, compiling. 
+[2017.04.22-18.17.30:212][371]LogMaterial:Warning: Failed to compile Material /Engine/Transient.SF for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-18.17.30:212][371]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-18.17.30:337][371]LogMaterial: Missing cached shader map for material SF, compiling. 
+[2017.04.22-18.17.30:337][371]LogMaterial:Warning: Failed to compile Material /Engine/Transient.SF for platform PCD3D_SM5, Default Material will be used in game.
+[2017.04.22-18.17.30:337][371]LogMaterial:Warning: 	(Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-18.17.30:337][371]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-18.17.30:369][371]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.04.22-18.17.30:373][371]MaterialEditorStats:Error: Error [SM5] (Node TextureSample) TextureSample> Missing input texture
+[2017.04.22-18.17.40:361][791]LogMaterial: Missing cached shader map for material SF, compiling. 
+[2017.04.22-18.17.40:377][791]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-18.17.40:407][791]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.04.22-18.17.43:261][886]LogMaterialEditor: Saving and Compiling material SF
+[2017.04.22-18.17.43:990][886]LogMaterial: Missing cached shader map for material SF, compiling. 
+[2017.04.22-18.17.44:020][886]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-18.17.44:043][886]LogMaterial: Missing cached shader map for material SF, compiling. 
+[2017.04.22-18.17.44:072][886]LogMaterial: Missing cached shader map for material SF, compiling. 
+[2017.04.22-18.17.44:093][886]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-18.17.47:044][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/SF" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/SF.uasset" SILENT=true
+[2017.04.22-18.17.47:074][886]LogSavePackage: Save=18.58ms
+[2017.04.22-18.17.47:074][886]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/SF56CC30C2485718480ADAB6A10F78E7DF.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/SF.uasset'
+[2017.04.22-18.17.47:117][886]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/SF.uasset
+[2017.04.22-18.17.47:125][886]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 59 instructions
+[2017.04.22-18.17.47:125][886]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.04.22-18.17.47:125][886]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.04.22-18.18.01:676][272]LogSavePackage: Save=7.06ms
+[2017.04.22-18.18.01:676][272]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/magnetswithpostcardA27EE974424806B6C10C7CB8CE5A123F.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard.uasset'
+[2017.04.22-18.18.01:685][272]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard.uasset
+[2017.04.22-18.18.22:585][838]LogMaterial: Missing cached shader map for material London, compiling. 
+[2017.04.22-18.18.22:723][838]LogMaterial: Missing cached shader map for material London, compiling. 
+[2017.04.22-18.18.22:737][838]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-18.18.31:414][143]LogMaterial: Missing cached shader map for material London, compiling. 
+[2017.04.22-18.18.31:425][143]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-18.18.31:427][143]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.04.22-18.18.39:872][502]LogMaterial: Missing cached shader map for material London, compiling. 
+[2017.04.22-18.18.39:886][502]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-18.18.39:916][502]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.04.22-18.18.42:723][601]LogMaterial: Missing cached shader map for material London, compiling. 
+[2017.04.22-18.18.42:746][601]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-18.18.42:778][601]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.04.22-18.18.44:816][669]LogMaterialEditor: Saving and Compiling material London
+[2017.04.22-18.18.45:480][669]LogMaterial: Missing cached shader map for material London, compiling. 
+[2017.04.22-18.18.45:511][669]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-18.18.45:535][669]LogMaterial: Missing cached shader map for material London, compiling. 
+[2017.04.22-18.18.45:567][669]LogMaterial: Missing cached shader map for material London, compiling. 
+[2017.04.22-18.18.45:590][669]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-18.18.49:508][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/London" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/London.uasset" SILENT=true
+[2017.04.22-18.18.49:542][669]LogSavePackage: Save=28.30ms
+[2017.04.22-18.18.49:542][669]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/London54E71E254D50A066A99B43999D355426.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/London.uasset'
+[2017.04.22-18.18.49:550][669]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/London.uasset
+[2017.04.22-18.18.49:560][669]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 59 instructions
+[2017.04.22-18.18.49:560][669]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2017.04.22-18.18.49:560][669]MaterialEditorStats: Info Texture samplers: 4/16
+[2017.04.22-18.19.15:121][203]LogSavePackage: Save=13.47ms
+[2017.04.22-18.19.15:121][203]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/magnetswithpostcard2DED0718844F8A5B7C603A789C41E4F5C.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard2.uasset'
+[2017.04.22-18.19.15:125][203]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard2.uasset
+[2017.04.22-18.19.26:096][558]LogActorFactory: Actor Factory created magnetswithpostcard
+[2017.04.22-18.19.27:189][607]LogActorFactory: Actor Factory created magnetswithpostcard
+[2017.04.22-18.20.42:128][852]LogMaterial: Missing cached shader map for material magnetswithLondonpostcardfinal_Mat, compiling. 
+[2017.04.22-18.20.42:151][852]LogMaterial:Warning: Material /Game/Assets/Magnets/magnetswithLondonpostcardfinal_Mat.magnetswithLondonpostcardfinal_Mat needed to have new flag set bUsedWithStaticLighting !
+[2017.04.22-18.20.42:154][852]LogMaterial: Missing cached shader map for material magnetswithLondonpostcardfinal_Mat, compiling. 
+[2017.04.22-18.20.42:187][852]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.22-18.20.43:760][916]Cmd: TRANSACTION UNDO
+[2017.04.22-18.20.43:760][916]LogEditorTransaction: Undo Create Actors
+[2017.04.22-18.21.10:491][891]LogSavePackage: Save=17.81ms
+[2017.04.22-18.21.10:491][891]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/magnetswithLondonpostcardfinal_MatBD9FBBD1434F7B7FCB3C938CCD213BEE.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/magnetswithLondonpostcardfinal_Mat.uasset'
+[2017.04.22-18.21.10:494][891]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/magnetswithLondonpostcardfinal_Mat.uasset
+[2017.04.22-18.21.17:403][ 85]LogSavePackage: Save=36.09ms
+[2017.04.22-18.21.17:403][ 85]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/ArtworkzfinaljackuvE14C983543D9E8099F2F4D8C0B986440.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Artworkzfinaljackuv.uasset'
+[2017.04.22-18.21.17:406][ 85]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Artworkzfinaljackuv.uasset
+[2017.04.22-18.21.17:698][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/Jack" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Jack.uasset" SILENT=true
+[2017.04.22-18.21.17:721][ 85]LogSavePackage: Save=14.73ms
+[2017.04.22-18.21.17:721][ 85]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/JackFCE874E04EE3081B84297BB9FBE9C602.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Jack.uasset'
+[2017.04.22-18.21.17:722][ 85]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Jack.uasset
+[2017.04.22-18.21.22:119][260]LogSavePackage: Save=15.96ms
+[2017.04.22-18.21.22:119][260]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Blueplastic77D21E3546F25E9B7BCB5AA59DB489A0.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Blueplastic.uasset'
+[2017.04.22-18.21.22:123][260]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Blueplastic.uasset
+[2017.04.22-18.21.22:314][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/climbingmagnets2" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/climbingmagnets2.uasset" SILENT=true
+[2017.04.22-18.21.22:329][260]LogSavePackage: Save=7.18ms
+[2017.04.22-18.21.22:329][260]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/climbingmagnets29AD5CFBD4DE5BE7B5C22F58924BF2AF9.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/climbingmagnets2.uasset'
+[2017.04.22-18.21.22:331][260]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/climbingmagnets2.uasset
+[2017.04.22-18.21.31:641][515]LogSavePackage: Save=13.53ms
+[2017.04.22-18.21.31:641][515]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Heart_Out3E5921D44E20E09490FCE58F99CBE58B.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Heart_Out.uasset'
+[2017.04.22-18.21.31:643][515]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Heart_Out.uasset
+[2017.04.22-18.21.31:747][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/Materials/Jack" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Jack.uasset" SILENT=true
+[2017.04.22-18.21.31:764][515]LogSavePackage: Save=14.96ms
+[2017.04.22-18.21.31:764][515]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Jack1BAC33AC4C18BED667C896B8071D8F14.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Jack.uasset'
+[2017.04.22-18.21.31:767][515]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Jack.uasset
+[2017.04.22-18.21.31:869][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/Materials/London" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/London.uasset" SILENT=true
+[2017.04.22-18.21.31:888][515]LogSavePackage: Save=16.97ms
+[2017.04.22-18.21.31:888][515]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/LondonC137B7EB4DB3C01E43C3388A232FEDAE.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/London.uasset'
+[2017.04.22-18.21.31:891][515]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/London.uasset
+[2017.04.22-18.21.31:969][515]LogSavePackage: Save=15.35ms
+[2017.04.22-18.21.31:969][515]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Magenetplastic6BAB5CB34F08465528153193CA64951A.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Magenetplastic.uasset'
+[2017.04.22-18.21.31:973][515]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Magenetplastic.uasset
+[2017.04.22-18.21.32:128][515]LogSavePackage: Save=141.88ms
+[2017.04.22-18.21.32:128][515]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/magnetswithfinalSFpostcard4A63740A466271474FC28299FEAEB9E0.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/magnetswithfinalSFpostcard.uasset'
+[2017.04.22-18.21.32:131][515]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/magnetswithfinalSFpostcard.uasset
+[2017.04.22-18.21.32:321][515]LogSavePackage: Save=172.88ms
+[2017.04.22-18.21.32:321][515]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/magnetswithLondonpostcardfinalC169C92B4DD9E1E4A85DD98870F92D8D.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/magnetswithLondonpostcardfinal.uasset'
+[2017.04.22-18.21.32:323][515]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/magnetswithLondonpostcardfinal.uasset
+[2017.04.22-18.21.32:947][515]LogSavePackage: Save=14.24ms
+[2017.04.22-18.21.32:947][515]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/heart_magnet_built_45C333A9420065578C6841990144D507.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/heart_magnet_built_.uasset'
+[2017.04.22-18.21.32:949][515]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/heart_magnet_built_.uasset
+[2017.04.22-18.21.32:962][515]LogSavePackage: Save=6.04ms
+[2017.04.22-18.21.32:962][515]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/heart_magnet_built_2C3F65324B51B7187780FD8C84DD470B.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/heart_magnet_built_.uasset'
+[2017.04.22-18.21.32:964][515]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/heart_magnet_built_.uasset
+[2017.04.22-18.21.32:984][515]LogSavePackage: Save=7.12ms
+[2017.04.22-18.21.32:984][515]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/magnetswithpostcard2516402DC42025E1CB09D7EABA5CD1472.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard2.uasset'
+[2017.04.22-18.21.32:985][515]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard2.uasset
+[2017.04.22-18.21.32:990][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/BANGmagnets" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset" SILENT=true
+[2017.04.22-18.21.33:007][515]LogSavePackage: Save=7.50ms
+[2017.04.22-18.21.33:008][515]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/BANGmagnets36676FB04F99DFED641189A1873004B8.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset'
+[2017.04.22-18.21.33:018][515]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset
+[2017.04.22-18.21.33:024][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/SF" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/SF.uasset" SILENT=true
+[2017.04.22-18.21.33:052][515]LogSavePackage: Save=23.58ms
+[2017.04.22-18.21.33:052][515]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/SF11F6C6664B73D68E3EAC5BAD449759B9.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/SF.uasset'
+[2017.04.22-18.21.33:053][515]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/SF.uasset
+[2017.04.22-18.21.33:074][515]LogSavePackage: Save=6.75ms
+[2017.04.22-18.21.33:074][515]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/magnetswithLondonpostcardfinal_MatE967B74146136054D4C32EA0E2422221.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/magnetswithLondonpostcardfinal_Mat.uasset'
+[2017.04.22-18.21.33:076][515]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/magnetswithLondonpostcardfinal_Mat.uasset
+[2017.04.22-18.21.40:823][735]LogSavePackage: Save=21.28ms
+[2017.04.22-18.21.40:823][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material387E344C436CD4E1600DDA82620B2652.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Material.uasset'
+[2017.04.22-18.21.40:827][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Material.uasset
+[2017.04.22-18.21.40:948][735]LogSavePackage: Save=15.56ms
+[2017.04.22-18.21.40:948][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_0017174A82048C3F568B910B189EA80A417.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Material_001.uasset'
+[2017.04.22-18.21.40:952][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Material_001.uasset
+[2017.04.22-18.21.41:072][735]LogSavePackage: Save=15.83ms
+[2017.04.22-18.21.41:072][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_00291153F874816B97469FEFBB108184863.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Material_002.uasset'
+[2017.04.22-18.21.41:076][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Material_002.uasset
+[2017.04.22-18.21.41:172][735]LogSavePackage: Save=14.87ms
+[2017.04.22-18.21.41:172][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Material_00379738BDE4FC3F53F30A674BF7F30CE35.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Material_003.uasset'
+[2017.04.22-18.21.41:174][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Material_003.uasset
+[2017.04.22-18.21.41:217][735]LogSavePackage: Save=15.65ms
+[2017.04.22-18.21.41:217][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/RedplasticC96C57234AC73DCB09C4FCB25EF8D2CE.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Redplastic.uasset'
+[2017.04.22-18.21.41:220][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/Redplastic.uasset
+[2017.04.22-18.21.41:248][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/Materials/SF" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/SF.uasset" SILENT=true
+[2017.04.22-18.21.41:265][735]LogSavePackage: Save=15.69ms
+[2017.04.22-18.21.41:265][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/SF0C960020412A1B4193BA4D84786083D6.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/SF.uasset'
+[2017.04.22-18.21.41:268][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/SF.uasset
+[2017.04.22-18.21.41:968][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/WHOOSHmagnets" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/WHOOSHmagnets.uasset" SILENT=true
+[2017.04.22-18.21.41:989][735]LogSavePackage: Save=13.10ms
+[2017.04.22-18.21.41:989][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/WHOOSHmagnetsA8D6FFCC4544E69458FCD48438139BAD.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/WHOOSHmagnets.uasset'
+[2017.04.22-18.21.41:990][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/WHOOSHmagnets.uasset
+[2017.04.22-18.21.42:005][735]LogSavePackage: Save=6.84ms
+[2017.04.22-18.21.42:005][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/magnetswithpostcard07BCD8E944955DC5444C95915CEFC787.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard.uasset'
+[2017.04.22-18.21.42:006][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard.uasset
+[2017.04.22-18.21.42:024][735]LogSavePackage: Save=9.59ms
+[2017.04.22-18.21.42:024][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/magnetswithpostcard24EBFC4A2490A72DA4694FE8D31124997.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard2.uasset'
+[2017.04.22-18.21.42:026][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard2.uasset
+[2017.04.22-18.21.42:030][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/BANGmagnets" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset" SILENT=true
+[2017.04.22-18.21.42:040][735]LogSavePackage: Save=6.03ms
+[2017.04.22-18.21.42:040][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/BANGmagnetsCAF6D5A3432D3B675DAB11A700273007.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset'
+[2017.04.22-18.21.42:042][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset
+[2017.04.22-18.21.42:046][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/arrow_magnet" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/arrow_magnet.uasset" SILENT=true
+[2017.04.22-18.21.42:061][735]LogSavePackage: Save=6.48ms
+[2017.04.22-18.21.42:061][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/arrow_magnetC3AE14BB4C8D170AF8E646B64D599BD2.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/arrow_magnet.uasset'
+[2017.04.22-18.21.42:069][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/arrow_magnet.uasset
+[2017.04.22-18.21.42:072][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/WHOOSHmagnets" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/WHOOSHmagnets.uasset" SILENT=true
+[2017.04.22-18.21.42:082][735]LogSavePackage: Save=6.17ms
+[2017.04.22-18.21.42:083][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/WHOOSHmagnetsAD33E9654F1935866BDE00B6440A27D7.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/WHOOSHmagnets.uasset'
+[2017.04.22-18.21.42:084][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/WHOOSHmagnets.uasset
+[2017.04.22-18.21.42:189][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/MagnetUP" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/MagnetUP.uasset" SILENT=true
+[2017.04.22-18.21.42:212][735]LogSavePackage: Save=13.60ms
+[2017.04.22-18.21.42:212][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/MagnetUPF64944B74581D3ECD97C7A93C6B37F34.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/MagnetUP.uasset'
+[2017.04.22-18.21.42:213][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/MagnetUP.uasset
+[2017.04.22-18.21.42:217][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/WHOOSHmagnets" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/WHOOSHmagnets.uasset" SILENT=true
+[2017.04.22-18.21.42:227][735]LogSavePackage: Save=6.26ms
+[2017.04.22-18.21.42:227][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/WHOOSHmagnets3689A2884144CD4185C225A8E0F4ABA3.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/WHOOSHmagnets.uasset'
+[2017.04.22-18.21.42:229][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/WHOOSHmagnets.uasset
+[2017.04.22-18.21.42:232][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/BANGmagnets" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset" SILENT=true
+[2017.04.22-18.21.42:251][735]LogSavePackage: Save=6.75ms
+[2017.04.22-18.21.42:251][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/BANGmagnets0136223648EE284B42EC398FE4221CBA.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset'
+[2017.04.22-18.21.42:253][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset
+[2017.04.22-18.21.42:363][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/climbingmagnets" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/climbingmagnets.uasset" SILENT=true
+[2017.04.22-18.21.42:390][735]LogSavePackage: Save=13.69ms
+[2017.04.22-18.21.42:390][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/climbingmagnetsAABC3CB249EE3845B6D3F1A5D3752DE6.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/climbingmagnets.uasset'
+[2017.04.22-18.21.42:391][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/climbingmagnets.uasset
+[2017.04.22-18.21.42:395][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/MagnetUP" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/MagnetUP.uasset" SILENT=true
+[2017.04.22-18.21.42:405][735]LogSavePackage: Save=6.17ms
+[2017.04.22-18.21.42:405][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/MagnetUPD671008F4B03AEFFAB52B3BF758902E1.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/MagnetUP.uasset'
+[2017.04.22-18.21.42:407][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/MagnetUP.uasset
+[2017.04.22-18.21.42:421][735]LogSavePackage: Save=6.54ms
+[2017.04.22-18.21.42:421][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/magnetswithpostcardCDD6B8BA41927004084846BD5857E41E.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard.uasset'
+[2017.04.22-18.21.42:423][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard.uasset
+[2017.04.22-18.21.42:438][735]LogSavePackage: Save=6.53ms
+[2017.04.22-18.21.42:438][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/magnetswithpostcard2AAD9D5314793E7E70FDD80B863C8CD2B.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard2.uasset'
+[2017.04.22-18.21.42:440][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard2.uasset
+[2017.04.22-18.21.42:443][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/BANGmagnets" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset" SILENT=true
+[2017.04.22-18.21.42:454][735]LogSavePackage: Save=7.07ms
+[2017.04.22-18.21.42:454][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/BANGmagnets718002E943FC444CB1AA999DDE6BECAA.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset'
+[2017.04.22-18.21.42:456][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset
+[2017.04.22-18.21.42:470][735]LogSavePackage: Save=6.34ms
+[2017.04.22-18.21.42:470][735]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/magnetswithpostcard866614054FE69BEB08A95C9574D45D3C.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard.uasset'
+[2017.04.22-18.21.42:472][735]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/magnetswithpostcard.uasset
+[2017.04.22-18.21.45:531][822]LogSavePackage: Save=20.08ms
+[2017.04.22-18.21.45:531][822]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/yellowplasticE9FC8EB74BE83B529EC0A68D3837DCF4.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/yellowplastic.uasset'
+[2017.04.22-18.21.45:537][822]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/Materials/yellowplastic.uasset
+[2017.04.22-18.21.45:773][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/WHOOSHmagnets" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/WHOOSHmagnets.uasset" SILENT=true
+[2017.04.22-18.21.45:788][822]LogSavePackage: Save=9.81ms
+[2017.04.22-18.21.45:788][822]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/WHOOSHmagnetsB7BA81B740B0368176B00DA29F775DE2.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/WHOOSHmagnets.uasset'
+[2017.04.22-18.21.45:789][822]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/WHOOSHmagnets.uasset
+[2017.04.22-18.21.45:793][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Magnets/BANGmagnets" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset" SILENT=true
+[2017.04.22-18.21.45:804][822]LogSavePackage: Save=6.63ms
+[2017.04.22-18.21.45:804][822]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/BANGmagnetsB3C3E62B4DB62920B9A5289109BB28A0.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset'
+[2017.04.22-18.21.45:805][822]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Assets/Magnets/BANGmagnets.uasset
+[2017.04.22-18.21.51:578][926]LogActorFactory: Actor Factory created magnetswithpostcard2
+[2017.04.22-18.21.54:486][ 47]LogActorFactory: Actor Factory created magnetswithpostcard2
+[2017.04.22-18.22.21:690][715]Cmd: TRANSACTION UNDO
+[2017.04.22-18.22.21:690][715]LogEditorTransaction: Undo Move Actors
+[2017.04.22-18.22.22:177][735]Cmd: TRANSACTION UNDO
+[2017.04.22-18.22.22:178][735]LogEditorTransaction: Undo Set actor rotation
+[2017.04.22-18.22.22:753][761]Cmd: TRANSACTION UNDO
+[2017.04.22-18.22.22:753][761]LogEditorTransaction: Undo Set actor rotation
+[2017.04.22-18.23.05:596][617]Cmd: TRANSACTION UNDO
+[2017.04.22-18.23.05:596][617]LogEditorTransaction: Undo Move Actors
+[2017.04.22-18.23.27:727][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (magnetswithpostcard)
+[2017.04.22-18.23.34:287][922]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (climbingmagnets21)
+[2017.04.22-18.23.38:035][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (climbingmagnets26)
+[2017.04.22-18.23.40:274][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (climbingmagnets21)
+[2017.04.22-18.24.39:079][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.22-18.24.39:338][371]LogSavePackage: Save=213.91ms
+[2017.04.22-18.24.39:338][371]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-LevelAA771DBE4DFDC8B12DD3FDA4C455B1B5.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.22-18.24.39:347][371]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.22-18.24.39:421][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.22-18.24.41:744][371]LogSavePackage: Save=2293.60ms
+[2017.04.22-18.24.41:744][371]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltData87E3815B4DFCD0C234B5EB833D42182D.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.22-18.24.41:748][371]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.22-18.24.56:990][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (magnetswithpostcard)
+[2017.04.22-18.25.01:879][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.22-18.25.02:106][276]LogSavePackage: Save=191.98ms
+[2017.04.22-18.25.02:106][276]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level5A6266C345A69293354A469325A418F9.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.22-18.25.02:110][276]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.22-18.25.02:169][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.22-18.25.04:380][276]LogSavePackage: Save=2207.75ms
+[2017.04.22-18.25.04:381][276]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltDataFF2E78974E965D2E81953780892016CC.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.22-18.25.04:381][276]LogFileManager:Warning: DeleteFile was unable to delete '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset', retrying in .5s...
+[2017.04.22-18.25.04:886][276]LogFileManager:Warning: DeleteFile recovered during retry!
+[2017.04.22-18.25.04:888][276]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.22-18.25.14:086][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Call-Of-Bread_table)
+[2017.04.22-18.25.28:830][326]LogRenderer: Reallocating scene render targets to support 972x692 NumSamples 1 (Frame:359878).
+[2017.04.22-18.25.28:898][327]LogRenderer: Reallocating scene render targets to support 976x692 NumSamples 1 (Frame:359880).
+[2017.04.22-18.25.29:025][327]LogRenderer: Reallocating scene render targets to support 988x692 NumSamples 1 (Frame:359882).
+[2017.04.22-18.25.29:241][329]LogRenderer: Reallocating scene render targets to support 1032x692 NumSamples 1 (Frame:359884).
+[2017.04.22-18.25.29:335][330]LogRenderer: Reallocating scene render targets to support 1056x692 NumSamples 1 (Frame:359886).
+[2017.04.22-18.26.21:147][285]LogRenderer: Reallocating scene render targets to support 1060x692 NumSamples 1 (Frame:361697).
+[2017.04.22-18.26.21:212][286]LogRenderer: Reallocating scene render targets to support 1064x692 NumSamples 1 (Frame:361699).
+[2017.04.22-18.26.21:302][287]LogRenderer: Reallocating scene render targets to support 1068x692 NumSamples 1 (Frame:361701).
+[2017.04.22-18.26.21:434][288]LogRenderer: Reallocating scene render targets to support 1072x692 NumSamples 1 (Frame:361703).
+[2017.04.22-18.26.21:541][289]LogRenderer: Reallocating scene render targets to support 1084x692 NumSamples 1 (Frame:361705).
+[2017.04.22-18.26.21:676][290]LogRenderer: Reallocating scene render targets to support 1088x692 NumSamples 1 (Frame:361707).
+[2017.04.22-18.26.21:767][291]LogRenderer: Reallocating scene render targets to support 1092x692 NumSamples 1 (Frame:361709).
+[2017.04.22-18.26.29:983][604]LogRenderer: Reallocating scene render targets to support 1092x704 NumSamples 1 (Frame:361988).
+[2017.04.22-18.26.30:047][605]LogRenderer: Reallocating scene render targets to support 1092x716 NumSamples 1 (Frame:361990).
+[2017.04.22-18.26.30:130][606]LogRenderer: Reallocating scene render targets to support 1092x724 NumSamples 1 (Frame:361992).
+[2017.04.22-18.26.30:207][607]LogRenderer: Reallocating scene render targets to support 1092x728 NumSamples 1 (Frame:361994).
+[2017.04.22-18.26.30:366][608]LogRenderer: Reallocating scene render targets to support 1092x732 NumSamples 1 (Frame:361996).
+[2017.04.22-18.26.30:461][609]LogRenderer: Reallocating scene render targets to support 1092x744 NumSamples 1 (Frame:361998).
+[2017.04.22-18.26.30:554][610]LogRenderer: Reallocating scene render targets to support 1092x752 NumSamples 1 (Frame:362000).
+[2017.04.22-18.26.30:629][611]LogRenderer: Reallocating scene render targets to support 1092x756 NumSamples 1 (Frame:362002).
+[2017.04.22-18.26.30:745][612]LogRenderer: Reallocating scene render targets to support 1092x760 NumSamples 1 (Frame:362004).
+[2017.04.22-18.26.30:814][613]LogRenderer: Reallocating scene render targets to support 1092x768 NumSamples 1 (Frame:362006).
+[2017.04.22-18.26.30:883][614]LogRenderer: Reallocating scene render targets to support 1092x772 NumSamples 1 (Frame:362008).
+[2017.04.22-18.26.31:058][617]LogRenderer: Reallocating scene render targets to support 1092x776 NumSamples 1 (Frame:362010).
+[2017.04.22-18.26.31:177][620]LogRenderer: Reallocating scene render targets to support 1092x780 NumSamples 1 (Frame:362012).
+[2017.04.22-18.26.31:327][622]LogRenderer: Reallocating scene render targets to support 1092x784 NumSamples 1 (Frame:362016).
+[2017.04.22-18.26.32:617][687]LogRenderer: Reallocating scene render targets to support 1092x788 NumSamples 1 (Frame:362024).
+[2017.04.22-18.26.33:126][710]LogRenderer: Reallocating scene render targets to support 1092x792 NumSamples 1 (Frame:362028).
+[2017.04.22-18.26.39:141][953]LogRenderer: Reallocating scene render targets to support 1092x796 NumSamples 1 (Frame:362186).
+[2017.04.22-18.26.39:213][954]LogRenderer: Reallocating scene render targets to support 1092x800 NumSamples 1 (Frame:362188).
+[2017.04.22-18.26.56:224][557]LogRenderer: Reallocating scene render targets to support 1096x800 NumSamples 1 (Frame:362690).
+[2017.04.22-18.27.01:099][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.22-18.27.01:333][752]LogSavePackage: Save=197.60ms
+[2017.04.22-18.27.01:334][752]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level9FDF53E94DDAC74F23751D9A9323609E.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.22-18.27.01:335][752]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.22-18.27.01:376][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.22-18.27.03:504][752]LogSavePackage: Save=2123.68ms
+[2017.04.22-18.27.03:504][752]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltData41841C124074C7A29FEEB6AE245D1AFA.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
+[2017.04.22-18.27.03:508][752]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset
+[2017.04.22-18.28.03:660][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.22-18.28.03:907][473]LogSavePackage: Save=211.19ms
+[2017.04.22-18.28.03:907][473]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level252719B64D011832C6C48CBB6576A3B3.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.22-18.28.03:909][473]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.22-18.28.03:962][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level_BuiltData" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset" SILENT=true
+[2017.04.22-18.28.06:209][473]LogSavePackage: Save=2243.83ms
+[2017.04.22-18.28.06:209][473]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level_BuiltData1622E4394FBAF9D179F8888CF19D361B.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level_BuiltData.uasset'
