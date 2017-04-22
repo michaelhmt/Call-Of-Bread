@@ -1,9 +1,9 @@
-﻿Log file open, 04/22/17 23:29:31
+﻿Log file open, 04/22/17 23:47:32
 LogInit:Display: Running engine for game: Call_Of_bread
 LogPlatformFile: Not using cached read wrapper
-LogInit:Display: RandInit(733567974) SRandInit(733567974).
+LogInit:Display: RandInit(-597464409) SRandInit(-597464409).
 LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
-LogStats: Stats thread started at 0.055393
+LogStats: Stats thread started at 0.055417
 LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
 LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
 LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
@@ -143,700 +143,891 @@ LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.04.22-22.29.31:758][  0]LogInit: Selected Device Profile: [Windows]
-[2017.04.22-22.29.31:758][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.04.22-22.29.31:770][  0]LogInit: Computer: DESKTOP-VTD5TTC
-[2017.04.22-22.29.31:770][  0]LogInit: User: Sabrina
-[2017.04.22-22.29.31:770][  0]LogInit: CPU Page size=65536, Cores=2
-[2017.04.22-22.29.31:770][  0]LogInit: High frequency timer resolution =2.742189 MHz
-[2017.04.22-22.29.31:770][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2017.04.22-22.29.31:770][  0]LogMemory: Platform Memory Stats for Windows
-[2017.04.22-22.29.31:770][  0]LogMemory: Process Physical Memory: 265.29 MB used, 265.29 MB peak
-[2017.04.22-22.29.31:770][  0]LogMemory: Process Virtual Memory: 262.30 MB used, 262.30 MB peak
-[2017.04.22-22.29.31:770][  0]LogMemory: Physical Memory: 9096.09 MB used,  7214.02 MB free, 16310.11 MB total
-[2017.04.22-22.29.31:770][  0]LogMemory: Virtual Memory: 674.74 MB used,  7214.02 MB free, 134217728.00 MB total
-[2017.04.22-22.29.31:794][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
-[2017.04.22-22.29.32:439][  0]LogD3D11RHI: D3D11 adapters:
-[2017.04.22-22.29.32:476][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GPU' (Feature Level 11_0)
-[2017.04.22-22.29.32:476][  0]LogD3D11RHI:       996/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2017.04.22-22.29.32:482][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
-[2017.04.22-22.29.32:482][  0]LogD3D11RHI:       128/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2017.04.22-22.29.32:484][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.04.22-22.29.32:484][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.04.22-22.29.32:484][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.04.22-22.29.32:489][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.04.22-22.29.32:489][  0]LogD3D11RHI:     GPU DeviceId: 0x134b (for the marketing name, search the web for "GPU Device Id")
-[2017.04.22-22.29.32:489][  0]LogWindows: EnumDisplayDevices:
-[2017.04.22-22.29.32:489][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
-[2017.04.22-22.29.32:489][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
-[2017.04.22-22.29.32:489][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
-[2017.04.22-22.29.32:490][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2017.04.22-22.29.32:490][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GPU
-[2017.04.22-22.29.32:490][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2017.04.22-22.29.32:490][  0]LogD3D11RHI:      Driver Date: Unknown
-[2017.04.22-22.29.32:490][  0]LogRHI: Texture pool is 697 MB (70% of 996 MB)
-[2017.04.22-22.29.32:506][  0]LogD3D11RHI: Async texture creation enabled
-[2017.04.22-22.29.32:523][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2017.04.22-22.29.32:524][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Intermediate/Shaders/WorkingDirectory/9996/).
-[2017.04.22-22.29.32:524][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Sabrina/AppData/Local/Temp/UnrealShaderWorkingDir/903079384F9DB551FB418DB466D74F27/'.
-[2017.04.22-22.29.32:524][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
-[2017.04.22-22.29.34:559][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
-[2017.04.22-22.29.34:610][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
-[2017.04.22-22.29.34:661][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
-[2017.04.22-22.29.34:712][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
-[2017.04.22-22.29.34:764][  0]LogTemp:Display: Loaded TP MacTargetPlatform
-[2017.04.22-22.29.34:817][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
-[2017.04.22-22.29.34:868][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.04.22-22.29.34:922][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
-[2017.04.22-22.29.34:964][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
-[2017.04.22-22.29.35:017][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
-[2017.04.22-22.29.35:079][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
-[2017.04.22-22.29.35:135][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
-[2017.04.22-22.29.35:185][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
-[2017.04.22-22.29.35:235][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
-[2017.04.22-22.29.35:287][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
-[2017.04.22-22.29.35:388][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
-[2017.04.22-22.29.35:388][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.04.22-22.29.35:425][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
-[2017.04.22-22.29.35:505][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
-[2017.04.22-22.29.35:540][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
-[2017.04.22-22.29.35:590][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
-[2017.04.22-22.29.35:640][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.04.22-22.29.35:697][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
-[2017.04.22-22.29.35:750][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
-[2017.04.22-22.29.35:750][  0]LogTargetPlatformManager:Display: Building Assets For Windows
-[2017.04.22-22.29.36:123][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
-[2017.04.22-22.29.36:174][  0]LogDerivedDataCache: Loaded boot cache 0.05s 50MB C:/Users/Sabrina/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
-[2017.04.22-22.29.36:174][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Sabrina/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
-[2017.04.22-22.29.36:174][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.04.22-22.29.36:174][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.04.22-22.29.36:174][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.04.22-22.29.36:174][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.04.22-22.29.36:190][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.04.22-22.29.36:202][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Sabrina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.04.22-22.29.36:397][  0]LogInit: Selected Device Profile: [Windows]
-[2017.04.22-22.29.36:398][  0]LogContentStreaming: Texture pool size is 0.00 MB
-[2017.04.22-22.29.36:597][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.04.22-22.29.36:657][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.04.22-22.29.36:699][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.04.22-22.29.36:699][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
-[2017.04.22-22.29.36:699][  0]LogMeshUtilities: No automatic mesh merging module available
-[2017.04.22-22.29.37:235][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: call_of_bread, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 1183517265
-[2017.04.22-22.29.37:299][  0]LogAssetRegistry: FAssetRegistry took 0.0220 seconds to start up
-[2017.04.22-22.29.37:350][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.028572 seconds
-[2017.04.22-22.29.37:356][  0]LogUObjectArray: 31912 objects as part of root set at end of initial load.
-[2017.04.22-22.29.37:356][  0]LogUObjectAllocator: 6925352 out of 0 bytes used by permanent object pool.
-[2017.04.22-22.29.37:356][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.04.22-22.29.37:413][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.04.22-22.29.38:128][  0]LogSlate: Using Freetype 2.6.0
-[2017.04.22-22.29.38:128][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.04.22-22.29.38:128][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.04.22-22.29.38:860][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.04.22-22.29.38:898][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.04.22-22.29.39:199][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2017.04.22-22.29.39:564][  0]SourceControl: Info Source control is disabled
-[2017.04.22-22.29.39:592][  0]SourceControl: Info Source control is disabled
-[2017.04.22-22.29.39:635][  0]SourceControl: Info Source control is disabled
-[2017.04.22-22.29.39:678][  0]SourceControl: Info Source control is disabled
-[2017.04.22-22.29.40:845][  0]LogEngine: Initializing Engine...
-[2017.04.22-22.29.40:846][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2017.04.22-22.29.41:087][  0]LogAIModule: Creating AISystem for world Untitled
-[2017.04.22-22.29.41:100][  0]LogInit: XAudio2 using 'Headphones (Hesh 2 Wireless Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
-[2017.04.22-22.29.41:113][  0]LogInit: FAudioDevice initialized.
-[2017.04.22-22.29.41:139][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/Sabrina/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
-[2017.04.22-22.29.41:149][  0]LogInit: Texture streaming: Enabled
-[2017.04.22-22.29.41:317][  0]LogInit: Transaction tracking system initialized
-[2017.04.22-22.29.41:632][  0]BlueprintLog: New page: Editor Load
-[2017.04.22-22.29.42:465][  0]LocalizationService: Info Localization service is disabled
-[2017.04.22-22.29.43:074][  0]LogConsoleResponse:Display: 
-[2017.04.22-22.29.43:215][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2017.04.22-22.29.43:215][  0]LogCook:Display: Mobile HDR setting 1
-[2017.04.22-22.29.43:413][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/' took 0.02s
-[2017.04.22-22.29.44:129][  0]SourceControl: Info Source control is disabled
-[2017.04.22-22.29.44:129][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.04.22-22.29.44:129][  0]LightingResults: New page: Lighting Build
-[2017.04.22-22.29.44:166][  0]MapCheck: New page: Map Check
-[2017.04.22-22.29.44:167][  0]LightingResults: New page: Lighting Build
-[2017.04.22-22.29.44:474][  0]LogLinker:Warning: Can't find file '/Game/Assets/Weapons/Jam-machine-Gun'
-[2017.04.22-22.29.44:474][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Weapons/Jam-machine-Gun' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
-[2017.04.22-22.29.44:474][  0]LoadErrors:Error: Error /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/Assets/Weapons/Jam-machine-Gun
-[2017.04.22-22.29.44:478][  0]LogLinker:Warning: Can't find file '/Game/Assets/Weapons/Jam-machine-Gun'
-[2017.04.22-22.29.44:478][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Weapons/Jam-machine-Gun' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
-[2017.04.22-22.29.44:478][  0]LoadErrors:Error: Error /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/Assets/Weapons/Jam-machine-Gun
-[2017.04.22-22.29.44:488][  0]LogLinker:Warning: Can't find file '/Game/Assets/Weapons/Jam-machine-Gun'
-[2017.04.22-22.29.44:488][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Weapons/Jam-machine-Gun' while loading ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
-[2017.04.22-22.29.44:488][  0]LoadErrors:Error: Error /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/Assets/Weapons/Jam-machine-Gun
-[2017.04.22-22.29.44:489][  0]LogLinker:Warning: Can't find file '/Game/Assets/Weapons/Jam-machine-Gun'
-[2017.04.22-22.29.44:489][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Weapons/Jam-machine-Gun' while loading NULL.
-[2017.04.22-22.29.44:489][  0]LogLinker:Warning: Can't find file '/Game/Assets/Weapons/Jam-machine-Gun'
-[2017.04.22-22.29.44:489][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Weapons/Jam-machine-Gun' while loading NULL.
-[2017.04.22-22.29.44:489][  0]LogLinker:Warning: Can't find file '/Game/Assets/Weapons/Jam-machine-Gun'
-[2017.04.22-22.29.44:489][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Weapons/Jam-machine-Gun' while loading NULL.
-[2017.04.22-22.29.44:494][  0]LogLinker:Warning: Can't find file '/Game/Assets/Weapons/Jam-machine-Gun'
-[2017.04.22-22.29.44:494][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Weapons/Jam-machine-Gun' while loading NULL.
-[2017.04.22-22.29.44:494][  0]LogLinker:Warning: Can't find file '/Game/Assets/Weapons/Jam-machine-Gun'
-[2017.04.22-22.29.44:494][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Weapons/Jam-machine-Gun' while loading NULL.
-[2017.04.22-22.29.44:494][  0]LogLinker:Warning: Can't find file '/Game/Assets/Weapons/Jam-machine-Gun'
-[2017.04.22-22.29.44:495][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Weapons/Jam-machine-Gun' while loading NULL.
-[2017.04.22-22.29.44:495][  0]LogLinker:Warning: Can't find file '/Game/Assets/Weapons/Jam-machine-Gun'
-[2017.04.22-22.29.44:495][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Weapons/Jam-machine-Gun' while loading NULL.
-[2017.04.22-22.29.44:498][  0]LogLinker:Warning: Can't find file '/Game/Assets/Weapons/Jam-machine-Gun'
-[2017.04.22-22.29.44:498][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Weapons/Jam-machine-Gun' while loading NULL.
-[2017.04.22-22.29.44:499][  0]LogLinker:Warning: Can't find file '/Game/Assets/Weapons/Jam-machine-Gun'
-[2017.04.22-22.29.44:499][  0]LoadErrors: Info Failed to load /Game/Assets/Weapons/Jam-machine-Gun.Jam-machine-Gun_C Referenced by PersistentLevel
-[2017.04.22-22.29.44:499][  0]LogLinker:Warning: Can't find file for asset '/Game/Assets/Weapons/Jam-machine-Gun' while loading NULL.
-[2017.04.22-22.29.44:499][  0]LoadErrors: Info Failed to load /Game/Assets/Weapons/Jam-machine-Gun.Jam-machine-Gun_C Referenced by PersistentLevel
-[2017.04.22-22.29.44:708][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
-[2017.04.22-22.29.44:719][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.04.22-22.29.44:719][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.04.22-22.29.44:766][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 46.58ms to complete.
-[2017.04.22-22.29.44:766][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.637
-[2017.04.22-22.29.44:826][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2017.04.22-22.29.44:827][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2017.04.22-22.29.44:916][  0]LogCollectionManager: Loaded 0 collections in 0.001426 seconds
-[2017.04.22-22.29.44:993][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Collections/' took 0.01s
-[2017.04.22-22.29.44:993][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Developers/Sabrina/Collections/' took 0.01s
-[2017.04.22-22.29.44:993][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Collections/' took 0.01s
-[2017.04.22-22.29.44:993][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2017.04.22-22.29.45:002][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2190 classes and 428 folders.
-[2017.04.22-22.29.45:047][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2017.04.22-22.29.45:047][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2017.04.22-22.29.45:048][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 13 classes and 0 folders.
-[2017.04.22-22.29.45:109][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2017.04.22-22.29.45:143][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2017.04.22-22.29.45:182][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
-[2017.04.22-22.29.45:277][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2017.04.22-22.29.45:284][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
-[2017.04.22-22.29.45:395][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
-[2017.04.22-22.29.45:395][  0]LogLoad: (Engine Initialization) Total time: 15.04 seconds
-[2017.04.22-22.29.45:395][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.18 seconds
-[2017.04.22-22.29.45:395][  0]LogExternalProfiler: Found external profiler: VSPerf
-[2017.04.22-22.29.45:395][  0]LogExternalProfiler: Using external profiler: VSPerf
-[2017.04.22-22.29.45:415][  0]LogOcInput: OculusInput pre-init called
-[2017.04.22-22.29.45:416][  0]LoadErrors:Warning: Warning CreateExport: Failed to load Outer for resource 'Weapon-mesh': Jam-machine-Gun_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Jam-machine-Gun2_24
-[2017.04.22-22.29.45:438][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2017.04.22-22.29.45:728][  2]LogRenderer: Reallocating scene render targets to support 1100x408 NumSamples 1 (Frame:2).
-[2017.04.22-22.29.45:880][  2]LogAssetRegistry: Asset discovery search completed in 8.6029 seconds
-[2017.04.22-22.29.45:880][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000037 seconds (found 0 objects)
-[2017.04.22-22.29.45:880][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000152 seconds (updated 0 objects)
-[2017.04.22-22.30.07:362][731]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2017.04.22-22.30.11:739][731]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx)
-[2017.04.22-22.30.11:771][731]LogFbx: ItemName: GlobalSettings, ItemCount : 1
-[2017.04.22-22.30.11:771][731]LogFbx: ItemName: AnimationStack, ItemCount : 1
-[2017.04.22-22.30.11:771][731]LogFbx: ItemName: AnimationLayer, ItemCount : 1
-[2017.04.22-22.30.11:771][731]LogFbx: ItemName: Geometry, ItemCount : 1
-[2017.04.22-22.30.11:771][731]LogFbx: ItemName: Material, ItemCount : 1
-[2017.04.22-22.30.11:771][731]LogFbx: ItemName: Model, ItemCount : 46
-[2017.04.22-22.30.11:771][731]LogFbx: ItemName: NodeAttribute, ItemCount : 45
-[2017.04.22-22.30.11:771][731]LogFbx: ItemName: AnimationCurveNode, ItemCount : 180
-[2017.04.22-22.30.11:771][731]LogFbx: ItemName: CollectionExclusive, ItemCount : 2
-[2017.04.22-22.30.11:771][731]LogFbx: ItemName: AnimationCurve, ItemCount : 135
-[2017.04.22-22.30.11:771][731]LogFbx: ItemName: Pose, ItemCount : 1
-[2017.04.22-22.30.11:771][731]LogFbx: ItemName: Deformer, ItemCount : 46
-[2017.04.22-22.30.11:777][731]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx
-[2017.04.22-22.30.11:830][731]LogFbx: FBX Scene Loaded Succesfully
-[2017.04.22-22.30.16:928][731]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx
-[2017.04.22-22.30.16:981][731]LogFbx: FBX Scene Loaded Succesfully
-[2017.04.22-22.30.16:987][731]LogFbx: =================================================
-[2017.04.22-22.30.16:987][731]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
-[2017.04.22-22.30.16:987][731]LogFbx: 	Total Deformer Count -2041939328.
-[2017.04.22-22.30.16:987][731]LogFbx: 		[Node 1]  (Type Skin).
-[2017.04.22-22.30.16:987][731]LogFbx: =================================================
-[2017.04.22-22.30.16:987][731]LogFbx: 	Attribute () Type (4).
-[2017.04.22-22.30.16:987][731]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
-[2017.04.22-22.30.16:987][731]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
-[2017.04.22-22.30.16:987][731]LogFbx: =================================================
-[2017.04.22-22.30.16:987][731]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
-[2017.04.22-22.30.16:987][731]LogFbx: 	Total Deformer Count -2041939328.
-[2017.04.22-22.30.16:987][731]LogFbx: 		[Node 1]  (Type Skin).
-[2017.04.22-22.30.16:987][731]LogFbx: =================================================
-[2017.04.22-22.30.16:987][731]LogFbx: 	Attribute () Type (4).
-[2017.04.22-22.30.16:987][731]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
-[2017.04.22-22.30.16:987][731]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
-[2017.04.22-22.30.16:989][731]LogFbx: Valid bind pose for Pose (skinCluster1) - breadcharacterretopsimplemaya:Mesh
-[2017.04.22-22.30.16:992][731]LogFbx: Triangulating skeletal mesh breadcharacterretopsimplemaya:Mesh
-[2017.04.22-22.30.18:989][731]LogFbx:Warning: Bones digested - 45  Depth of hierarchy - 12
-[2017.04.22-22.30.19:468][731]LogSkeletalMesh: Section 0: 12961 vertices, 45 active bones
-[2017.04.22-22.30.19:505][731]LogSkeletalMesh: Section 0: Material=0, 23735 triangles
-[2017.04.22-22.30.19:509][731]LogLinker: Can't find file '/Game/Bread/Animations/Aim_PhysicsAsset'
-[2017.04.22-22.30.19:510][731]LogLinker: Can't find file '/Game/Bread/Animations/Aim_PhysicsAsset'
-[2017.04.22-22.30.19:513][731]LogFbx: =================================================
-[2017.04.22-22.30.19:513][731]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
-[2017.04.22-22.30.19:513][731]LogFbx: 	Total Deformer Count -2041952640.
-[2017.04.22-22.30.19:513][731]LogFbx: 		[Node 1]  (Type Skin).
-[2017.04.22-22.30.19:513][731]LogFbx: =================================================
-[2017.04.22-22.30.19:513][731]LogFbx: 	Attribute () Type (4).
-[2017.04.22-22.30.19:513][731]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
-[2017.04.22-22.30.19:513][731]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
-[2017.04.22-22.30.19:513][731]LogFbx: =================================================
-[2017.04.22-22.30.19:513][731]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
-[2017.04.22-22.30.19:513][731]LogFbx: 	Total Deformer Count -2041952640.
-[2017.04.22-22.30.19:513][731]LogFbx: 		[Node 1]  (Type Skin).
-[2017.04.22-22.30.19:513][731]LogFbx: =================================================
-[2017.04.22-22.30.19:513][731]LogFbx: 	Attribute () Type (4).
-[2017.04.22-22.30.19:513][731]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
-[2017.04.22-22.30.19:513][731]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(0) Bread_Root
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(1) Bread_Spine_01
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(2) Bread_Spine_02
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(3) Bread_Spine_03
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(4) Bread_Spine_04
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(5) Bread_Spine_05
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(6) Bread_Spine_End
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(7) Bread_Right_Shoulder
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(8) Bread_Right_Elbow
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(9) Bread_Right_Wrist
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(10) Bread_Right_Hand
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(11) Bread_Right_Thumb_Start
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(12) Bread_Right_Thumb_End
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(13) Bread_Right_Index_Start
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(14) Bread_Right_Index_Mid
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(15) Bread_Right_Index_End
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(16) Bread_Right_Middle_Start
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(17) Bread_Right_Middle_Middle
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(18) Bread_Right_Middle_End
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(19) Bread_Right_Ring_Start
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(20) Bread_Right_Ring_Mid
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(21) Bread_Right_Ring_End
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(22) Bread_Left_Shoulder
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(23) Bread_Left_Elbow
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(24) Bread_Left_Wrist
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(25) Bread_Left_Hand
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(26) Bread_Left_Thumb_Start
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(27) Bread_Left_Thumb_End
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(28) Bread_Left_Index_Start
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(29) Bread_Left_Index_Mid
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(30) Bread_Left_Index_End
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(31) Bread_Left_Middle_Start
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(32) Bread_Left_Middle_Middle
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(33) Bread_Left_Middle_End
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(34) Bread_Left_Ring_Start
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(35) Bread_Left_Ring_Mid
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(36) Bread_Left_Ring_End
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(37) topof_left
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(38) ankle_left
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(39) topoffoot_left
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(40) end_left
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(41) topof_right
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(42) ankle_right
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(43) topoffoot_right
-[2017.04.22-22.30.19:514][731]LogFbx: SortedLinks :(44) end_Right
-[2017.04.22-22.30.19:515][731]LogFbx: Parsing AnimStack Take 001
-[2017.04.22-22.30.19:519][731]LogLinker: Can't find file '/Game/Bread/Animations/Aim_Anim'
-[2017.04.22-22.30.19:519][731]LogLinker: Can't find file '/Game/Bread/Animations/Aim_Anim'
-[2017.04.22-22.30.19:746][731]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Bread/Animations/Aim_Anim.Aim_Anim
-[2017.04.22-22.30.19:754][731]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2017.04.22-22.30.33:902][352]LogSavePackage: Save=675.20ms
-[2017.04.22-22.30.33:902][352]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/ThirdPersonExampleMapCE838CA3490F12F5BE411698B82B06E1.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
-[2017.04.22-22.30.33:907][352]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
-[2017.04.22-22.40.33:602][468]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.025
-[2017.04.22-22.40.33:604][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bread/Animations/Aim_Anim] ([1] browsable assets)...
-[2017.04.22-22.40.33:611][468]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Bread/Animations/Aim_Anim.Aim_Anim]
-[2017.04.22-22.40.33:611][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bread/Animations/Aim_Anim]
-[2017.04.22-22.40.33:623][468]LogSavePackage: Save=9.58ms
-[2017.04.22-22.40.33:623][468]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Aim_Anim_Auto15A5640204B257484973B9E918ABF7D72.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_Anim_Auto1.uasset'
-[2017.04.22-22.40.33:624][468]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_Anim_Auto1.uasset
-[2017.04.22-22.40.33:625][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bread/Animations/Aim_PhysicsAsset] ([1] browsable assets)...
-[2017.04.22-22.40.33:625][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bread/Animations/Aim_PhysicsAsset]
-[2017.04.22-22.40.33:635][468]LogSavePackage: Save=8.26ms
-[2017.04.22-22.40.33:635][468]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Aim_PhysicsAsset_Auto12EEA9DCE48429B097402159B9F5AD4CF.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_PhysicsAsset_Auto1.uasset'
-[2017.04.22-22.40.33:636][468]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_PhysicsAsset_Auto1.uasset
-[2017.04.22-22.40.33:636][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bread/Animations/Aim] ([1] browsable assets)...
-[2017.04.22-22.40.33:719][468]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Bread/Animations/Aim.Aim]
-[2017.04.22-22.40.33:719][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bread/Animations/Aim]
-[2017.04.22-22.40.33:763][468]LogSavePackage: Save=42.80ms
-[2017.04.22-22.40.33:763][468]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Aim_Auto1C790E37348D502F0E2B07EA19E0003B9.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_Auto1.uasset'
-[2017.04.22-22.40.33:766][468]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_Auto1.uasset
-[2017.04.22-22.40.33:766][468]LogFileHelpers: Auto-saving content packages took 0.163
-[2017.04.22-22.43.31:437][227]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Walk.fbx)
-[2017.04.22-22.43.31:458][227]LogFbx: ItemName: GlobalSettings, ItemCount : 1
-[2017.04.22-22.43.31:458][227]LogFbx: ItemName: AnimationStack, ItemCount : 1
-[2017.04.22-22.43.31:458][227]LogFbx: ItemName: AnimationLayer, ItemCount : 1
-[2017.04.22-22.43.31:458][227]LogFbx: ItemName: Geometry, ItemCount : 1
-[2017.04.22-22.43.31:458][227]LogFbx: ItemName: Material, ItemCount : 1
-[2017.04.22-22.43.31:458][227]LogFbx: ItemName: Model, ItemCount : 46
-[2017.04.22-22.43.31:458][227]LogFbx: ItemName: NodeAttribute, ItemCount : 45
-[2017.04.22-22.43.31:458][227]LogFbx: ItemName: AnimationCurveNode, ItemCount : 180
-[2017.04.22-22.43.31:458][227]LogFbx: ItemName: CollectionExclusive, ItemCount : 2
-[2017.04.22-22.43.31:458][227]LogFbx: ItemName: AnimationCurve, ItemCount : 135
-[2017.04.22-22.43.31:458][227]LogFbx: ItemName: Pose, ItemCount : 1
-[2017.04.22-22.43.31:458][227]LogFbx: ItemName: Deformer, ItemCount : 46
-[2017.04.22-22.43.31:465][227]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Walk.fbx
-[2017.04.22-22.43.31:515][227]LogFbx: FBX Scene Loaded Succesfully
-[2017.04.22-22.43.36:239][227]LogFbx: Loading FBX Scene from ../../../../../../Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Walk.fbx
-[2017.04.22-22.43.36:289][227]LogFbx: FBX Scene Loaded Succesfully
-[2017.04.22-22.43.36:295][227]LogFbx: =================================================
-[2017.04.22-22.43.36:295][227]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
-[2017.04.22-22.43.36:295][227]LogFbx: 	Total Deformer Count -1517953280.
-[2017.04.22-22.43.36:295][227]LogFbx: 		[Node 1]  (Type Skin).
-[2017.04.22-22.43.36:295][227]LogFbx: =================================================
-[2017.04.22-22.43.36:295][227]LogFbx: 	Attribute () Type (4).
-[2017.04.22-22.43.36:295][227]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
-[2017.04.22-22.43.36:295][227]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
-[2017.04.22-22.43.36:295][227]LogFbx: =================================================
-[2017.04.22-22.43.36:295][227]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
-[2017.04.22-22.43.36:295][227]LogFbx: 	Total Deformer Count -1517953280.
-[2017.04.22-22.43.36:295][227]LogFbx: 		[Node 1]  (Type Skin).
-[2017.04.22-22.43.36:295][227]LogFbx: =================================================
-[2017.04.22-22.43.36:295][227]LogFbx: 	Attribute () Type (4).
-[2017.04.22-22.43.36:295][227]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
-[2017.04.22-22.43.36:295][227]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
-[2017.04.22-22.43.36:297][227]LogFbx: Valid bind pose for Pose (skinCluster1) - breadcharacterretopsimplemaya:Mesh
-[2017.04.22-22.43.36:298][227]LogFbx: Triangulating skeletal mesh breadcharacterretopsimplemaya:Mesh
-[2017.04.22-22.43.38:307][227]LogFbx:Warning: Bones digested - 45  Depth of hierarchy - 12
-[2017.04.22-22.43.38:777][227]LogSkeletalMesh: Section 0: 12961 vertices, 45 active bones
-[2017.04.22-22.43.38:809][227]LogSkeletalMesh: Section 0: Material=0, 23735 triangles
-[2017.04.22-22.43.38:815][227]LogLinker: Can't find file '/Game/Bread/Animations/Walk_PhysicsAsset'
-[2017.04.22-22.43.38:815][227]LogLinker: Can't find file '/Game/Bread/Animations/Walk_PhysicsAsset'
-[2017.04.22-22.43.38:819][227]LogFbx: =================================================
-[2017.04.22-22.43.38:819][227]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
-[2017.04.22-22.43.38:819][227]LogFbx: 	Total Deformer Count -1532253568.
-[2017.04.22-22.43.38:819][227]LogFbx: 		[Node 1]  (Type Skin).
-[2017.04.22-22.43.38:819][227]LogFbx: =================================================
-[2017.04.22-22.43.38:819][227]LogFbx: 	Attribute () Type (4).
-[2017.04.22-22.43.38:819][227]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
-[2017.04.22-22.43.38:819][227]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
-[2017.04.22-22.43.38:819][227]LogFbx: =================================================
-[2017.04.22-22.43.38:819][227]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
-[2017.04.22-22.43.38:819][227]LogFbx: 	Total Deformer Count -1532253568.
-[2017.04.22-22.43.38:819][227]LogFbx: 		[Node 1]  (Type Skin).
-[2017.04.22-22.43.38:819][227]LogFbx: =================================================
-[2017.04.22-22.43.38:819][227]LogFbx: 	Attribute () Type (4).
-[2017.04.22-22.43.38:819][227]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
-[2017.04.22-22.43.38:819][227]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(0) Bread_Root
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(1) Bread_Spine_01
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(2) Bread_Spine_02
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(3) Bread_Spine_03
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(4) Bread_Spine_04
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(5) Bread_Spine_05
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(6) Bread_Spine_End
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(7) Bread_Right_Shoulder
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(8) Bread_Right_Elbow
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(9) Bread_Right_Wrist
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(10) Bread_Right_Hand
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(11) Bread_Right_Thumb_Start
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(12) Bread_Right_Thumb_End
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(13) Bread_Right_Index_Start
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(14) Bread_Right_Index_Mid
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(15) Bread_Right_Index_End
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(16) Bread_Right_Middle_Start
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(17) Bread_Right_Middle_Middle
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(18) Bread_Right_Middle_End
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(19) Bread_Right_Ring_Start
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(20) Bread_Right_Ring_Mid
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(21) Bread_Right_Ring_End
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(22) Bread_Left_Shoulder
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(23) Bread_Left_Elbow
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(24) Bread_Left_Wrist
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(25) Bread_Left_Hand
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(26) Bread_Left_Thumb_Start
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(27) Bread_Left_Thumb_End
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(28) Bread_Left_Index_Start
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(29) Bread_Left_Index_Mid
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(30) Bread_Left_Index_End
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(31) Bread_Left_Middle_Start
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(32) Bread_Left_Middle_Middle
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(33) Bread_Left_Middle_End
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(34) Bread_Left_Ring_Start
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(35) Bread_Left_Ring_Mid
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(36) Bread_Left_Ring_End
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(37) topof_left
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(38) ankle_left
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(39) topoffoot_left
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(40) end_left
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(41) topof_right
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(42) ankle_right
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(43) topoffoot_right
-[2017.04.22-22.43.38:820][227]LogFbx: SortedLinks :(44) end_Right
-[2017.04.22-22.43.38:821][227]LogFbx: Parsing AnimStack Take 001
-[2017.04.22-22.43.38:825][227]LogLinker: Can't find file '/Game/Bread/Animations/Walk_Anim'
-[2017.04.22-22.43.38:825][227]LogLinker: Can't find file '/Game/Bread/Animations/Walk_Anim'
-[2017.04.22-22.43.38:988][227]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Bread/Animations/Walk_Anim.Walk_Anim
-[2017.04.22-22.43.38:997][227]FBXImport:Warning: Warning No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2017.04.22-22.45.04:368][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bread/Animations/Aim" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Aim.uasset" SILENT=true
-[2017.04.22-22.45.04:424][829]LogSavePackage: Save=53.52ms
-[2017.04.22-22.45.04:424][829]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Aim06BD8B0F48AAB6151535A3A94BC551A4.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Aim.uasset'
-[2017.04.22-22.45.04:430][829]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Aim.uasset
-[2017.04.22-22.45.04:473][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bread/Animations/Aim_Anim" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Aim_Anim.uasset" SILENT=true
-[2017.04.22-22.45.04:484][829]LogSavePackage: Save=9.36ms
-[2017.04.22-22.45.04:484][829]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Aim_AnimA869621847EC7B095FDB8599F5CEC928.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Aim_Anim.uasset'
-[2017.04.22-22.45.04:491][829]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Aim_Anim.uasset
-[2017.04.22-22.45.04:509][829]LogSavePackage: Save=9.39ms
-[2017.04.22-22.45.04:509][829]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Aim_PhysicsAsset207BB13A4AC641C1DD1D9C9996F4503B.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Aim_PhysicsAsset.uasset'
-[2017.04.22-22.45.04:512][829]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Aim_PhysicsAsset.uasset
-[2017.04.22-22.45.04:602][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bread/Animations/Walk" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Walk.uasset" SILENT=true
-[2017.04.22-22.45.04:649][829]LogSavePackage: Save=44.55ms
-[2017.04.22-22.45.04:649][829]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Walk6D83597D4B4C53C0A46F40ADBB05F26D.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Walk.uasset'
-[2017.04.22-22.45.04:653][829]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Walk.uasset
-[2017.04.22-22.45.04:665][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bread/Animations/Walk_Anim" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Walk_Anim.uasset" SILENT=true
-[2017.04.22-22.45.04:676][829]LogSavePackage: Save=9.02ms
-[2017.04.22-22.45.04:676][829]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Walk_AnimEF3E951C418B1B1F9D41B8A6333BEA17.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Walk_Anim.uasset'
-[2017.04.22-22.45.04:679][829]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Walk_Anim.uasset
-[2017.04.22-22.45.04:697][829]LogSavePackage: Save=9.98ms
-[2017.04.22-22.45.04:697][829]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Walk_PhysicsAsset09F7D45B49F37AD4756BA7B7FEABF696.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Walk_PhysicsAsset.uasset'
-[2017.04.22-22.45.04:700][829]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Walk_PhysicsAsset.uasset
-[2017.04.22-22.45.04:817][829]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2017.04.22-22.45.04:817][829]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2017.04.22-22.45.04:818][829]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
-[2017.04.22-22.45.05:155][830]Cmd: QUIT_EDITOR
-[2017.04.22-22.45.05:252][830]LogExit: Preparing to exit.
-[2017.04.22-22.45.05:438][830]LogDirectoryWatcher: A directory notification for 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/' was aborted.
-[2017.04.22-22.45.05:490][830]LogExit: Editor shut down
-[2017.04.22-22.45.05:490][830]LogExit: Transaction tracking system shut down
-[2017.04.22-22.45.05:569][830]LogObj: Freed 0b from 0 cluster array pools.
-[2017.04.22-22.45.05:570][830]LogExit: Object subsystem successfully closed.
-[2017.04.22-22.45.05:591][830]LogD3D11RHI: Shutdown
-[2017.04.22-22.45.05:591][830]LogD3D11RHI: CleanupD3DDevice
-[2017.04.22-22.45.05:726][830]LogD3D11RHI: ~FD3D11DynamicRHI
-[2017.04.22-22.45.05:740][830]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2017.04.22-22.45.05:740][830]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0BC6C176-480E-6AF0-7EA2-AE9E0D89E0E9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=c7f13bf945c3301e352a60bf81dddae3%7Cf7698a23ab304a72af95938514704e6f%7Ca4eec51f-45a8-441a-8972-fd03d43fbe44&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2017.04.22-22.45.05:743][830]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
-[2017.04.22-22.45.05:743][830]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
-[2017.04.22-22.45.05:743][830]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
-[2017.04.22-22.45.05:743][830]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
-[2017.04.22-22.45.05:743][830]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
-[2017.04.22-22.45.05:743][830]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
-[2017.04.22-22.45.05:744][830]LogDirectoryWatcher: A directory notification for 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Collections/' was aborted.
-[2017.04.22-22.45.05:744][830]LogDirectoryWatcher: A directory notification for 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Developers/Sabrina/Collections/' was aborted.
-[2017.04.22-22.45.05:744][830]LogDirectoryWatcher: A directory notification for 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Collections/' was aborted.
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module BspMode (226)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module Media (215)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module SessionServices (208)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
-[2017.04.22-22.45.05:744][830]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module MergeActors (193)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module SizeMap (192)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module TreeMap (191)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module XmlParser (183)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module Blutility (182)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
-[2017.04.22-22.45.06:163][830]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
-[2017.04.22-22.45.06:206][830]LogModuleManager: Shutting down and abandoning module AutomationController (172)
-[2017.04.22-22.45.06:206][830]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
-[2017.04.22-22.45.06:206][830]LogModuleManager: Shutting down and abandoning module Layers (170)
-[2017.04.22-22.45.06:206][830]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
-[2017.04.22-22.45.06:206][830]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
-[2017.04.22-22.45.06:206][830]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
-[2017.04.22-22.45.06:206][830]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
-[2017.04.22-22.45.06:206][830]LogModuleManager: Shutting down and abandoning module Persona (165)
-[2017.04.22-22.45.06:206][830]LogModuleManager: Shutting down and abandoning module Kismet (164)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module Toolbox (161)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module OutputLog (158)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module GammaUI (157)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module Documentation (156)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module Niagara (155)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module PortalServices (152)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module AIModule (147)
-[2017.04.22-22.45.06:207][830]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module SteamVR (142)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module OculusInput (138)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module CableComponent (135)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
-[2017.04.22-22.45.06:229][830]LogModuleManager: Shutting down and abandoning module SourceControl (115)
-[2017.04.22-22.45.06:230][830]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
-[2017.04.22-22.45.06:230][830]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
-[2017.04.22-22.45.06:230][830]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
-[2017.04.22-22.45.06:230][830]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
-[2017.04.22-22.45.06:230][830]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
-[2017.04.22-22.45.06:230][830]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
-[2017.04.22-22.45.06:230][830]LogModuleManager: Shutting down and abandoning module HotReload (108)
-[2017.04.22-22.45.06:230][830]LogModuleManager: Shutting down and abandoning module MainFrame (107)
-[2017.04.22-22.45.06:230][830]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
-[2017.04.22-22.45.06:231][830]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
-[2017.04.22-22.45.06:232][830]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
-[2017.04.22-22.45.06:232][830]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
-[2017.04.22-22.45.06:332][830]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module Paper2D (100)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module VREditor (94)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module Sequencer (89)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module MessageLog (87)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module AssetTools (86)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module UMG (84)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module Slate (82)
-[2017.04.22-22.45.06:433][830]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
-[2017.04.22-22.45.06:435][830]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
-[2017.04.22-22.45.06:435][830]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
-[2017.04.22-22.45.06:435][830]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
-[2017.04.22-22.45.06:435][830]LogModuleManager: Shutting down and abandoning module Networking (76)
-[2017.04.22-22.45.06:435][830]LogModuleManager: Shutting down and abandoning module Core (75)
-[2017.04.22-22.45.06:435][830]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
-[2017.04.22-22.45.06:435][830]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
-[2017.04.22-22.45.06:435][830]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/' was aborted.
-[2017.04.22-22.45.06:435][830]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
-[2017.04.22-22.45.06:436][830]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
-[2017.04.22-22.45.06:548][830]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
-[2017.04.22-22.45.06:548][830]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
-[2017.04.22-22.45.06:548][830]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
-[2017.04.22-22.45.06:548][830]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
-[2017.04.22-22.45.06:548][830]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
-[2017.04.22-22.45.06:548][830]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
-[2017.04.22-22.45.06:548][830]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
-[2017.04.22-22.45.06:548][830]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
-[2017.04.22-22.45.06:613][830]LogDerivedDataCache: Shutdown
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module Messaging (45)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module InputCore (24)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module Settings (23)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module OculusRift (22)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
-[2017.04.22-22.45.06:613][830]LogOnline:Display: Unloading online subsystem: NULL
-[2017.04.22-22.45.06:613][830]LogModuleManager: Shutting down and abandoning module SSL (17)
-[2017.04.22-22.45.06:615][830]LogModuleManager: Shutting down and abandoning module HTTP (16)
-[2017.04.22-22.45.06:615][830]LogModuleManager: Shutting down and abandoning module XMPP (15)
-[2017.04.22-22.45.06:615][830]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
-[2017.04.22-22.45.06:616][830]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
-[2017.04.22-22.45.06:616][830]LogModuleManager: Shutting down and abandoning module Landscape (12)
-[2017.04.22-22.45.06:616][830]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
-[2017.04.22-22.45.06:616][830]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
-[2017.04.22-22.45.06:616][830]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
-[2017.04.22-22.45.06:616][830]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
-[2017.04.22-22.45.06:616][830]LogModuleManager: Shutting down and abandoning module Renderer (7)
-[2017.04.22-22.45.06:616][830]LogModuleManager: Shutting down and abandoning module Engine (6)
-[2017.04.22-22.45.06:616][830]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
-[2017.04.22-22.45.06:616][830]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
-[2017.04.22-22.45.06:616][830]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
-[2017.04.22-22.45.06:616][830]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
-[2017.04.22-22.45.06:616][830]LogModuleManager: Shutting down and abandoning module PakFile (1)
-[2017.04.22-22.45.06:618][830]LogExit: Exiting.
-[2017.04.22-22.45.06:640][830]Log file closed, 04/22/17 23:45:06
+[2017.04.22-22.47.32:481][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.22-22.47.32:481][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.04.22-22.47.32:493][  0]LogInit: Computer: DESKTOP-VTD5TTC
+[2017.04.22-22.47.32:493][  0]LogInit: User: Sabrina
+[2017.04.22-22.47.32:493][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.04.22-22.47.32:493][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2017.04.22-22.47.32:493][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.04.22-22.47.32:493][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.22-22.47.32:493][  0]LogMemory: Process Physical Memory: 265.34 MB used, 265.34 MB peak
+[2017.04.22-22.47.32:493][  0]LogMemory: Process Virtual Memory: 262.38 MB used, 262.38 MB peak
+[2017.04.22-22.47.32:493][  0]LogMemory: Physical Memory: 8476.51 MB used,  7833.59 MB free, 16310.11 MB total
+[2017.04.22-22.47.32:493][  0]LogMemory: Virtual Memory: 674.74 MB used,  7833.59 MB free, 134217728.00 MB total
+[2017.04.22-22.47.32:516][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.04.22-22.47.33:163][  0]LogD3D11RHI: D3D11 adapters:
+[2017.04.22-22.47.33:868][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GPU' (Feature Level 11_0)
+[2017.04.22-22.47.33:868][  0]LogD3D11RHI:       996/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.04.22-22.47.33:874][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.04.22-22.47.33:874][  0]LogD3D11RHI:       128/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.04.22-22.47.33:875][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.04.22-22.47.33:875][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.04.22-22.47.33:875][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.04.22-22.47.33:880][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.04.22-22.47.33:881][  0]LogD3D11RHI:     GPU DeviceId: 0x134b (for the marketing name, search the web for "GPU Device Id")
+[2017.04.22-22.47.33:881][  0]LogWindows: EnumDisplayDevices:
+[2017.04.22-22.47.33:881][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.04.22-22.47.33:881][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.04.22-22.47.33:881][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.04.22-22.47.33:881][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.04.22-22.47.33:881][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GPU
+[2017.04.22-22.47.33:881][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.04.22-22.47.33:881][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.04.22-22.47.33:881][  0]LogRHI: Texture pool is 697 MB (70% of 996 MB)
+[2017.04.22-22.47.33:896][  0]LogD3D11RHI: Async texture creation enabled
+[2017.04.22-22.47.33:908][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.04.22-22.47.33:909][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Intermediate/Shaders/WorkingDirectory/10596/).
+[2017.04.22-22.47.33:910][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Sabrina/AppData/Local/Temp/UnrealShaderWorkingDir/0ED524EE4AE9F9E12EAC5E9D842C119C/'.
+[2017.04.22-22.47.33:910][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.04.22-22.47.35:482][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.04.22-22.47.35:560][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.04.22-22.47.35:662][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.04.22-22.47.35:750][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.04.22-22.47.35:863][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.04.22-22.47.35:969][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.04.22-22.47.36:066][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.04.22-22.47.36:178][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.04.22-22.47.36:248][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.04.22-22.47.36:328][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.04.22-22.47.36:391][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.04.22-22.47.36:459][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.04.22-22.47.36:517][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.04.22-22.47.36:573][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.04.22-22.47.36:632][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.04.22-22.47.36:737][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.04.22-22.47.36:737][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.04.22-22.47.36:782][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.04.22-22.47.36:894][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.04.22-22.47.36:964][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.04.22-22.47.37:016][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.04.22-22.47.37:075][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.04.22-22.47.37:142][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.04.22-22.47.37:194][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.04.22-22.47.37:194][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.04.22-22.47.37:560][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.04.22-22.47.37:610][  0]LogDerivedDataCache: Loaded boot cache 0.05s 50MB C:/Users/Sabrina/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.22-22.47.37:610][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Sabrina/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.04.22-22.47.37:611][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.04.22-22.47.37:611][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.04.22-22.47.37:611][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.04.22-22.47.37:611][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.04.22-22.47.37:627][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.04.22-22.47.37:639][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Sabrina/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.04.22-22.47.37:832][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.22-22.47.37:834][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.04.22-22.47.38:040][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.04.22-22.47.38:085][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.04.22-22.47.38:126][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.04.22-22.47.38:126][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.04.22-22.47.38:126][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.04.22-22.47.38:644][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: call_of_bread, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 1183517265
+[2017.04.22-22.47.38:706][  0]LogAssetRegistry: FAssetRegistry took 0.0217 seconds to start up
+[2017.04.22-22.47.38:759][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.027573 seconds
+[2017.04.22-22.47.38:764][  0]LogUObjectArray: 31912 objects as part of root set at end of initial load.
+[2017.04.22-22.47.38:764][  0]LogUObjectAllocator: 6925352 out of 0 bytes used by permanent object pool.
+[2017.04.22-22.47.38:764][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.04.22-22.47.38:822][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.04.22-22.47.39:501][  0]LogSlate: Using Freetype 2.6.0
+[2017.04.22-22.47.39:502][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.22-22.47.39:502][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.22-22.47.40:254][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.04.22-22.47.40:297][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.04.22-22.47.40:745][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.04.22-22.47.41:170][  0]SourceControl: Info Source control is disabled
+[2017.04.22-22.47.41:198][  0]SourceControl: Info Source control is disabled
+[2017.04.22-22.47.41:241][  0]SourceControl: Info Source control is disabled
+[2017.04.22-22.47.41:284][  0]SourceControl: Info Source control is disabled
+[2017.04.22-22.47.42:608][  0]LogEngine: Initializing Engine...
+[2017.04.22-22.47.42:608][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.04.22-22.47.42:957][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.04.22-22.47.42:971][  0]LogInit: XAudio2 using 'Headphones (Hesh 2 Wireless Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.22-22.47.42:982][  0]LogInit: FAudioDevice initialized.
+[2017.04.22-22.47.43:008][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/Sabrina/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.22-22.47.43:020][  0]LogInit: Texture streaming: Enabled
+[2017.04.22-22.47.43:222][  0]LogInit: Transaction tracking system initialized
+[2017.04.22-22.47.43:666][  0]BlueprintLog: New page: Editor Load
+[2017.04.22-22.47.44:748][  0]LocalizationService: Info Localization service is disabled
+[2017.04.22-22.47.45:381][  0]LogConsoleResponse:Display: 
+[2017.04.22-22.47.45:525][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.04.22-22.47.45:525][  0]LogCook:Display: Mobile HDR setting 1
+[2017.04.22-22.47.45:720][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/' took 0.02s
+[2017.04.22-22.47.46:403][  0]SourceControl: Info Source control is disabled
+[2017.04.22-22.47.46:403][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.22-22.47.46:403][  0]LightingResults: New page: Lighting Build
+[2017.04.22-22.47.46:441][  0]MapCheck: New page: Map Check
+[2017.04.22-22.47.46:441][  0]LightingResults: New page: Lighting Build
+[2017.04.22-22.47.47:085][  0]LogMaterial: Missing cached shader map for material defaultMat1, compiling. 
+[2017.04.22-22.47.47:462][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.04.22-22.47.47:473][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.22-22.47.47:473][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.22-22.47.47:538][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 65.013ms to complete.
+[2017.04.22-22.47.47:538][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.136
+[2017.04.22-22.47.47:599][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.22-22.47.47:599][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.22-22.47.47:729][  0]LogCollectionManager: Loaded 0 collections in 0.002091 seconds
+[2017.04.22-22.47.47:826][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Collections/' took 0.01s
+[2017.04.22-22.47.47:826][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Developers/Sabrina/Collections/' took 0.01s
+[2017.04.22-22.47.47:826][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Collections/' took 0.01s
+[2017.04.22-22.47.47:826][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.04.22-22.47.47:840][  0]LogContentBrowser: Native class hierarchy populated in 0.0141 seconds. Added 2190 classes and 428 folders.
+[2017.04.22-22.47.47:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.04.22-22.47.47:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.04.22-22.47.47:912][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0008 seconds. Added 13 classes and 0 folders.
+[2017.04.22-22.47.48:085][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.04.22-22.47.48:148][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.04.22-22.47.48:221][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.04.22-22.47.48:379][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.04.22-22.47.48:385][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.04.22-22.47.48:648][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.04.22-22.47.48:649][  0]LogLoad: (Engine Initialization) Total time: 17.43 seconds
+[2017.04.22-22.47.48:649][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.30 seconds
+[2017.04.22-22.47.48:649][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.04.22-22.47.48:649][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.04.22-22.47.48:693][  0]LogOcInput: OculusInput pre-init called
+[2017.04.22-22.47.48:714][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.04.22-22.47.48:947][  2]LogRenderer: Reallocating scene render targets to support 1100x408 NumSamples 1 (Frame:2).
+[2017.04.22-22.47.52:016][  2]LogAssetRegistry: Asset discovery search completed in 13.3324 seconds
+[2017.04.22-22.47.52:016][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.04.22-22.47.52:016][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000021 seconds (updated 0 objects)
+[2017.04.22-22.48.08:375][755]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.04.22-22.48.08:562][756]LogRenderer: Reallocating scene render targets to support 1100x656 NumSamples 1 (Frame:1046).
+[2017.04.22-22.48.15:894][943]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2017.04.22-22.48.16:334][943]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-22.52.43:759][ 85]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2017.04.22-22.52.44:090][ 85]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-22.58.35:668][927]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx]
+[2017.04.22-22.58.35:708][927]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx
+[2017.04.22-22.58.35:750][927]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-22.58.35:755][927]LogFbx: =================================================
+[2017.04.22-22.58.35:755][927]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-22.58.35:755][927]LogFbx: 	Total Deformer Count 210981376.
+[2017.04.22-22.58.35:755][927]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-22.58.35:755][927]LogFbx: =================================================
+[2017.04.22-22.58.35:755][927]LogFbx: 	Attribute () Type (4).
+[2017.04.22-22.58.35:755][927]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-22.58.35:755][927]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-22.58.35:755][927]LogFbx: =================================================
+[2017.04.22-22.58.35:755][927]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-22.58.35:755][927]LogFbx: 	Total Deformer Count 210981376.
+[2017.04.22-22.58.35:755][927]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-22.58.35:755][927]LogFbx: =================================================
+[2017.04.22-22.58.35:755][927]LogFbx: 	Attribute () Type (4).
+[2017.04.22-22.58.35:755][927]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-22.58.35:755][927]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-22.58.35:756][927]LogFbx: Valid bind pose for Pose (skinCluster1) - breadcharacterretopsimplemaya:Mesh
+[2017.04.22-22.58.35:757][927]LogFbx: Triangulating skeletal mesh breadcharacterretopsimplemaya:Mesh
+[2017.04.22-22.58.37:879][927]LogUObjectHash:Warning: Ambiguous search, could be Material /Game/Bread/Character/Mesh/defaultMat1.defaultMat1 or Material /Game/Bread/Animations/defaultMat1.defaultMat1
+[2017.04.22-22.58.37:879][927]LogFbx:Warning: Bones digested - 45  Depth of hierarchy - 12
+[2017.04.22-22.58.38:414][927]LogSkeletalMesh: Section 0: 12961 vertices, 45 active bones
+[2017.04.22-22.58.38:455][927]LogSkeletalMesh: Section 0: Material=0, 23735 triangles
+[2017.04.22-22.58.38:461][927]LogEditorFactories: -- imported successfully
+[2017.04.22-22.58.39:965][986]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2017.04.22-22.58.40:427][986]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-22.59.50:663][949]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.041
+[2017.04.22-22.59.50:665][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bread/Animations/Aim] ([1] browsable assets)...
+[2017.04.22-22.59.50:745][949]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Bread/Animations/Aim.Aim]
+[2017.04.22-22.59.50:745][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bread/Animations/Aim]
+[2017.04.22-22.59.50:795][949]LogSavePackage: Save=40.79ms
+[2017.04.22-22.59.50:795][949]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Aim_Auto1F564479A48E27135DA559AB69DD36954.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_Auto1.uasset'
+[2017.04.22-22.59.50:797][949]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_Auto1.uasset
+[2017.04.22-22.59.50:797][949]LogFileHelpers: Auto-saving content packages took 0.133
+[2017.04.22-23.05.21:728][ 40]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx]
+[2017.04.22-23.05.21:763][ 40]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx
+[2017.04.22-23.05.21:806][ 40]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-23.05.21:810][ 40]LogFbx: =================================================
+[2017.04.22-23.05.21:810][ 40]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.05.21:810][ 40]LogFbx: 	Total Deformer Count -300652416.
+[2017.04.22-23.05.21:810][ 40]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.05.21:811][ 40]LogFbx: =================================================
+[2017.04.22-23.05.21:811][ 40]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.05.21:811][ 40]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.05.21:811][ 40]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.05.21:811][ 40]LogFbx: =================================================
+[2017.04.22-23.05.21:811][ 40]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.05.21:811][ 40]LogFbx: 	Total Deformer Count -300652416.
+[2017.04.22-23.05.21:811][ 40]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.05.21:811][ 40]LogFbx: =================================================
+[2017.04.22-23.05.21:811][ 40]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.05.21:811][ 40]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.05.21:811][ 40]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.05.21:812][ 40]LogFbx: Valid bind pose for Pose (skinCluster1) - breadcharacterretopsimplemaya:Mesh
+[2017.04.22-23.05.21:814][ 40]LogFbx: Triangulating skeletal mesh breadcharacterretopsimplemaya:Mesh
+[2017.04.22-23.05.24:049][ 40]LogUObjectHash:Warning: Ambiguous search, could be Material /Game/Bread/Character/Mesh/defaultMat1.defaultMat1 or Material /Game/Bread/Animations/defaultMat1.defaultMat1
+[2017.04.22-23.05.24:050][ 40]LogFbx:Warning: Bones digested - 45  Depth of hierarchy - 12
+[2017.04.22-23.05.24:587][ 40]LogSkeletalMesh: Section 0: 12961 vertices, 45 active bones
+[2017.04.22-23.05.24:625][ 40]LogSkeletalMesh: Section 0: Material=0, 23735 triangles
+[2017.04.22-23.05.24:632][ 40]LogEditorFactories: -- imported successfully
+[2017.04.22-23.05.26:873][115]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_10) - call TermArticulated first.
+[2017.04.22-23.05.27:162][115]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.09.08:589][ 52]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx]
+[2017.04.22-23.09.08:627][ 52]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx
+[2017.04.22-23.09.08:669][ 52]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-23.09.08:673][ 52]LogFbx: =================================================
+[2017.04.22-23.09.08:673][ 52]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.09.08:673][ 52]LogFbx: 	Total Deformer Count 213319552.
+[2017.04.22-23.09.08:673][ 52]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.09.08:673][ 52]LogFbx: =================================================
+[2017.04.22-23.09.08:673][ 52]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.09.08:673][ 52]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.09.08:673][ 52]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.09.08:674][ 52]LogFbx: =================================================
+[2017.04.22-23.09.08:674][ 52]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.09.08:674][ 52]LogFbx: 	Total Deformer Count 213319552.
+[2017.04.22-23.09.08:674][ 52]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.09.08:674][ 52]LogFbx: =================================================
+[2017.04.22-23.09.08:674][ 52]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.09.08:674][ 52]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.09.08:674][ 52]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.09.08:675][ 52]LogFbx: Valid bind pose for Pose (skinCluster1) - breadcharacterretopsimplemaya:Mesh
+[2017.04.22-23.09.08:676][ 52]LogFbx: Triangulating skeletal mesh breadcharacterretopsimplemaya:Mesh
+[2017.04.22-23.09.10:868][ 52]LogUObjectHash:Warning: Ambiguous search, could be Material /Game/Bread/Character/Mesh/defaultMat1.defaultMat1 or Material /Game/Bread/Animations/defaultMat1.defaultMat1
+[2017.04.22-23.09.10:868][ 52]LogFbx:Warning: Bones digested - 45  Depth of hierarchy - 12
+[2017.04.22-23.09.11:397][ 52]LogSkeletalMesh: Section 0: 12961 vertices, 45 active bones
+[2017.04.22-23.09.11:435][ 52]LogSkeletalMesh: Section 0: Material=0, 23735 triangles
+[2017.04.22-23.09.11:441][ 52]LogEditorFactories: -- imported successfully
+[2017.04.22-23.09.15:330][228]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2017.04.22-23.09.15:576][228]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.09.26:097][572]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx]
+[2017.04.22-23.09.26:135][572]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx
+[2017.04.22-23.09.26:189][572]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-23.09.26:194][572]LogFbx: =================================================
+[2017.04.22-23.09.26:194][572]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.09.26:194][572]LogFbx: 	Total Deformer Count -1289927040.
+[2017.04.22-23.09.26:194][572]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.09.26:194][572]LogFbx: =================================================
+[2017.04.22-23.09.26:194][572]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.09.26:194][572]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.09.26:194][572]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.09.26:195][572]LogFbx: =================================================
+[2017.04.22-23.09.26:195][572]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.09.26:195][572]LogFbx: 	Total Deformer Count -1289927040.
+[2017.04.22-23.09.26:195][572]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.09.26:195][572]LogFbx: =================================================
+[2017.04.22-23.09.26:195][572]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.09.26:195][572]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.09.26:195][572]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.09.26:196][572]LogFbx: Parsing AnimStack Take 001
+[2017.04.22-23.09.26:365][572]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Bread/Animations/Aim_Anim.Aim_Anim
+[2017.04.22-23.09.26:378][572]LogEditorFactories: -- imported successfully
+[2017.04.22-23.09.28:490][656]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_16) - call TermArticulated first.
+[2017.04.22-23.09.28:971][656]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.10.10:764][346]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.024
+[2017.04.22-23.10.10:766][346]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bread/Animations/Aim_Anim] ([1] browsable assets)...
+[2017.04.22-23.10.11:075][346]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Bread/Animations/Aim_Anim.Aim_Anim]
+[2017.04.22-23.10.11:075][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bread/Animations/Aim_Anim]
+[2017.04.22-23.10.11:098][346]LogSavePackage: Save=12.82ms
+[2017.04.22-23.10.11:098][346]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Aim_Anim_Auto29FC2955F4D0214C2AABB09BB46F7588C.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_Anim_Auto2.uasset'
+[2017.04.22-23.10.11:099][346]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_Anim_Auto2.uasset
+[2017.04.22-23.10.11:100][346]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bread/Animations/Aim] ([1] browsable assets)...
+[2017.04.22-23.10.11:122][346]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Bread/Animations/Aim.Aim]
+[2017.04.22-23.10.11:122][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bread/Animations/Aim]
+[2017.04.22-23.10.11:172][346]LogSavePackage: Save=40.15ms
+[2017.04.22-23.10.11:172][346]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Aim_Auto2313530E4432C56FA11E0E792D396DEA6.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_Auto2.uasset'
+[2017.04.22-23.10.11:174][346]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_Auto2.uasset
+[2017.04.22-23.10.11:174][346]LogFileHelpers: Auto-saving content packages took 0.409
+[2017.04.22-23.11.32:289][787]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx]
+[2017.04.22-23.11.32:327][787]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx
+[2017.04.22-23.11.32:388][787]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-23.11.32:396][787]LogFbx: =================================================
+[2017.04.22-23.11.32:396][787]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.11.32:396][787]LogFbx: 	Total Deformer Count -261386240.
+[2017.04.22-23.11.32:396][787]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.11.32:396][787]LogFbx: =================================================
+[2017.04.22-23.11.32:396][787]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.11.32:396][787]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.11.32:396][787]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.11.32:396][787]LogFbx: =================================================
+[2017.04.22-23.11.32:396][787]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.11.32:396][787]LogFbx: 	Total Deformer Count -261386240.
+[2017.04.22-23.11.32:396][787]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.11.32:396][787]LogFbx: =================================================
+[2017.04.22-23.11.32:396][787]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.11.32:397][787]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.11.32:397][787]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.11.32:399][787]LogFbx: Parsing AnimStack Take 001
+[2017.04.22-23.11.32:634][787]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Bread/Animations/Aim_Anim.Aim_Anim
+[2017.04.22-23.11.32:648][787]LogEditorFactories: -- imported successfully
+[2017.04.22-23.11.35:734][957]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx]
+[2017.04.22-23.11.35:767][957]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Aim.fbx
+[2017.04.22-23.11.35:809][957]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-23.11.35:814][957]LogFbx: =================================================
+[2017.04.22-23.11.35:814][957]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.11.35:814][957]LogFbx: 	Total Deformer Count 210979456.
+[2017.04.22-23.11.35:814][957]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.11.35:814][957]LogFbx: =================================================
+[2017.04.22-23.11.35:814][957]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.11.35:814][957]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.11.35:814][957]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.11.35:814][957]LogFbx: =================================================
+[2017.04.22-23.11.35:814][957]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.11.35:814][957]LogFbx: 	Total Deformer Count 210979456.
+[2017.04.22-23.11.35:814][957]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.11.35:814][957]LogFbx: =================================================
+[2017.04.22-23.11.35:814][957]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.11.35:814][957]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.11.35:814][957]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.11.35:815][957]LogFbx: Valid bind pose for Pose (skinCluster1) - breadcharacterretopsimplemaya:Mesh
+[2017.04.22-23.11.35:817][957]LogFbx: Triangulating skeletal mesh breadcharacterretopsimplemaya:Mesh
+[2017.04.22-23.11.37:922][957]LogUObjectHash:Warning: Ambiguous search, could be Material /Game/Bread/Character/Mesh/defaultMat1.defaultMat1 or Material /Game/Bread/Animations/defaultMat1.defaultMat1
+[2017.04.22-23.11.37:922][957]LogFbx:Warning: Bones digested - 45  Depth of hierarchy - 12
+[2017.04.22-23.11.38:450][957]LogSkeletalMesh: Section 0: 12961 vertices, 45 active bones
+[2017.04.22-23.11.38:492][957]LogSkeletalMesh: Section 0: Material=0, 23735 triangles
+[2017.04.22-23.11.38:497][957]LogEditorFactories: -- imported successfully
+[2017.04.22-23.11.39:748][  9]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_19) - call TermArticulated first.
+[2017.04.22-23.11.39:992][  9]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.11.55:425][457]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_22) - call TermArticulated first.
+[2017.04.22-23.12.02:530][697]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Walk.fbx]
+[2017.04.22-23.12.02:570][697]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Walk.fbx
+[2017.04.22-23.12.02:630][697]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-23.12.02:637][697]LogFbx: =================================================
+[2017.04.22-23.12.02:637][697]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.12.02:637][697]LogFbx: 	Total Deformer Count 202322816.
+[2017.04.22-23.12.02:637][697]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.12.02:637][697]LogFbx: =================================================
+[2017.04.22-23.12.02:637][697]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.12.02:637][697]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.12.02:637][697]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.12.02:637][697]LogFbx: =================================================
+[2017.04.22-23.12.02:637][697]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.12.02:637][697]LogFbx: 	Total Deformer Count 202322816.
+[2017.04.22-23.12.02:637][697]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.12.02:637][697]LogFbx: =================================================
+[2017.04.22-23.12.02:637][697]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.12.02:637][697]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.12.02:637][697]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.12.02:639][697]LogFbx: Valid bind pose for Pose (skinCluster1) - breadcharacterretopsimplemaya:Mesh
+[2017.04.22-23.12.02:642][697]LogFbx: Triangulating skeletal mesh breadcharacterretopsimplemaya:Mesh
+[2017.04.22-23.12.04:931][697]LogUObjectHash:Warning: Ambiguous search, could be Material /Game/Bread/Character/Mesh/defaultMat1.defaultMat1 or Material /Game/Bread/Animations/defaultMat1.defaultMat1
+[2017.04.22-23.12.04:931][697]LogFbx:Warning: Bones digested - 45  Depth of hierarchy - 12
+[2017.04.22-23.12.05:453][697]LogSkeletalMesh: Section 0: 12961 vertices, 45 active bones
+[2017.04.22-23.12.05:491][697]LogSkeletalMesh: Section 0: Material=0, 23735 triangles
+[2017.04.22-23.12.05:496][697]LogEditorFactories: -- imported successfully
+[2017.04.22-23.12.06:946][751]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_23) - call TermArticulated first.
+[2017.04.22-23.12.11:024][885]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Walk.fbx]
+[2017.04.22-23.12.11:066][885]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Walk.fbx
+[2017.04.22-23.12.11:133][885]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-23.12.11:140][885]LogFbx: =================================================
+[2017.04.22-23.12.11:140][885]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.12.11:140][885]LogFbx: 	Total Deformer Count 202317568.
+[2017.04.22-23.12.11:140][885]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.12.11:140][885]LogFbx: =================================================
+[2017.04.22-23.12.11:140][885]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.12.11:140][885]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.12.11:140][885]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.12.11:140][885]LogFbx: =================================================
+[2017.04.22-23.12.11:140][885]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.12.11:140][885]LogFbx: 	Total Deformer Count 202317568.
+[2017.04.22-23.12.11:140][885]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.12.11:140][885]LogFbx: =================================================
+[2017.04.22-23.12.11:140][885]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.12.11:140][885]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.12.11:140][885]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.12.11:143][885]LogFbx: Parsing AnimStack Take 001
+[2017.04.22-23.12.11:364][885]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Bread/Animations/Walk_Anim.Walk_Anim
+[2017.04.22-23.12.11:378][885]LogEditorFactories: -- imported successfully
+[2017.04.22-23.12.12:623][938]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_24) - call TermArticulated first.
+[2017.04.22-23.12.12:862][938]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.20.12:945][141]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.036
+[2017.04.22-23.20.12:947][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bread/Animations/Aim_Anim] ([1] browsable assets)...
+[2017.04.22-23.20.13:097][141]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Bread/Animations/Aim_Anim.Aim_Anim]
+[2017.04.22-23.20.13:098][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bread/Animations/Aim_Anim]
+[2017.04.22-23.20.13:128][141]LogSavePackage: Save=16.34ms
+[2017.04.22-23.20.13:128][141]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Aim_Anim_Auto333AADF67459488E162C6239B05CA3E43.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_Anim_Auto3.uasset'
+[2017.04.22-23.20.13:129][141]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_Anim_Auto3.uasset
+[2017.04.22-23.20.13:130][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bread/Animations/Walk_Anim] ([1] browsable assets)...
+[2017.04.22-23.20.13:160][141]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Bread/Animations/Walk_Anim.Walk_Anim]
+[2017.04.22-23.20.13:160][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bread/Animations/Walk_Anim]
+[2017.04.22-23.20.13:226][141]LogSavePackage: Save=54.92ms
+[2017.04.22-23.20.13:226][141]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Walk_Anim_Auto3D700B5274F6B6DC4F0D89EA676261F00.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Walk_Anim_Auto3.uasset'
+[2017.04.22-23.20.13:228][141]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Walk_Anim_Auto3.uasset
+[2017.04.22-23.20.13:229][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bread/Animations/Aim] ([1] browsable assets)...
+[2017.04.22-23.20.13:256][141]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Bread/Animations/Aim.Aim]
+[2017.04.22-23.20.13:256][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bread/Animations/Aim]
+[2017.04.22-23.20.13:333][141]LogSavePackage: Save=54.43ms
+[2017.04.22-23.20.13:333][141]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Aim_Auto3AC17CD4D4AE03C464644B9813C492E3F.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_Auto3.uasset'
+[2017.04.22-23.20.13:335][141]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Aim_Auto3.uasset
+[2017.04.22-23.20.13:336][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bread/Animations/Walk] ([1] browsable assets)...
+[2017.04.22-23.20.13:361][141]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Bread/Animations/Walk.Walk]
+[2017.04.22-23.20.13:361][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bread/Animations/Walk]
+[2017.04.22-23.20.13:426][141]LogSavePackage: Save=48.20ms
+[2017.04.22-23.20.13:426][141]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Walk_Auto3B8F9EB1E4DF650F8B3E266A2ADE92812.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Walk_Auto3.uasset'
+[2017.04.22-23.20.13:428][141]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Walk_Auto3.uasset
+[2017.04.22-23.20.13:428][141]LogFileHelpers: Auto-saving content packages took 0.483
+[2017.04.22-23.20.52:028][381]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Walk.fbx]
+[2017.04.22-23.20.52:066][381]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Walk.fbx
+[2017.04.22-23.20.52:110][381]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-23.20.52:115][381]LogFbx: =================================================
+[2017.04.22-23.20.52:115][381]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.20.52:115][381]LogFbx: 	Total Deformer Count 210986624.
+[2017.04.22-23.20.52:115][381]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.20.52:115][381]LogFbx: =================================================
+[2017.04.22-23.20.52:115][381]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.20.52:115][381]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.20.52:115][381]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.20.52:115][381]LogFbx: =================================================
+[2017.04.22-23.20.52:115][381]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.20.52:115][381]LogFbx: 	Total Deformer Count 210986624.
+[2017.04.22-23.20.52:115][381]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.20.52:115][381]LogFbx: =================================================
+[2017.04.22-23.20.52:115][381]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.20.52:115][381]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.20.52:115][381]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.20.52:116][381]LogFbx: Valid bind pose for Pose (skinCluster1) - breadcharacterretopsimplemaya:Mesh
+[2017.04.22-23.20.52:117][381]LogFbx: Triangulating skeletal mesh breadcharacterretopsimplemaya:Mesh
+[2017.04.22-23.20.54:216][381]LogUObjectHash:Warning: Ambiguous search, could be Material /Game/Bread/Character/Mesh/defaultMat1.defaultMat1 or Material /Game/Bread/Animations/defaultMat1.defaultMat1
+[2017.04.22-23.20.54:217][381]LogFbx:Warning: Bones digested - 45  Depth of hierarchy - 12
+[2017.04.22-23.20.54:734][381]LogSkeletalMesh: Section 0: 12961 vertices, 45 active bones
+[2017.04.22-23.20.54:771][381]LogSkeletalMesh: Section 0: Material=0, 23735 triangles
+[2017.04.22-23.20.54:776][381]LogEditorFactories: -- imported successfully
+[2017.04.22-23.20.57:114][501]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Walk.fbx]
+[2017.04.22-23.20.57:145][501]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Walk.fbx
+[2017.04.22-23.20.57:187][501]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-23.20.57:191][501]LogFbx: =================================================
+[2017.04.22-23.20.57:191][501]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.20.57:191][501]LogFbx: 	Total Deformer Count -1666558208.
+[2017.04.22-23.20.57:191][501]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.20.57:191][501]LogFbx: =================================================
+[2017.04.22-23.20.57:191][501]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.20.57:191][501]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.20.57:191][501]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.20.57:191][501]LogFbx: =================================================
+[2017.04.22-23.20.57:191][501]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.20.57:191][501]LogFbx: 	Total Deformer Count -1666558208.
+[2017.04.22-23.20.57:191][501]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.20.57:191][501]LogFbx: =================================================
+[2017.04.22-23.20.57:191][501]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.20.57:191][501]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.20.57:191][501]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.20.57:193][501]LogFbx: Parsing AnimStack Take 001
+[2017.04.22-23.20.57:347][501]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Bread/Animations/Walk_Anim.Walk_Anim
+[2017.04.22-23.20.57:359][501]LogEditorFactories: -- imported successfully
+[2017.04.22-23.20.59:129][576]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_27) - call TermArticulated first.
+[2017.04.22-23.20.59:359][576]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.21.24:134][362]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_30) - call TermArticulated first.
+[2017.04.22-23.21.24:378][362]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.21.43:426][954]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_33) - call TermArticulated first.
+[2017.04.22-23.21.48:135][ 74]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_34) - call TermArticulated first.
+[2017.04.22-23.21.48:380][ 74]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.22.05:429][594]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_37) - call TermArticulated first.
+[2017.04.22-23.22.05:711][594]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.22.21:675][ 86]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_40) - call TermArticulated first.
+[2017.04.22-23.22.21:921][ 86]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.22.56:893][253]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_43) - call TermArticulated first.
+[2017.04.22-23.22.57:156][253]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.23.04:417][451]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_46) - call TermArticulated first.
+[2017.04.22-23.23.04:654][451]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.23.11:830][661]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_49) - call TermArticulated first.
+[2017.04.22-23.23.12:225][661]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.23.17:979][818]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_52) - call TermArticulated first.
+[2017.04.22-23.23.18:463][818]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.23.47:985][598]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_55) - call TermArticulated first.
+[2017.04.22-23.23.48:389][598]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.23.55:790][797]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_58) - call TermArticulated first.
+[2017.04.22-23.23.56:055][797]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.29.48:246][339]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Recoil.fbx]
+[2017.04.22-23.29.48:277][339]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Recoil.fbx
+[2017.04.22-23.29.48:321][339]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-23.29.48:325][339]LogFbx: =================================================
+[2017.04.22-23.29.48:325][339]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.29.48:325][339]LogFbx: 	Total Deformer Count 1233411712.
+[2017.04.22-23.29.48:325][339]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.29.48:325][339]LogFbx: =================================================
+[2017.04.22-23.29.48:325][339]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.29.48:325][339]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.29.48:325][339]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.29.48:325][339]LogFbx: =================================================
+[2017.04.22-23.29.48:325][339]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.29.48:325][339]LogFbx: 	Total Deformer Count 1233411712.
+[2017.04.22-23.29.48:325][339]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.29.48:325][339]LogFbx: =================================================
+[2017.04.22-23.29.48:325][339]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.29.48:325][339]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.29.48:325][339]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.29.48:326][339]LogFbx: Parsing AnimStack Take 001
+[2017.04.22-23.29.48:476][339]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Bread/Animations/Recoil_Anim.Recoil_Anim
+[2017.04.22-23.29.48:487][339]LogEditorFactories: -- imported successfully
+[2017.04.22-23.29.49:449][391]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_61) - call TermArticulated first.
+[2017.04.22-23.29.49:660][391]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.30.37:512][154]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.059
+[2017.04.22-23.30.37:514][154]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bread/Animations/Walk_Anim] ([1] browsable assets)...
+[2017.04.22-23.30.37:618][154]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Bread/Animations/Walk_Anim.Walk_Anim]
+[2017.04.22-23.30.37:618][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bread/Animations/Walk_Anim]
+[2017.04.22-23.30.37:652][154]LogSavePackage: Save=21.20ms
+[2017.04.22-23.30.37:652][154]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Walk_Anim_Auto47FA4CDD84921CF925476AA9726227135.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Walk_Anim_Auto4.uasset'
+[2017.04.22-23.30.37:657][154]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Walk_Anim_Auto4.uasset
+[2017.04.22-23.30.37:658][154]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bread/Animations/Recoil_Anim] ([1] browsable assets)...
+[2017.04.22-23.30.37:720][154]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Bread/Animations/Recoil_Anim.Recoil_Anim]
+[2017.04.22-23.30.37:720][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bread/Animations/Recoil_Anim]
+[2017.04.22-23.30.37:764][154]LogSavePackage: Save=18.30ms
+[2017.04.22-23.30.37:764][154]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Recoil_Anim_Auto4E39005E746ED7FFC14E58DAB13E3E6F5.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Recoil_Anim_Auto4.uasset'
+[2017.04.22-23.30.37:798][154]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Recoil_Anim_Auto4.uasset
+[2017.04.22-23.30.37:798][154]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Bread/Animations/Walk] ([1] browsable assets)...
+[2017.04.22-23.30.37:824][154]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Bread/Animations/Walk.Walk]
+[2017.04.22-23.30.37:824][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bread/Animations/Walk]
+[2017.04.22-23.30.37:895][154]LogSavePackage: Save=55.15ms
+[2017.04.22-23.30.37:895][154]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Walk_Auto49E0401604CB6DD786B59BC9C54DAF12F.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Walk_Auto4.uasset'
+[2017.04.22-23.30.37:898][154]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Bread/Animations/Walk_Auto4.uasset
+[2017.04.22-23.30.37:898][154]LogFileHelpers: Auto-saving content packages took 0.386
+[2017.04.22-23.31.57:609][570]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Recoil.fbx]
+[2017.04.22-23.31.57:642][570]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Recoil.fbx
+[2017.04.22-23.31.57:687][570]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-23.31.57:692][570]LogFbx: =================================================
+[2017.04.22-23.31.57:692][570]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.31.57:692][570]LogFbx: 	Total Deformer Count -1197804416.
+[2017.04.22-23.31.57:692][570]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.31.57:692][570]LogFbx: =================================================
+[2017.04.22-23.31.57:692][570]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.31.57:692][570]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.31.57:692][570]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.31.57:692][570]LogFbx: =================================================
+[2017.04.22-23.31.57:692][570]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.31.57:692][570]LogFbx: 	Total Deformer Count -1197804416.
+[2017.04.22-23.31.57:692][570]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.31.57:692][570]LogFbx: =================================================
+[2017.04.22-23.31.57:692][570]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.31.57:692][570]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.31.57:692][570]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.31.57:693][570]LogFbx: Parsing AnimStack Take 001
+[2017.04.22-23.31.57:842][570]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Bread/Animations/Recoil_Anim.Recoil_Anim
+[2017.04.22-23.31.57:854][570]LogEditorFactories: -- imported successfully
+[2017.04.22-23.32.02:410][799]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_64) - call TermArticulated first.
+[2017.04.22-23.32.02:637][799]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.33.57:024][727]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Idle.fbx]
+[2017.04.22-23.33.57:061][727]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Idle.fbx
+[2017.04.22-23.33.57:107][727]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-23.33.57:112][727]LogFbx: =================================================
+[2017.04.22-23.33.57:113][727]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.33.57:113][727]LogFbx: 	Total Deformer Count -1291040640.
+[2017.04.22-23.33.57:113][727]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.33.57:113][727]LogFbx: =================================================
+[2017.04.22-23.33.57:113][727]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.33.57:113][727]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.33.57:113][727]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.33.57:113][727]LogFbx: =================================================
+[2017.04.22-23.33.57:113][727]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.33.57:113][727]LogFbx: 	Total Deformer Count -1291040640.
+[2017.04.22-23.33.57:113][727]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.33.57:113][727]LogFbx: =================================================
+[2017.04.22-23.33.57:113][727]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.33.57:113][727]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.33.57:113][727]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.33.57:114][727]LogFbx: Parsing AnimStack Take 001
+[2017.04.22-23.33.57:262][727]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Bread/Animations/Idle_Anim.Idle_Anim
+[2017.04.22-23.33.57:273][727]LogEditorFactories: -- imported successfully
+[2017.04.22-23.33.58:643][794]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_67) - call TermArticulated first.
+[2017.04.22-23.33.58:896][794]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.36.07:676][641]LogEditorFactories: Performing atomic reimport of [C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Idle.fbx]
+[2017.04.22-23.36.07:705][641]LogFbx: Loading FBX Scene from C:/Users/Sabrina/Desktop/CALL OF BREAD GAME/BreadAnime/Idle.fbx
+[2017.04.22-23.36.07:746][641]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.22-23.36.07:751][641]LogFbx: =================================================
+[2017.04.22-23.36.07:751][641]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.36.07:751][641]LogFbx: 	Total Deformer Count -261376640.
+[2017.04.22-23.36.07:751][641]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.36.07:751][641]LogFbx: =================================================
+[2017.04.22-23.36.07:751][641]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.36.07:751][641]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.36.07:751][641]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.36.07:751][641]LogFbx: =================================================
+[2017.04.22-23.36.07:751][641]LogFbx: Dumping Node START [breadcharacterretopsimplemaya:Mesh] 
+[2017.04.22-23.36.07:751][641]LogFbx: 	Total Deformer Count -261376640.
+[2017.04.22-23.36.07:751][641]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.22-23.36.07:751][641]LogFbx: =================================================
+[2017.04.22-23.36.07:751][641]LogFbx: 	Attribute () Type (4).
+[2017.04.22-23.36.07:751][641]LogFbx: 		[Node Attribute Child 1] breadcharacterretopsimplemaya:Mesh (Type Mesh).
+[2017.04.22-23.36.07:751][641]LogFbx: Dumping Node END [breadcharacterretopsimplemaya:Mesh]
+[2017.04.22-23.36.07:753][641]LogFbx: Parsing AnimStack Take 001
+[2017.04.22-23.36.07:910][641]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Bread/Animations/Idle_Anim.Idle_Anim
+[2017.04.22-23.36.07:921][641]LogEditorFactories: -- imported successfully
+[2017.04.22-23.36.09:484][714]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_70) - call TermArticulated first.
+[2017.04.22-23.36.09:741][714]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.04.22-23.37.07:077][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bread/Animations/Aim" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Aim.uasset" SILENT=true
+[2017.04.22-23.37.07:130][221]LogSavePackage: Save=37.27ms
+[2017.04.22-23.37.07:130][221]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Aim3B1BAC2848FEB51DCEF37D8DEF08DC97.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Aim.uasset'
+[2017.04.22-23.37.07:140][221]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Aim.uasset
+[2017.04.22-23.37.07:160][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bread/Animations/Aim_Anim" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Aim_Anim.uasset" SILENT=true
+[2017.04.22-23.37.07:180][221]LogSavePackage: Save=7.99ms
+[2017.04.22-23.37.07:180][221]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Aim_AnimE1A1E064456319D8A18CD5ACB43D3EBB.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Aim_Anim.uasset'
+[2017.04.22-23.37.07:190][221]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Aim_Anim.uasset
+[2017.04.22-23.37.07:289][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bread/Animations/Idle_Anim" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Idle_Anim.uasset" SILENT=true
+[2017.04.22-23.37.07:311][221]LogSavePackage: Save=13.08ms
+[2017.04.22-23.37.07:311][221]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Idle_Anim19EA08F24A59FED17B4B5D8FE5F8A5A2.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Idle_Anim.uasset'
+[2017.04.22-23.37.07:314][221]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Idle_Anim.uasset
+[2017.04.22-23.37.07:396][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bread/Animations/Recoil_Anim" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Recoil_Anim.uasset" SILENT=true
+[2017.04.22-23.37.07:419][221]LogSavePackage: Save=13.55ms
+[2017.04.22-23.37.07:419][221]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Recoil_Anim97310C4644DE6BA9E88B7DA081497D12.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Recoil_Anim.uasset'
+[2017.04.22-23.37.07:425][221]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Recoil_Anim.uasset
+[2017.04.22-23.37.07:428][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bread/Animations/Walk" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Walk.uasset" SILENT=true
+[2017.04.22-23.37.07:473][221]LogSavePackage: Save=33.00ms
+[2017.04.22-23.37.07:473][221]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/WalkB9107DDE4B6D250AD0957BA95AC0487C.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Walk.uasset'
+[2017.04.22-23.37.07:479][221]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Walk.uasset
+[2017.04.22-23.37.07:484][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bread/Animations/Walk_Anim" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Walk_Anim.uasset" SILENT=true
+[2017.04.22-23.37.07:502][221]LogSavePackage: Save=6.54ms
+[2017.04.22-23.37.07:502][221]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Walk_Anim7F0CABA9432A6487A1F98E822D453A15.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Walk_Anim.uasset'
+[2017.04.22-23.37.07:506][221]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Bread/Animations/Walk_Anim.uasset
+[2017.04.22-23.37.07:944][222]Cmd: QUIT_EDITOR
+[2017.04.22-23.37.07:977][222]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.22-23.37.07:977][222]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.04.22-23.37.08:015][222]LogExit: Preparing to exit.
+[2017.04.22-23.37.08:705][222]LogDirectoryWatcher: A directory notification for 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/' was aborted.
+[2017.04.22-23.37.08:799][222]LogExit: Editor shut down
+[2017.04.22-23.37.08:800][222]LogExit: Transaction tracking system shut down
+[2017.04.22-23.37.08:947][222]LogObj: Freed 0b from 0 cluster array pools.
+[2017.04.22-23.37.08:947][222]LogExit: Object subsystem successfully closed.
+[2017.04.22-23.37.08:964][222]LogD3D11RHI: Shutdown
+[2017.04.22-23.37.08:964][222]LogD3D11RHI: CleanupD3DDevice
+[2017.04.22-23.37.09:169][222]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.04.22-23.37.09:183][222]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.04.22-23.37.09:183][222]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9CC4DDA4-4CDD-A366-ED29-2DB799517346%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=c7f13bf945c3301e352a60bf81dddae3%7Cf7698a23ab304a72af95938514704e6f%7Ca4eec51f-45a8-441a-8972-fd03d43fbe44&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.04.22-23.37.09:202][222]LogModuleManager: Shutting down and abandoning module AnimationEditor (244)
+[2017.04.22-23.37.09:202][222]LogModuleManager: Shutting down and abandoning module SkeletonEditor (243)
+[2017.04.22-23.37.09:202][222]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (242)
+[2017.04.22-23.37.09:202][222]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2017.04.22-23.37.09:202][222]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2017.04.22-23.37.09:202][222]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2017.04.22-23.37.09:202][222]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2017.04.22-23.37.09:202][222]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2017.04.22-23.37.09:202][222]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2017.04.22-23.37.09:210][222]LogDirectoryWatcher: A directory notification for 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Collections/' was aborted.
+[2017.04.22-23.37.09:210][222]LogDirectoryWatcher: A directory notification for 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Developers/Sabrina/Collections/' was aborted.
+[2017.04.22-23.37.09:210][222]LogDirectoryWatcher: A directory notification for 'C:/Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Collections/' was aborted.
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module Media (215)
+[2017.04.22-23.37.09:210][222]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2017.04.22-23.37.09:211][222]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2017.04.22-23.37.09:356][222]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2017.04.22-23.37.09:356][222]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2017.04.22-23.37.09:356][222]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2017.04.22-23.37.09:356][222]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2017.04.22-23.37.09:356][222]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2017.04.22-23.37.09:356][222]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2017.04.22-23.37.09:356][222]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2017.04.22-23.37.09:356][222]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2017.04.22-23.37.09:356][222]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2017.04.22-23.37.09:356][222]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2017.04.22-23.37.09:356][222]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2017.04.22-23.37.09:356][222]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2017.04.22-23.37.09:356][222]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2017.04.22-23.37.09:356][222]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2017.04.22-23.37.09:357][222]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2017.04.22-23.37.09:357][222]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2017.04.22-23.37.09:357][222]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2017.04.22-23.37.09:357][222]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2017.04.22-23.37.09:357][222]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2017.04.22-23.37.09:357][222]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2017.04.22-23.37.09:357][222]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2017.04.22-23.37.09:357][222]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2017.04.22-23.37.09:357][222]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2017.04.22-23.37.09:357][222]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2017.04.22-23.37.09:357][222]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2017.04.22-23.37.09:357][222]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2017.04.22-23.37.09:399][222]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2017.04.22-23.37.09:399][222]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2017.04.22-23.37.09:399][222]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2017.04.22-23.37.09:399][222]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2017.04.22-23.37.09:399][222]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2017.04.22-23.37.09:399][222]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2017.04.22-23.37.09:400][222]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2017.04.22-23.37.09:400][222]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2017.04.22-23.37.09:400][222]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2017.04.22-23.37.09:401][222]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2017.04.22-23.37.09:645][222]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2017.04.22-23.37.09:646][222]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2017.04.22-23.37.09:646][222]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2017.04.22-23.37.09:646][222]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2017.04.22-23.37.09:646][222]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2017.04.22-23.37.09:646][222]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2017.04.22-23.37.09:646][222]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2017.04.22-23.37.09:646][222]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2017.04.22-23.37.09:646][222]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2017.04.22-23.37.09:646][222]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2017.04.22-23.37.09:646][222]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2017.04.22-23.37.09:646][222]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2017.04.22-23.37.09:646][222]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2017.04.22-23.37.09:646][222]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2017.04.22-23.37.09:647][222]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2017.04.22-23.37.09:647][222]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2017.04.22-23.37.09:651][222]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2017.04.22-23.37.09:654][222]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2017.04.22-23.37.09:655][222]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.04.22-23.37.09:755][222]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.04.22-23.37.09:856][222]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.04.22-23.37.09:856][222]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.04.22-23.37.09:856][222]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.04.22-23.37.09:856][222]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.04.22-23.37.09:856][222]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.04.22-23.37.09:856][222]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.04.22-23.37.09:856][222]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.04.22-23.37.09:856][222]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.04.22-23.37.09:856][222]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.04.22-23.37.09:856][222]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.04.22-23.37.09:857][222]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.04.22-23.37.09:857][222]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.04.22-23.37.09:857][222]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.04.22-23.37.09:857][222]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.04.22-23.37.09:857][222]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.04.22-23.37.09:857][222]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.04.22-23.37.09:857][222]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.04.22-23.37.09:857][222]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.04.22-23.37.09:857][222]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.04.22-23.37.09:857][222]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.04.22-23.37.09:857][222]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.04.22-23.37.09:859][222]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.04.22-23.37.09:860][222]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.04.22-23.37.09:860][222]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.04.22-23.37.09:860][222]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.04.22-23.37.09:860][222]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.04.22-23.37.09:860][222]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.04.22-23.37.09:860][222]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.04.22-23.37.09:861][222]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/' was aborted.
+[2017.04.22-23.37.09:861][222]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.04.22-23.37.09:865][222]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.04.22-23.37.10:151][222]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.04.22-23.37.10:151][222]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.04.22-23.37.10:151][222]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.04.22-23.37.10:151][222]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.04.22-23.37.10:151][222]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.04.22-23.37.10:151][222]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.04.22-23.37.10:151][222]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.04.22-23.37.10:151][222]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.04.22-23.37.10:239][222]LogDerivedDataCache: Shutdown
+[2017.04.22-23.37.10:239][222]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.04.22-23.37.10:239][222]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.04.22-23.37.10:239][222]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.04.22-23.37.10:239][222]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.04.22-23.37.10:239][222]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.04.22-23.37.10:239][222]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.04.22-23.37.10:239][222]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.04.22-23.37.10:239][222]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.04.22-23.37.10:240][222]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.04.22-23.37.10:241][222]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.04.22-23.37.10:241][222]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.04.22-23.37.10:241][222]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.04.22-23.37.10:241][222]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.04.22-23.37.10:241][222]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.04.22-23.37.10:241][222]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.04.22-23.37.10:241][222]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.04.22-23.37.10:241][222]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.04.22-23.37.10:241][222]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.04.22-23.37.10:241][222]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.04.22-23.37.10:241][222]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.04.22-23.37.10:241][222]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.04.22-23.37.10:241][222]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.04.22-23.37.10:241][222]LogOnline:Display: Unloading online subsystem: NULL
+[2017.04.22-23.37.10:241][222]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.04.22-23.37.10:243][222]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.04.22-23.37.10:243][222]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.04.22-23.37.10:243][222]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.04.22-23.37.10:244][222]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.04.22-23.37.10:244][222]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.04.22-23.37.10:244][222]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.04.22-23.37.10:248][222]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.04.22-23.37.10:248][222]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.04.22-23.37.10:248][222]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.04.22-23.37.10:248][222]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.04.22-23.37.10:248][222]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.04.22-23.37.10:248][222]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.04.22-23.37.10:248][222]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.04.22-23.37.10:248][222]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.04.22-23.37.10:248][222]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.04.22-23.37.10:248][222]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.04.22-23.37.10:249][222]LogExit: Exiting.
+[2017.04.22-23.37.10:258][222]Log file closed, 04/23/17 00:37:10
