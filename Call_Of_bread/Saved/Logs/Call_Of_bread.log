@@ -389,3 +389,101 @@ LogInit: Object subsystem initialized
 [2017.04.25-00.32.26:431][851]LogSavePackage: Save=212.64ms
 [2017.04.25-00.32.26:431][851]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-Level948A53D54C15358EB41E63AFA6385706.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
 [2017.04.25-00.32.26:436][851]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.25-00.39.52:582][789]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.04.25-00.40.24:939][553]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.04.25-00.40.27:359][616]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.25-00.40.27:413][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test-Level.test-Level:PersistentLevel' has LevelScriptBlueprint '/Game/Test-Level.test-Level:PersistentLevel.Test-Level' with GeneratedClass '/Game/Test-Level.Test-Level_C' with ClassGeneratedBy '/Game/Test-Level.test-Level:PersistentLevel.Test-Level'
+[2017.04.25-00.40.27:414][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.25-00.40.27:414][616]PIE: New page: PIE session: Test-Level (Apr 25, 2017, 2:40:27 AM)
+[2017.04.25-00.40.27:419][616]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test-Level
+[2017.04.25-00.40.27:449][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030289s)
+[2017.04.25-00.40.27:450][616]LogAIModule: Creating AISystem for world test-Level
+[2017.04.25-00.40.27:451][616]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2017.04.25-00.40.27:451][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test-Level.test-Level to /Game/UEDPIE_0_Test-Level.test-Level (0.031888s)
+[2017.04.25-00.40.27:506][616]LogInit: XAudio2 using 'Headphones (Hesh 2 Wireless Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.25-00.40.27:515][616]LogInit: FAudioDevice initialized.
+[2017.04.25-00.40.27:554][616]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.04.25-00.40.27:564][616]LogWorld: Bringing World /Game/UEDPIE_0_Test-Level.test-Level up for play (max tick rate 60) at 2017.04.25-01.40.27
+[2017.04.25-00.40.27:566][616]LogWorld: Bringing up level for play took: 0.010881
+[2017.04.25-00.40.27:578][616]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.25-00.40.27:578][616]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.25-00.40.27:578][616]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.04.25-00.40.27:584][616]LogScript:Warning: Attempted to access Jam_Ammo_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_0 is pending kill
+	Ammo-Spawn-Location_C /Game/UEDPIE_0_Test-Level.test-Level:PersistentLevel.Ammo-Spawn-Location_2
+	Function /Game/Assets/GamePlay-Assets/Ammo-Spawn-Location.Ammo-Spawn-Location_C:ExecuteUbergraph_Ammo-Spawn-Location:0157
+[2017.04.25-00.40.27:584][616]PIE:Error: Error Blueprint Runtime Error: Attempted to access Jam_Ammo_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_0 is pending kill from function: 'ExecuteUbergraph_Ammo-Spawn-Location' from node: Bind Event to OnDestroyed in graph: EventGraph in object: Ammo-Spawn-Location with description: Attempted to access Jam_Ammo_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_0 is pending kill
+[2017.04.25-00.40.27:586][616]LogScript:Warning: Attempted to access Jam_Ammo_C_1 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_1 is pending kill
+	Ammo-Spawn-Location_C /Game/UEDPIE_0_Test-Level.test-Level:PersistentLevel.Ammo-Spawn-Location2_6
+	Function /Game/Assets/GamePlay-Assets/Ammo-Spawn-Location.Ammo-Spawn-Location_C:ExecuteUbergraph_Ammo-Spawn-Location:0157
+[2017.04.25-00.40.27:586][616]PIE:Error: Error Blueprint Runtime Error: Attempted to access Jam_Ammo_C_1 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_1 is pending kill from function: 'ExecuteUbergraph_Ammo-Spawn-Location' from node: Bind Event to OnDestroyed in graph: EventGraph in object: Ammo-Spawn-Location with description: Attempted to access Jam_Ammo_C_1 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_1 is pending kill
+[2017.04.25-00.40.27:588][616]LogScript:Warning: Attempted to access Jam_Ammo_C_4 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_4 is pending kill
+	Ammo-Spawn-Location_C /Game/UEDPIE_0_Test-Level.test-Level:PersistentLevel.Ammo-Spawn-Location4_17
+	Function /Game/Assets/GamePlay-Assets/Ammo-Spawn-Location.Ammo-Spawn-Location_C:ExecuteUbergraph_Ammo-Spawn-Location:0157
+[2017.04.25-00.40.27:588][616]PIE:Error: Error Blueprint Runtime Error: Attempted to access Jam_Ammo_C_4 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_4 is pending kill from function: 'ExecuteUbergraph_Ammo-Spawn-Location' from node: Bind Event to OnDestroyed in graph: EventGraph in object: Ammo-Spawn-Location with description: Attempted to access Jam_Ammo_C_4 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_4 is pending kill
+[2017.04.25-00.40.27:589][616]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.04.25-00.40.27:589][616]PIE: Info Play in editor start time for /Game/UEDPIE_0_Test-Level 0.581
+[2017.04.25-00.40.27:589][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test-Level.test-Level:PersistentLevel' has LevelScriptBlueprint '/Game/Test-Level.test-Level:PersistentLevel.Test-Level' with GeneratedClass '/Game/Test-Level.Test-Level_C' with ClassGeneratedBy '/Game/Test-Level.test-Level:PersistentLevel.Test-Level'
+[2017.04.25-00.40.27:826][617]LogCharacterMovement:Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059166 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2017.04.25-00.40.31:697][734]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test-Level.test-Level:PersistentLevel' has LevelScriptBlueprint '/Game/Test-Level.test-Level:PersistentLevel.Test-Level' with GeneratedClass '/Game/Test-Level.Test-Level_C' with ClassGeneratedBy '/Game/Test-Level.test-Level:PersistentLevel.Test-Level'
+[2017.04.25-00.40.31:776][734]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.25-00.40.31:777][734]LogPlayLevel:Display: Shutting down PIE online subsystems
+[2017.04.25-00.40.31:794][734]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test-Level.test-Level:PersistentLevel' has LevelScriptBlueprint '/Game/Test-Level.test-Level:PersistentLevel.Test-Level' with GeneratedClass '/Game/Test-Level.Test-Level_C' with ClassGeneratedBy '/Game/Test-Level.test-Level:PersistentLevel.Test-Level'
+[2017.04.25-00.40.31:867][735]LogPlayLevel:Display: Destroying online subsystem :Context_12
+[2017.04.25-00.40.31:868][735]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.25-00.40.35:040][903]LogTemp: Repeting last play command: Selected Viewport
+[2017.04.25-00.40.35:064][903]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Test-Level.test-Level:PersistentLevel' has LevelScriptBlueprint '/Game/Test-Level.test-Level:PersistentLevel.Test-Level' with GeneratedClass '/Game/Test-Level.Test-Level_C' with ClassGeneratedBy '/Game/Test-Level.test-Level:PersistentLevel.Test-Level'
+[2017.04.25-00.40.35:064][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.25-00.40.35:064][903]PIE: New page: PIE session: Test-Level (Apr 25, 2017, 2:40:35 AM)
+[2017.04.25-00.40.35:065][903]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test-Level
+[2017.04.25-00.40.35:085][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020302s)
+[2017.04.25-00.40.35:086][903]LogAIModule: Creating AISystem for world test-Level
+[2017.04.25-00.40.35:086][903]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2017.04.25-00.40.35:086][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test-Level.test-Level to /Game/UEDPIE_0_Test-Level.test-Level (0.021406s)
+[2017.04.25-00.40.35:133][903]LogInit: XAudio2 using 'Headphones (Hesh 2 Wireless Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.25-00.40.35:139][903]LogInit: FAudioDevice initialized.
+[2017.04.25-00.40.35:168][903]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.04.25-00.40.35:175][903]LogWorld: Bringing World /Game/UEDPIE_0_Test-Level.test-Level up for play (max tick rate 60) at 2017.04.25-01.40.35
+[2017.04.25-00.40.35:175][903]LogWorld: Bringing up level for play took: 0.006811
+[2017.04.25-00.40.35:187][903]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.25-00.40.35:187][903]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.04.25-00.40.35:187][903]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.04.25-00.40.35:191][903]LogScript:Warning: Attempted to access Jam_Ammo_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_0 is pending kill
+	Ammo-Spawn-Location_C /Game/UEDPIE_0_Test-Level.test-Level:PersistentLevel.Ammo-Spawn-Location_2
+	Function /Game/Assets/GamePlay-Assets/Ammo-Spawn-Location.Ammo-Spawn-Location_C:ExecuteUbergraph_Ammo-Spawn-Location:0157
+[2017.04.25-00.40.35:191][903]PIE:Error: Error Blueprint Runtime Error: Attempted to access Jam_Ammo_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_0 is pending kill from function: 'ExecuteUbergraph_Ammo-Spawn-Location' from node: Bind Event to OnDestroyed in graph: EventGraph in object: Ammo-Spawn-Location with description: Attempted to access Jam_Ammo_C_0 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_0 is pending kill
+[2017.04.25-00.40.35:192][903]LogScript:Warning: Attempted to access Jam_Ammo_C_1 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_1 is pending kill
+	Ammo-Spawn-Location_C /Game/UEDPIE_0_Test-Level.test-Level:PersistentLevel.Ammo-Spawn-Location2_6
+	Function /Game/Assets/GamePlay-Assets/Ammo-Spawn-Location.Ammo-Spawn-Location_C:ExecuteUbergraph_Ammo-Spawn-Location:0157
+[2017.04.25-00.40.35:192][903]PIE:Error: Error Blueprint Runtime Error: Attempted to access Jam_Ammo_C_1 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_1 is pending kill from function: 'ExecuteUbergraph_Ammo-Spawn-Location' from node: Bind Event to OnDestroyed in graph: EventGraph in object: Ammo-Spawn-Location with description: Attempted to access Jam_Ammo_C_1 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_1 is pending kill
+[2017.04.25-00.40.35:194][903]LogScript:Warning: Attempted to access Jam_Ammo_C_4 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_4 is pending kill
+	Ammo-Spawn-Location_C /Game/UEDPIE_0_Test-Level.test-Level:PersistentLevel.Ammo-Spawn-Location4_17
+	Function /Game/Assets/GamePlay-Assets/Ammo-Spawn-Location.Ammo-Spawn-Location_C:ExecuteUbergraph_Ammo-Spawn-Location:0157
+[2017.04.25-00.40.35:194][903]PIE:Error: Error Blueprint Runtime Error: Attempted to access Jam_Ammo_C_4 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_4 is pending kill from function: 'ExecuteUbergraph_Ammo-Spawn-Location' from node: Bind Event to OnDestroyed in graph: EventGraph in object: Ammo-Spawn-Location with description: Attempted to access Jam_Ammo_C_4 via property CallFunc_FinishSpawningActor_ReturnValue, but Jam_Ammo_C_4 is pending kill
+[2017.04.25-00.40.35:194][903]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.04.25-00.40.35:194][903]PIE: Info Play in editor start time for /Game/UEDPIE_0_Test-Level 0.186
+[2017.04.25-00.40.35:195][903]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Test-Level.test-Level:PersistentLevel' has LevelScriptBlueprint '/Game/Test-Level.test-Level:PersistentLevel.Test-Level' with GeneratedClass '/Game/Test-Level.Test-Level_C' with ClassGeneratedBy '/Game/Test-Level.test-Level:PersistentLevel.Test-Level'
+[2017.04.25-00.40.43:580][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Test-Level.test-Level:PersistentLevel' has LevelScriptBlueprint '/Game/Test-Level.test-Level:PersistentLevel.Test-Level' with GeneratedClass '/Game/Test-Level.Test-Level_C' with ClassGeneratedBy '/Game/Test-Level.test-Level:PersistentLevel.Test-Level'
+[2017.04.25-00.40.43:651][198]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.25-00.40.43:652][198]LogPlayLevel:Display: Shutting down PIE online subsystems
+[2017.04.25-00.40.43:668][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Test-Level.test-Level:PersistentLevel' has LevelScriptBlueprint '/Game/Test-Level.test-Level:PersistentLevel.Test-Level' with GeneratedClass '/Game/Test-Level.Test-Level_C' with ClassGeneratedBy '/Game/Test-Level.test-Level:PersistentLevel.Test-Level'
+[2017.04.25-00.40.43:736][199]LogPlayLevel:Display: Destroying online subsystem :Context_13
+[2017.04.25-00.40.43:736][199]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.25-00.41.42:455][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test-Level" FILE="../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.25-00.41.42:793][651]LogSavePackage: Save=281.68ms
+[2017.04.25-00.41.42:793][651]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Test-LevelED5367CF4F40AA845F3D8DA2B1CA60DF.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap'
+[2017.04.25-00.41.42:794][651]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap
+[2017.04.25-00.42.08:397][959]LogAudio:Warning: Current Audio Device with ID {0.0.0.00000000}.{f0d6a790-fb88-4190-a338-c53d4a692925} was removed. Shutting down audio device.
+[2017.04.25-08.29.50:662][290]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Test-Level' took 0.076
+[2017.04.25-08.29.50:664][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2017.04.25-08.29.50:752][290]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2017.04.25-08.29.50:752][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2017.04.25-08.29.50:962][290]LogSavePackage: Save=184.21ms
+[2017.04.25-08.29.50:962][290]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/ThirdPersonCharacter_Auto128B9C069429E4ECC62FDF5B87B4650A7.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Blueprints/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2017.04.25-08.29.50:964][290]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Blueprints/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2017.04.25-08.29.50:965][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Radio] ([1] browsable assets)...
+[2017.04.25-08.29.51:162][290]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Radio.Radio]
+[2017.04.25-08.29.51:162][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Radio]
+[2017.04.25-08.29.51:224][290]LogSavePackage: Save=46.83ms
+[2017.04.25-08.29.51:224][290]LogSavePackage: Moving '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Radio_Auto129B39B194548D99FE490059BE0C85960.tmp' to '../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Blueprints/Radio_Auto1.uasset'
+[2017.04.25-08.29.51:225][290]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Sabrina/Documents/Call-Of-Bread/Call_Of_bread/Saved/Autosaves/Game/Blueprints/Radio_Auto1.uasset
+[2017.04.25-08.29.51:225][290]LogFileHelpers: Auto-saving content packages took 0.562
