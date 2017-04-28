@@ -1,0 +1,1749 @@
+﻿Log file open, 04/28/17 00:34:53
+LogInit:Display: Running engine for game: Call_Of_bread
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-317184904) SRandInit(-317184904).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.082563
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogModuleManager:Warning: No filename provided for module OnlineSubsystemLAN
+LogModuleManager:Warning: ModuleManager: Unable to load module 'OnlineSubsystemLAN' because the file 'C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/' was not found.
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.14-CL-3224400
+LogInit: Engine Version: 4.14.1-3224400+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Dec  7 2016 02:14:32
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.04.27-23.34.53:783][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.27-23.34.53:783][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.04.27-23.34.53:794][  0]LogInit: Computer: MAX-PC
+[2017.04.27-23.34.53:794][  0]LogInit: User: Max
+[2017.04.27-23.34.53:794][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.04.27-23.34.53:794][  0]LogInit: High frequency timer resolution =3.132167 MHz
+[2017.04.27-23.34.53:794][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2017.04.27-23.34.53:794][  0]LogMemory: Platform Memory Stats for Windows
+[2017.04.27-23.34.53:794][  0]LogMemory: Process Physical Memory: 269.50 MB used, 269.50 MB peak
+[2017.04.27-23.34.53:794][  0]LogMemory: Process Virtual Memory: 265.86 MB used, 265.86 MB peak
+[2017.04.27-23.34.53:794][  0]LogMemory: Physical Memory: 3625.10 MB used,  8654.01 MB free, 12279.11 MB total
+[2017.04.27-23.34.53:794][  0]LogMemory: Virtual Memory: 666.45 MB used,  8654.01 MB free, 8388608.00 MB total
+[2017.04.27-23.34.53:829][  0]LogTextLocalizationManager: No specific translations for ('en-GB') exist, so ('en') translations will be used.
+[2017.04.27-23.34.54:560][  0]LogD3D11RHI: D3D11 adapters:
+[2017.04.27-23.34.54:568][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7900 Series' (Feature Level 11_0)
+[2017.04.27-23.34.54:568][  0]LogD3D11RHI:       3051/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2017.04.27-23.34.54:568][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.04.27-23.34.54:573][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.04.27-23.34.54:573][  0]LogD3D11RHI:     GPU DeviceId: 0x6798 (for the marketing name, search the web for "GPU Device Id")
+[2017.04.27-23.34.54:573][  0]LogWindows: EnumDisplayDevices:
+[2017.04.27-23.34.54:573][  0]LogWindows:    0. 'AMD Radeon HD 7900 Series' (P:1 D:1)
+[2017.04.27-23.34.54:573][  0]LogWindows:    1. 'AMD Radeon HD 7900 Series' (P:0 D:1)
+[2017.04.27-23.34.54:574][  0]LogWindows:    2. 'AMD Radeon HD 7900 Series' (P:0 D:0)
+[2017.04.27-23.34.54:574][  0]LogWindows:    3. 'AMD Radeon HD 7900 Series' (P:0 D:0)
+[2017.04.27-23.34.54:574][  0]LogWindows:    4. 'AMD Radeon HD 7900 Series' (P:0 D:0)
+[2017.04.27-23.34.54:575][  0]LogWindows:    5. 'AMD Radeon HD 7900 Series' (P:0 D:0)
+[2017.04.27-23.34.54:575][  0]LogWindows:    6. 'RDPDD Chained DD' (P:0 D:0)
+[2017.04.27-23.34.54:575][  0]LogWindows:    7. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.04.27-23.34.54:575][  0]LogWindows:    8. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.04.27-23.34.54:575][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2017.04.27-23.34.54:575][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7900 Series
+[2017.04.27-23.34.54:575][  0]LogD3D11RHI:   Driver Version: Crimson 16.3.2 (internal:16.150.2211.0, unified:16.150.2211.0)
+[2017.04.27-23.34.54:575][  0]LogD3D11RHI:      Driver Date: 3-21-2016
+[2017.04.27-23.34.54:575][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.04.27-23.34.54:582][  0]LogD3D11RHI: Async texture creation enabled
+[2017.04.27-23.34.54:591][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.04.27-23.34.54:591][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/Max/Documents/Call-Of-Bread/Call_Of_bread/Intermediate/Shaders/WorkingDirectory/8212/).
+[2017.04.27-23.34.54:591][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Max/AppData/Local/Temp/UnrealShaderWorkingDir/0B2C249845328B3C6FE5E99B471F746E/'.
+[2017.04.27-23.34.54:591][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.04.27-23.34.55:889][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.04.27-23.34.55:971][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.04.27-23.34.56:054][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.04.27-23.34.56:137][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.04.27-23.34.56:220][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.04.27-23.34.56:305][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.04.27-23.34.56:388][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.04.27-23.34.56:472][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.04.27-23.34.56:541][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.04.27-23.34.56:624][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.04.27-23.34.56:707][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.04.27-23.34.56:789][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.04.27-23.34.56:871][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.04.27-23.34.56:954][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.04.27-23.34.57:038][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.04.27-23.34.57:201][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.04.27-23.34.57:201][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.04.27-23.34.57:260][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.04.27-23.34.57:380][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.04.27-23.34.57:427][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.04.27-23.34.57:510][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.04.27-23.34.57:592][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.04.27-23.34.57:674][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.04.27-23.34.57:756][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.04.27-23.34.57:756][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.04.27-23.34.58:281][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.04.27-23.34.58:350][  0]LogDerivedDataCache: Loaded boot cache 0.07s 50MB C:/Users/Max/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.27-23.34.58:350][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Max/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.04.27-23.34.58:350][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Max/Documents/Call-Of-Bread/Call_Of_bread/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.04.27-23.34.58:350][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.04.27-23.34.58:350][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Max/Documents/Call-Of-Bread/Call_Of_bread/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.04.27-23.34.58:350][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.04.27-23.34.58:372][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.04.27-23.34.58:383][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.04.27-23.34.58:659][  0]LogInit: Selected Device Profile: [Windows]
+[2017.04.27-23.34.58:663][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.04.27-23.34.58:945][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.04.27-23.34.59:009][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.04.27-23.34.59:079][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.04.27-23.34.59:079][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.04.27-23.34.59:079][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.04.27-23.34.59:731][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: call_of_bread, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 1183517265
+[2017.04.27-23.34.59:796][  0]LogAssetRegistry: FAssetRegistry took 0.0201 seconds to start up
+[2017.04.27-23.34.59:849][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.026144 seconds
+[2017.04.27-23.34.59:856][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.04.27-23.34.59:856][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.04.27-23.34.59:856][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.04.27-23.35.00:992][  0]LogSlate: Using Freetype 2.6.0
+[2017.04.27-23.35.00:992][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.27-23.35.00:992][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.04.27-23.35.02:032][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.04.27-23.35.02:080][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.04.27-23.35.02:500][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.04.27-23.35.03:060][  0]SourceControl: Info Source control is disabled
+[2017.04.27-23.35.03:142][  0]SourceControl: Info Source control is disabled
+[2017.04.27-23.35.03:216][  0]SourceControl: Info Source control is disabled
+[2017.04.27-23.35.03:285][  0]SourceControl: Info Source control is disabled
+[2017.04.27-23.35.05:048][  0]LogEngine: Initializing Engine...
+[2017.04.27-23.35.05:049][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.04.27-23.35.05:374][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.04.27-23.35.05:394][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.04.27-23.35.05:402][  0]LogInit: FAudioDevice initialized.
+[2017.04.27-23.35.05:430][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/Max/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.04.27-23.35.05:439][  0]LogInit: Texture streaming: Enabled
+[2017.04.27-23.35.05:684][  0]LogInit: Transaction tracking system initialized
+[2017.04.27-23.35.06:194][  0]BlueprintLog: New page: Editor Load
+[2017.04.27-23.35.07:455][  0]LocalizationService: Info Localization service is disabled
+[2017.04.27-23.35.08:395][  0]LogConsoleResponse:Display: 
+[2017.04.27-23.35.08:560][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.04.27-23.35.08:560][  0]LogCook:Display: Mobile HDR setting 1
+[2017.04.27-23.35.09:497][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Max/Documents/Call-Of-Bread/Call_Of_bread/Content/' took 0.02s
+[2017.04.27-23.35.09:938][  0]SourceControl: Info Source control is disabled
+[2017.04.27-23.35.09:938][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Max/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.04.27-23.35.09:939][  0]LightingResults: New page: Lighting Build
+[2017.04.27-23.35.09:999][  0]MapCheck: New page: Map Check
+[2017.04.27-23.35.09:999][  0]LightingResults: New page: Lighting Build
+[2017.04.27-23.35.11:056][  0]LogLinker:Warning: Can't find file '/Game/Test-Level_BuiltData'
+[2017.04.27-23.35.11:056][  0]LogLinker:Warning: Can't find file for asset '/Game/Test-Level_BuiltData' while loading ../../../../../../Users/Max/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.04.27-23.35.11:056][  0]LoadErrors:Error: Error /Game/Test-Level : Can't find file for asset. /Game/Test-Level_BuiltData
+[2017.04.27-23.35.11:272][  0]LogLinker:Warning: Can't find file '/Game/Test-Level_BuiltData'
+[2017.04.27-23.35.11:273][  0]LogLinker:Warning: Can't find file for asset '/Game/Test-Level_BuiltData' while loading ../../../../../../Users/Max/Documents/Call-Of-Bread/Call_Of_bread/Content/Test-Level.umap.
+[2017.04.27-23.35.11:273][  0]LoadErrors:Error: Error /Game/Test-Level : Can't find file for asset. /Game/Test-Level_BuiltData
+[2017.04.27-23.35.11:284][  0]LogLinker:Warning: Can't find file '/Game/Test-Level_BuiltData'
+[2017.04.27-23.35.11:284][  0]LogLinker:Warning: Can't find file for asset '/Game/Test-Level_BuiltData' while loading NULL.
+[2017.04.27-23.35.11:284][  0]LogLinker:Warning: Can't find file '/Game/Test-Level_BuiltData'
+[2017.04.27-23.35.11:285][  0]LogLinker:Warning: Can't find file for asset '/Game/Test-Level_BuiltData' while loading NULL.
+[2017.04.27-23.35.11:379][  0]LogLinker:Warning: Can't find file '/Game/Test-Level_BuiltData'
+[2017.04.27-23.35.11:379][  0]LoadErrors: Info Failed to load /Game/Test-Level_BuiltData.Test-Level_BuiltData Referenced by PersistentLevel
+[2017.04.27-23.35.11:379][  0]LogLinker:Warning: Can't find file for asset '/Game/Test-Level_BuiltData' while loading NULL.
+[2017.04.27-23.35.11:379][  0]LoadErrors: Info Failed to load /Game/Test-Level_BuiltData.Test-Level_BuiltData Referenced by PersistentLevel
+[2017.04.27-23.35.12:240][  0]LogAIModule: Creating AISystem for world test-Level
+[2017.04.27-23.35.12:286][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.04.27-23.35.12:290][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.04.27-23.35.12:451][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 161.396ms to complete.
+[2017.04.27-23.35.12:451][  0]LogFileHelpers: Loading map 'Test-Level' took 2.513
+[2017.04.27-23.35.12:614][  0]LogCollectionManager: Loaded 1 collections in 0.002271 seconds
+[2017.04.27-23.35.12:719][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Max/Documents/Call-Of-Bread/Call_Of_bread/Saved/Collections/' took 0.01s
+[2017.04.27-23.35.12:719][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Max/Documents/Call-Of-Bread/Call_Of_bread/Content/Developers/Max/Collections/' took 0.01s
+[2017.04.27-23.35.12:719][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Max/Documents/Call-Of-Bread/Call_Of_bread/Content/Collections/' took 0.01s
+[2017.04.27-23.35.12:719][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000005 seconds
+[2017.04.27-23.35.12:719][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000000 seconds
+[2017.04.27-23.35.12:730][  0]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2190 classes and 428 folders.
+[2017.04.27-23.35.12:791][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.04.27-23.35.12:791][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.04.27-23.35.12:792][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 13 classes and 0 folders.
+[2017.04.27-23.35.12:880][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.04.27-23.35.12:941][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.04.27-23.35.13:004][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.04.27-23.35.13:053][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.04.27-23.35.13:057][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.04.27-23.35.13:139][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.04.27-23.35.13:139][  0]LogLoad: (Engine Initialization) Total time: 21.50 seconds
+[2017.04.27-23.35.13:139][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.60 seconds
+[2017.04.27-23.35.13:139][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.04.27-23.35.13:139][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.04.27-23.35.13:148][  0]LogOcInput: OculusInput pre-init called
+[2017.04.27-23.35.13:166][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.04.27-23.35.13:372][  0]LogRenderer: Reallocating scene render targets to support 888x412 NumSamples 1 (Frame:2).
+[2017.04.27-23.35.13:892][  2]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.13:895][  2]LogAssetRegistry: Asset discovery search completed in 14.1190 seconds
+[2017.04.27-23.35.13:895][  2]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000006 seconds (found 0 objects)
+[2017.04.27-23.35.13:895][  2]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000022 seconds (updated 0 objects)
+[2017.04.27-23.35.19:872][675]LogRenderer: Reallocating scene render targets to support 1148x576 NumSamples 1 (Frame:9).
+[2017.04.27-23.35.32:587][193]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:588][193]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:588][193]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:596][194]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:597][194]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:605][195]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:617][196]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:628][197]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:629][197]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:629][197]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:638][198]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:638][198]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:647][199]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:658][200]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:669][201]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:669][201]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:670][201]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:678][202]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:678][202]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:690][203]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:713][204]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:725][205]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:726][205]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:726][205]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:742][206]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:742][206]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:751][207]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:761][208]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:771][209]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:771][209]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:772][209]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:781][210]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:781][210]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:791][211]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:803][212]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:812][213]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:813][213]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:813][213]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:823][214]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:823][214]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:833][215]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:842][216]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:855][217]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:856][217]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:856][217]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:872][218]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:872][218]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:887][219]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:903][220]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:917][221]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:918][221]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:918][221]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:927][222]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:928][222]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:940][223]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:950][224]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:960][225]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:960][225]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:961][225]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:971][226]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:972][226]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:981][227]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.32:990][228]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:000][229]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:000][229]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:001][229]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:010][230]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:011][230]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:020][231]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:029][232]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:037][233]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:037][233]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:037][233]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:045][234]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:045][234]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:053][235]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:062][236]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:070][237]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:070][237]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:071][237]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:078][238]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:079][238]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:087][239]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:095][240]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:103][241]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:104][241]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:104][241]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:112][242]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:112][242]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:120][243]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:132][244]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:140][245]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:140][245]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:140][245]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:148][246]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:148][246]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:156][247]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:165][248]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:173][249]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:173][249]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:174][249]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:181][250]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:182][250]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:197][251]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:206][252]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:215][253]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:215][253]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:215][253]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:229][254]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:230][254]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:242][255]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:254][256]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:265][257]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:265][257]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:266][257]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:275][258]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:276][258]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:285][259]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:295][260]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:307][261]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:307][261]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:308][261]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:317][262]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:318][262]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:327][263]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:337][264]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:348][265]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:349][265]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:349][265]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:358][266]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:359][266]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:368][267]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:377][268]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:389][269]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:389][269]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:390][269]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:399][270]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:399][270]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:408][271]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:419][272]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:430][273]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:430][273]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:430][273]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:439][274]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:440][274]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:448][275]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:457][276]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:467][277]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:467][277]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:467][277]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:475][278]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:476][278]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:487][279]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:495][280]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:504][281]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:504][281]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:504][281]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:512][282]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:512][282]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:520][283]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:529][284]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:537][285]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:537][285]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:537][285]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:545][286]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:546][286]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:554][287]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:562][288]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:570][289]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:571][289]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:571][289]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:579][290]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:579][290]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:587][291]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:595][292]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:604][293]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:604][293]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:604][293]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:612][294]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:612][294]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:620][295]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:629][296]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:637][297]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:637][297]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:637][297]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:645][298]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:646][298]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:654][299]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:662][300]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:671][301]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:671][301]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:671][301]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:680][302]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:680][302]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:689][303]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:719][304]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:731][305]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:731][305]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:732][305]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:740][306]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:740][306]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:748][307]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:760][308]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:771][309]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:772][309]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:772][309]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:780][310]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:780][310]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:788][311]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:801][312]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:812][313]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:813][313]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:813][313]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:821][314]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:821][314]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:829][315]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:841][316]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:853][317]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:853][317]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:854][317]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:862][318]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:862][318]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:871][319]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:881][320]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:894][321]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:894][321]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:894][321]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:903][322]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:903][322]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:911][323]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:922][324]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:934][325]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:935][325]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:935][325]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:943][326]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:943][326]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:951][327]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:963][328]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:971][329]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:971][329]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:971][329]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:979][330]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:979][330]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:987][331]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.33:996][332]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:004][333]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:004][333]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:005][333]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:012][334]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:013][334]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:021][335]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:029][336]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:037][337]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:038][337]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:038][337]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:046][338]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:046][338]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:054][339]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:063][340]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:071][341]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:071][341]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:071][341]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:079][342]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:079][342]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:087][343]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:096][344]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:104][345]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:104][345]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:105][345]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:112][346]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:113][346]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:121][347]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:129][348]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:137][349]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:138][349]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:138][349]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:146][350]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:146][350]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:154][351]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:163][352]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:171][353]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:171][353]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:171][353]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:179][354]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:179][354]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:187][355]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:198][356]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:206][357]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:207][357]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:207][357]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:215][358]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:215][358]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:224][359]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:235][360]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:243][361]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:243][361]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:244][361]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:252][362]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:252][362]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:260][363]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:271][364]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:279][365]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:279][365]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:279][365]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:287][366]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:288][366]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:296][367]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:307][368]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:316][369]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:316][369]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:316][369]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:324][370]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:324][370]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:333][371]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:343][372]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:351][373]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:352][373]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:352][373]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:360][374]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:360][374]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:369][375]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:380][376]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:388][377]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:388][377]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:388][377]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:396][378]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:397][378]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:405][379]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:416][380]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:424][381]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:425][381]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:425][381]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:433][382]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:433][382]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:441][383]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:453][384]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:461][385]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:461][385]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:462][385]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:470][386]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:470][386]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:478][387]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:489][388]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:497][389]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:497][389]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:497][389]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:505][390]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:505][390]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:514][391]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:525][392]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:533][393]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:534][393]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:534][393]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:542][394]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:542][394]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:550][395]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:561][396]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:569][397]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:570][397]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:570][397]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:578][398]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:578][398]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:586][399]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:597][400]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:605][401]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:605][401]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:606][401]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:613][402]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:614][402]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:623][403]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:633][404]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:642][405]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:642][405]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:642][405]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:650][406]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:650][406]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:659][407]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:670][408]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:678][409]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:678][409]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:678][409]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:687][410]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:687][410]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:695][411]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:706][412]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:714][413]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:714][413]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:715][413]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:722][414]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:723][414]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:731][415]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:742][416]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:750][417]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:750][417]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:751][417]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:758][418]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:759][418]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:767][419]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:778][420]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:786][421]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:787][421]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:787][421]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:795][422]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:795][422]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:803][423]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:815][424]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:823][425]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:823][425]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:823][425]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:831][426]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:832][426]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:840][427]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:851][428]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:859][429]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:860][429]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:860][429]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:868][430]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:868][430]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:876][431]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:888][432]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:896][433]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:896][433]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:896][433]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:904][434]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:904][434]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:912][435]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:924][436]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:932][437]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:932][437]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:932][437]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:940][438]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:941][438]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:949][439]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:960][440]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:968][441]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:968][441]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:969][441]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:976][442]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:977][442]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:985][443]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.34:996][444]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:004][445]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:005][445]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:005][445]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:013][446]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:013][446]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:021][447]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:033][448]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:041][449]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:041][449]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:041][449]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:049][450]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:049][450]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:058][451]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:069][452]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:077][453]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:077][453]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:078][453]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:085][454]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:086][454]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:094][455]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:105][456]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:113][457]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:113][457]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:114][457]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:121][458]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:122][458]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:130][459]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:141][460]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:150][461]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:150][461]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:150][461]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:159][462]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:159][462]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:167][463]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:178][464]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:186][465]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:187][465]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:187][465]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:195][466]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:195][466]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:206][467]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:235][468]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:248][469]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:248][469]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:248][469]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:256][470]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:256][470]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:264][471]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:273][472]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:281][473]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:281][473]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:282][473]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:289][474]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:289][474]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:298][475]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:306][476]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:314][477]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:315][477]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:315][477]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:323][478]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:323][478]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:331][479]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:339][480]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:348][481]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:348][481]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:348][481]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:356][482]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:356][482]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:364][483]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:373][484]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:381][485]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:381][485]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:381][485]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:389][486]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:390][486]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:398][487]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:406][488]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:414][489]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:415][489]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:415][489]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:423][490]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:423][490]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:431][491]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:439][492]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:448][493]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:448][493]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:448][493]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:456][494]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:456][494]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:464][495]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:898][547]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:906][548]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:907][548]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:907][548]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:915][549]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:915][549]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:924][550]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:933][551]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:943][552]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:943][552]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:943][552]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:953][553]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:953][553]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:962][554]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:974][555]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:995][556]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:995][556]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.35:996][556]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:005][557]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:006][557]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:016][558]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:025][559]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:034][560]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:035][560]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:035][560]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:044][561]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:044][561]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:053][562]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:062][563]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:070][564]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:070][564]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:070][564]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:078][565]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:078][565]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:086][566]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:095][567]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:103][568]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:103][568]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:104][568]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:111][569]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:112][569]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:120][570]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:128][571]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:137][572]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:137][572]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:137][572]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:145][573]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:145][573]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:153][574]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:162][575]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:170][576]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:170][576]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:170][576]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:178][577]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:179][577]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:187][578]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:195][579]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:203][580]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:204][580]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:204][580]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:212][581]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:212][581]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:221][582]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:230][583]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:250][584]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:250][584]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:251][584]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:262][585]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:263][585]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:307][586]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:316][587]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:326][588]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:326][588]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:326][588]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:335][589]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:336][589]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:345][590]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:354][591]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:363][592]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:364][592]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:364][592]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:372][593]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:373][593]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:381][594]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:389][595]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:397][596]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:398][596]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:398][596]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:406][597]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:406][597]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:414][598]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:423][599]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:431][600]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:431][600]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:431][600]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:439][601]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:440][601]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:448][602]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:456][603]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:464][604]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:465][604]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:465][604]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:472][605]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:473][605]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:481][606]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:489][607]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:497][608]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:498][608]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:498][608]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:506][609]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:506][609]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:514][610]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:523][611]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:531][612]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:531][612]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:531][612]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:547][613]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:548][613]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:556][614]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:564][615]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:572][616]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:573][616]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:573][616]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:581][617]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:581][617]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:589][618]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:598][619]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:606][620]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:606][620]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:606][620]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:614][621]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:614][621]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:622][622]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:631][623]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:639][624]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:640][624]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:640][624]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:649][625]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:649][625]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:658][626]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:689][627]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:697][628]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:697][628]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:697][628]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:705][629]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:705][629]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:713][630]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:722][631]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:730][632]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:730][632]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:731][632]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:738][633]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:739][633]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:747][634]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:755][635]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:763][636]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:764][636]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:764][636]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:772][637]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:772][637]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:780][638]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:789][639]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:797][640]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:797][640]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:797][640]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:805][641]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:805][641]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:813][642]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:822][643]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:830][644]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:830][644]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:831][644]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:838][645]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:839][645]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:847][646]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:855][647]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:863][648]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:864][648]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:864][648]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:872][649]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:872][649]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:880][650]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:889][651]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:897][652]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:897][652]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:897][652]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:905][653]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:906][653]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:913][654]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:922][655]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:930][656]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:930][656]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:931][656]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:938][657]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:939][657]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:947][658]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:955][659]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:963][660]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:964][660]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:964][660]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:972][661]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:972][661]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:980][662]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:989][663]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:997][664]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:997][664]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.36:997][664]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:005][665]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:006][665]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:014][666]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:025][667]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:033][668]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:033][668]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:033][668]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:041][669]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:042][669]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:050][670]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:061][671]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:069][672]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:069][672]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:069][672]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:077][673]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:077][673]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:086][674]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:097][675]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:105][676]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:106][676]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:106][676]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:114][677]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:114][677]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:123][678]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:133][679]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:141][680]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:142][680]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:142][680]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:150][681]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:150][681]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:159][682]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:170][683]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:178][684]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:178][684]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:178][684]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:186][685]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:187][685]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:196][686]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:208][687]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:238][688]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:238][688]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:238][688]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:246][689]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:246][689]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:254][690]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:263][691]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:271][692]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:271][692]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:272][692]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:279][693]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:280][693]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:288][694]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:296][695]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:304][696]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:305][696]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:305][696]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:313][697]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:313][697]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:321][698]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:330][699]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:338][700]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:338][700]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:338][700]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:346][701]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:346][701]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:354][702]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:363][703]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:371][704]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:371][704]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:372][704]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:379][705]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:380][705]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:388][706]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:396][707]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:404][708]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:405][708]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:405][708]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:413][709]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:413][709]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:421][710]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:430][711]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:438][712]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:438][712]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:438][712]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:446][713]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:446][713]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:454][714]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:497][719]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:507][720]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:507][720]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:508][720]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:517][721]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:517][721]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:529][722]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:540][723]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:555][724]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:555][724]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:555][724]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:565][725]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:565][725]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:575][726]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:584][727]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:595][728]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:596][728]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:596][728]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:605][729]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:606][729]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:615][730]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:624][731]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:636][732]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:637][732]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:637][732]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:646][733]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:646][733]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:656][734]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:665][735]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:677][736]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:677][736]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:678][736]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:686][737]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:686][737]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:696][738]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:705][739]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:717][740]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:717][740]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:717][740]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:727][741]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:727][741]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:737][742]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:746][743]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:758][744]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:759][744]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:759][744]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:768][745]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:769][745]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:778][746]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:790][747]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:829][748]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:829][748]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:829][748]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:839][749]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:839][749]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:848][750]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:857][751]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:866][752]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:867][752]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:867][752]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:876][753]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:876][753]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:885][754]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:894][755]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:904][756]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:904][756]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:904][756]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:913][757]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:914][757]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:923][758]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:932][759]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:943][760]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:944][760]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:944][760]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:953][761]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:953][761]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:962][762]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:972][763]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:983][764]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:984][764]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:984][764]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:993][765]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.37:993][765]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:002][766]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:013][767]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:024][768]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:025][768]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:025][768]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:033][769]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:033][769]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:041][770]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:054][771]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:065][772]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:066][772]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:066][772]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:074][773]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:075][773]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:083][774]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:094][775]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:106][776]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:106][776]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:107][776]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:115][777]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:115][777]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:123][778]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:135][779]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:150][780]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:150][780]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:151][780]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:160][781]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:160][781]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:169][782]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:179][783]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:191][784]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:192][784]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:192][784]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:201][785]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:202][785]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:211][786]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:220][787]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:232][788]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:233][788]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:233][788]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:242][789]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:242][789]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:251][790]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:263][791]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:271][792]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:271][792]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:271][792]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:279][793]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:279][793]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:287][794]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:296][795]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:304][796]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:305][796]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:305][796]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:315][797]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:315][797]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:324][798]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:339][799]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:350][800]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:351][800]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:351][800]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:360][801]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:360][801]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:369][802]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:379][803]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:391][804]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:392][804]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:392][804]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:400][805]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:401][805]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:409][806]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:420][807]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:432][808]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:432][808]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:432][808]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:440][809]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:441][809]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:449][810]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:461][811]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:472][812]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:473][812]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:473][812]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:481][813]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:481][813]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:489][814]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:498][815]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:506][816]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:506][816]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:506][816]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:514][817]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:515][817]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:526][818]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:534][819]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:542][820]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:543][820]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:543][820]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:552][821]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:552][821]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:562][822]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:575][823]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:588][824]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:588][824]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:588][824]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:596][825]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:597][825]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:605][826]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:617][827]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:628][828]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:628][828]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:628][828]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:637][829]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:637][829]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:646][830]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:657][831]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:669][832]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:669][832]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:669][832]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:679][833]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:680][833]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:690][834]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:700][835]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:710][836]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:710][836]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:710][836]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:718][837]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:719][837]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:727][838]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:739][839]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:751][840]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:751][840]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:751][840]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:760][841]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:760][841]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:769][842]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:779][843]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:792][844]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:792][844]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:792][844]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:800][845]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:801][845]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:809][846]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:821][847]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:833][848]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:833][848]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:833][848]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:842][849]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:842][849]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:851][850]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:862][851]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:873][852]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:873][852]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:874][852]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:882][853]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:882][853]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:891][854]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:902][855]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:914][856]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:914][856]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:915][856]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:923][857]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:923][857]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:932][858]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:943][859]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:955][860]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:955][860]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:955][860]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:963][861]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:964][861]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:973][862]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:984][863]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:998][864]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:998][864]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.38:999][864]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:015][865]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:015][865]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:034][866]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:043][867]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:053][868]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:053][868]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:054][868]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:063][869]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:063][869]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:073][870]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:083][871]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:092][872]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:092][872]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:092][872]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:103][873]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:103][873]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:113][874]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:122][875]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:132][876]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:132][876]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:132][876]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:141][877]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:142][877]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:151][878]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:161][879]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:173][880]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:173][880]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:173][880]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:182][881]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:183][881]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:192][882]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:202][883]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:214][884]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:214][884]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:214][884]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:224][885]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:224][885]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:232][886]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:240][887]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:249][888]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:249][888]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:249][888]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:257][889]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:257][889]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:265][890]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:274][891]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:282][892]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:282][892]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:282][892]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:290][893]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:290][893]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:299][894]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:307][895]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:384][904]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:384][904]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:384][904]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:393][905]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:393][905]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:403][906]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:411][907]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:420][908]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:420][908]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:420][908]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:428][909]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:428][909]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.39:684][910]LogAnimation:Warning: ANT_CHAR_Root : Hierarchy does not match.
+[2017.04.27-23.35.40:982][910]LogAnimation:Warning: RESAVE ANIMATION NEEDED(ANT_RUN_Anim): Fixing track data.
+[2017.04.27-23.35.40:982][910]LoadErrors:Warning: Warning The Animation  ANT_RUN_Anim needs resave.
+[2017.04.27-23.35.40:994][910]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Ant/ANT_RUN_Anim.ANT_RUN_Anim
+[2017.04.27-23.35.40:997][910]LogAnimation:Warning: RESAVE ANIMATION NEEDED(ANT_FALL_Anim): Fixing track data.
+[2017.04.27-23.35.40:997][910]LoadErrors:Warning: Warning The Animation  ANT_FALL_Anim needs resave.
+[2017.04.27-23.35.41:009][910]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Ant/ANT_FALL_Anim.ANT_FALL_Anim
+[2017.04.27-23.35.41:012][910]LogAnimation:Warning: RESAVE ANIMATION NEEDED(ANT_JUMP_Anim): Fixing track data.
+[2017.04.27-23.35.41:012][910]LoadErrors:Warning: Warning The Animation  ANT_JUMP_Anim needs resave.
+[2017.04.27-23.35.41:024][910]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Ant/ANT_JUMP_Anim.ANT_JUMP_Anim
+[2017.04.27-23.35.41:026][910]LogAnimation:Warning: RESAVE ANIMATION NEEDED(ANT_LANDING_Anim): Fixing track data.
+[2017.04.27-23.35.41:026][910]LoadErrors:Warning: Warning The Animation  ANT_LANDING_Anim needs resave.
+[2017.04.27-23.35.41:038][910]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Ant/ANT_LANDING_Anim.ANT_LANDING_Anim
+[2017.04.27-23.35.41:041][910]LogAnimation:Warning: RESAVE ANIMATION NEEDED(ANT_IDLE_Anim): Fixing track data.
+[2017.04.27-23.35.41:041][910]LoadErrors:Warning: Warning The Animation  ANT_IDLE_Anim needs resave.
+[2017.04.27-23.35.41:051][910]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Ant/ANT_IDLE_Anim.ANT_IDLE_Anim
+[2017.04.27-23.35.41:054][910]LogAnimation:Warning: RESAVE ANIMATION NEEDED(ANT_WALK_Anim): Fixing track data.
+[2017.04.27-23.35.41:054][910]LoadErrors:Warning: Warning The Animation  ANT_WALK_Anim needs resave.
+[2017.04.27-23.35.41:064][910]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Ant/ANT_WALK_Anim.ANT_WALK_Anim
+[2017.04.27-23.35.41:124][910]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.04.27-23.35.41:306][910]LogRenderer: Reallocating scene render targets to support 1148x888 NumSamples 1 (Frame:1665).
+[2017.04.27-23.36.29:115][164]Cmd: TRANSACTION UNDO
+[2017.04.27-23.36.29:115][164]LogEditorTransaction: Undo Change material index on mesh
+[2017.04.27-23.36.29:125][164]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.04.27-23.39.17:100][ 43]LogMaterial: Missing cached shader map for material defaultMat, compiling. 
+[2017.04.27-23.39.17:276][ 43]LogMaterial: Missing cached shader map for material defaultMat, compiling. 
+[2017.04.27-23.39.17:309][ 43]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.27-23.39.17:335][ 43]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.04.27-23.42.52:846][381]Cmd: QUIT_EDITOR
+[2017.04.27-23.42.52:903][381]LogExit: Preparing to exit.
+[2017.04.27-23.42.53:231][381]LogDirectoryWatcher: A directory notification for 'C:/Users/Max/Documents/Call-Of-Bread/Call_Of_bread/Content/' was aborted.
+[2017.04.27-23.42.53:269][381]LogExit: Editor shut down
+[2017.04.27-23.42.53:269][381]LogExit: Transaction tracking system shut down
+[2017.04.27-23.42.53:343][381]LogObj: Freed 0b from 0 cluster array pools.
+[2017.04.27-23.42.53:344][381]LogExit: Object subsystem successfully closed.
+[2017.04.27-23.42.53:363][381]LogD3D11RHI: Shutdown
+[2017.04.27-23.42.53:363][381]LogD3D11RHI: CleanupD3DDevice
+[2017.04.27-23.42.53:405][381]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.04.27-23.42.53:433][381]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.04.27-23.42.53:433][381]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2F213780-4C1F-1B27-86C9-E1B3B27A9FC6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=1225e89048de4f98aaa708bd9e59bb5a%7Ccea67678c7e74640b63ec889f2c32c96%7C863bea68-1497-40a4-8440-6b8558e98a1e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.04.27-23.42.53:451][381]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2017.04.27-23.42.53:451][381]LogModuleManager: Shutting down and abandoning module SkeletonEditor (244)
+[2017.04.27-23.42.53:451][381]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (243)
+[2017.04.27-23.42.53:451][381]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (242)
+[2017.04.27-23.42.53:451][381]LogModuleManager: Shutting down and abandoning module CrashTracker (241)
+[2017.04.27-23.42.53:451][381]LogModuleManager: Shutting down and abandoning module SceneOutliner (240)
+[2017.04.27-23.42.53:451][381]LogModuleManager: Shutting down and abandoning module WidgetCarousel (239)
+[2017.04.27-23.42.53:451][381]LogModuleManager: Shutting down and abandoning module AddContentDialog (238)
+[2017.04.27-23.42.53:451][381]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module GameplayTags (237)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module EditorWidgets (236)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module CollectionManager (235)
+[2017.04.27-23.42.53:452][381]LogDirectoryWatcher: A directory notification for 'C:/Users/Max/Documents/Call-Of-Bread/Call_Of_bread/Content/Collections/' was aborted.
+[2017.04.27-23.42.53:452][381]LogDirectoryWatcher: A directory notification for 'C:/Users/Max/Documents/Call-Of-Bread/Call_Of_bread/Content/Developers/Max/Collections/' was aborted.
+[2017.04.27-23.42.53:452][381]LogDirectoryWatcher: A directory notification for 'C:/Users/Max/Documents/Call-Of-Bread/Call_Of_bread/Saved/Collections/' was aborted.
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module StatsViewer (234)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module FoliageEdit (233)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module LandscapeEditor (232)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (231)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module ActorPickerMode (230)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module GeometryMode (229)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module TextureAlignMode (228)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module BspMode (227)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module HardwareSurvey (226)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (225)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module AutomationWorker (224)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (223)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module PlacementMode (222)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (221)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (220)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (219)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (218)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (217)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module Media (216)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (215)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (214)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module CharacterAI (213)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module SequenceRecorder (212)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module AudioCapture (211)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module SmartSnapping (210)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module SessionServices (209)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module ViewportSnapping (208)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module ViewportInteraction (207)
+[2017.04.27-23.42.53:452][381]LogModuleManager: Shutting down and abandoning module LogVisualizer (206)
+[2017.04.27-23.42.53:453][381]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (205)
+[2017.04.27-23.42.53:453][381]LogModuleManager: Shutting down and abandoning module IntroTutorials (204)
+[2017.04.27-23.42.53:453][381]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (203)
+[2017.04.27-23.42.53:453][381]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (202)
+[2017.04.27-23.42.53:453][381]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (201)
+[2017.04.27-23.42.53:453][381]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (200)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (199)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (198)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (197)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module InputBindingEditor (196)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module NiagaraEditor (195)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module MergeActors (194)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module SizeMap (193)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module TreeMap (192)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module ReferenceViewer (191)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module LocalizationService (190)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (189)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module HardwareTargeting (188)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (187)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module UndoHistory (186)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module UserFeedback (185)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module XmlParser (184)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module Blutility (183)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (182)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (181)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (180)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module SettingsEditor (179)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module ProjectLauncher (178)
+[2017.04.27-23.42.53:980][381]LogModuleManager: Shutting down and abandoning module SessionFrontend (177)
+[2017.04.27-23.42.53:981][381]LogModuleManager: Shutting down and abandoning module ProfilerClient (176)
+[2017.04.27-23.42.53:981][381]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (175)
+[2017.04.27-23.42.53:981][381]LogModuleManager: Shutting down and abandoning module DeviceManager (174)
+[2017.04.27-23.42.54:021][381]LogModuleManager: Shutting down and abandoning module AutomationController (173)
+[2017.04.27-23.42.54:021][381]LogModuleManager: Shutting down and abandoning module AutomationWindow (172)
+[2017.04.27-23.42.54:021][381]LogModuleManager: Shutting down and abandoning module Layers (171)
+[2017.04.27-23.42.54:021][381]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (170)
+[2017.04.27-23.42.54:021][381]LogModuleManager: Shutting down and abandoning module DetailCustomizations (169)
+[2017.04.27-23.42.54:021][381]LogModuleManager: Shutting down and abandoning module PackagesDialog (168)
+[2017.04.27-23.42.54:021][381]LogModuleManager: Shutting down and abandoning module AnimGraph (167)
+[2017.04.27-23.42.54:021][381]LogModuleManager: Shutting down and abandoning module Persona (166)
+[2017.04.27-23.42.54:021][381]LogModuleManager: Shutting down and abandoning module Kismet (165)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module GraphEditor (164)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module ClassViewer (163)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module Toolbox (162)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module ModuleUI (161)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module MovieSceneTools (160)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module OutputLog (159)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module GammaUI (158)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module Documentation (157)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module Niagara (156)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (155)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module AnalyticsET (154)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module PortalServices (153)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module PortalRpc (152)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module MessagingRpc (151)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module GameplayDebugger (150)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module AITestSuite (149)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module AIModule (148)
+[2017.04.27-23.42.54:023][381]LogModuleManager: Shutting down and abandoning module ProfilerService (147)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module TaskGraph (146)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module SlateRemote (145)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module SteamVRController (144)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module SteamVR (143)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (142)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (141)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module OculusLibrary (140)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module OculusInput (139)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (138)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (137)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module CableComponent (136)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (135)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (134)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module HTML5Networking (133)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (132)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module GeometryCache (131)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module AlembicLibrary (130)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module AlembicImporter (129)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module SuperSearch (128)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (127)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (126)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module PluginBrowser (125)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (124)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module EpicSurvey (123)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module DesktopPlatform (122)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (121)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module UObjectPlugin (120)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (119)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (118)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module SourceControl (117)
+[2017.04.27-23.42.54:026][381]LogModuleManager: Shutting down and abandoning module GitSourceControl (116)
+[2017.04.27-23.42.54:027][381]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (115)
+[2017.04.27-23.42.54:027][381]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (114)
+[2017.04.27-23.42.54:027][381]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (113)
+[2017.04.27-23.42.54:027][381]LogModuleManager: Shutting down and abandoning module MeshPaint (112)
+[2017.04.27-23.42.54:027][381]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (111)
+[2017.04.27-23.42.54:027][381]LogModuleManager: Shutting down and abandoning module HotReload (110)
+[2017.04.27-23.42.54:027][381]LogModuleManager: Shutting down and abandoning module MainFrame (109)
+[2017.04.27-23.42.54:027][381]LogModuleManager: Shutting down and abandoning module LevelEditor (108)
+[2017.04.27-23.42.54:028][381]LogModuleManager: Shutting down and abandoning module ContentBrowser (107)
+[2017.04.27-23.42.54:029][381]LogModuleManager: Shutting down and abandoning module Paper2DEditor (106)
+[2017.04.27-23.42.54:029][381]LogModuleManager: Shutting down and abandoning module UdpMessaging (105)
+[2017.04.27-23.42.54:129][381]LogModuleManager: Shutting down and abandoning module TcpMessaging (104)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (103)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module Paper2D (102)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (101)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module WmfMedia (100)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module MediaAssets (99)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (98)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (97)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module VREditor (96)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (95)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (94)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module FunctionalTesting (93)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (92)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module Sequencer (91)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (90)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module MessageLog (89)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module AssetTools (88)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module UMGEditor (87)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module UMG (86)
+[2017.04.27-23.42.54:229][381]LogModuleManager: Shutting down and abandoning module SlateReflector (85)
+[2017.04.27-23.42.54:230][381]LogModuleManager: Shutting down and abandoning module Slate (84)
+[2017.04.27-23.42.54:230][381]LogModuleManager: Shutting down and abandoning module EditorStyle (83)
+[2017.04.27-23.42.54:233][381]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (82)
+[2017.04.27-23.42.54:233][381]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (81)
+[2017.04.27-23.42.54:233][381]LogModuleManager: Shutting down and abandoning module XAudio2 (80)
+[2017.04.27-23.42.54:233][381]LogModuleManager: Shutting down and abandoning module Networking (79)
+[2017.04.27-23.42.54:233][381]LogModuleManager: Shutting down and abandoning module Core (78)
+[2017.04.27-23.42.54:233][381]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (77)
+[2017.04.27-23.42.54:233][381]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.04.27-23.42.54:233][381]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Max/Documents/Call-Of-Bread/Call_Of_bread/Content/' was aborted.
+[2017.04.27-23.42.54:233][381]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.04.27-23.42.54:233][381]LogModuleManager: Shutting down and abandoning module AssetRegistry (76)
+[2017.04.27-23.42.54:422][381]LogModuleManager: Shutting down and abandoning module KismetCompiler (75)
+[2017.04.27-23.42.54:422][381]LogModuleManager: Shutting down and abandoning module PhysXFormats (74)
+[2017.04.27-23.42.54:422][381]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (73)
+[2017.04.27-23.42.54:422][381]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (72)
+[2017.04.27-23.42.54:422][381]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (71)
+[2017.04.27-23.42.54:422][381]LogModuleManager: Shutting down and abandoning module PropertyEditor (70)
+[2017.04.27-23.42.54:422][381]LogModuleManager: Shutting down and abandoning module MeshUtilities (69)
+[2017.04.27-23.42.54:422][381]LogModuleManager: Shutting down and abandoning module DerivedDataCache (68)
+[2017.04.27-23.42.54:439][381]LogDerivedDataCache: Shutdown
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (67)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (66)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (65)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (64)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (63)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (62)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (61)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (60)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module ImageWrapper (59)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (58)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (57)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (56)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (55)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (54)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (53)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (52)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (51)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (50)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (49)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module Messaging (48)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (47)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (46)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (45)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (44)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (43)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (42)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (41)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (40)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (39)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (38)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (37)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (36)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (35)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (34)
+[2017.04.27-23.42.54:439][381]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (33)
+[2017.04.27-23.42.54:440][381]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (32)
+[2017.04.27-23.42.54:440][381]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (31)
+[2017.04.27-23.42.54:440][381]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (30)
+[2017.04.27-23.42.54:440][381]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (29)
+[2017.04.27-23.42.54:440][381]LogModuleManager: Shutting down and abandoning module TargetPlatform (28)
+[2017.04.27-23.42.54:440][381]LogModuleManager: Shutting down and abandoning module InputCore (27)
+[2017.04.27-23.42.54:440][381]LogModuleManager: Shutting down and abandoning module Settings (26)
+[2017.04.27-23.42.54:440][381]LogModuleManager: Shutting down and abandoning module OculusRift (25)
+[2017.04.27-23.42.54:440][381]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (24)
+[2017.04.27-23.42.54:440][381]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (23)
+[2017.04.27-23.42.54:440][381]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.04.27-23.42.54:440][381]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.04.27-23.42.54:440][381]LogOnline:Display: Unloading online subsystem: NULL
+[2017.04.27-23.42.54:440][381]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.04.27-23.42.54:441][381]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.04.27-23.42.54:441][381]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.04.27-23.42.54:441][381]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.04.27-23.42.54:441][381]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.04.27-23.42.54:441][381]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.04.27-23.42.54:441][381]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.04.27-23.42.54:443][381]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.04.27-23.42.54:443][381]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.04.27-23.42.54:443][381]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.04.27-23.42.54:443][381]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.04.27-23.42.54:443][381]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.04.27-23.42.54:443][381]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.04.27-23.42.54:443][381]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.04.27-23.42.54:443][381]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.04.27-23.42.54:443][381]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.04.27-23.42.54:443][381]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.04.27-23.42.54:445][381]LogExit: Exiting.
+[2017.04.27-23.42.54:446][381]Log file closed, 04/28/17 00:42:54
